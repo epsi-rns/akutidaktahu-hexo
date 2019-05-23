@@ -16,7 +16,8 @@ timezone: Asia/Jakarta
 theme: oriclone
 
 # Custom
-opengraphimage: "images/logo-gear-opengraph.png"
+#opengraphimage: "images/logo-gear-opengraph.png"
+opengraphimage: "site/images/saya-vexel.png"
 
 # Markdown
 marked:
