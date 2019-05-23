@@ -1,0 +1,13 @@
+<section class="panel is-light">
+  <div class="panel-header">
+    <p>Recent Post</p>
+    <span class="fa fa-newspaper"></span>
+  </div>
+  <div class="panel-body has-background-white">
+    <ul class="panel-list">
+      <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
+      <li><a href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a></li>
+      <% }) %>
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,17 @@
+<%
+  // Filtered by layout
+  // Note: pagination will not be filtered.
+  const postsLayout = page.posts.find({layout: 'post'});
+%>
+  <% page.posts.find({layout: 'post'}).each(function(post){ %>
+    <div class="archive-item">
+      <div class="is-pulled-left"><a href="<%- url_for(post.path) %>">
+        <%= post.title %>
+      </a></div>
+      <div class="is-pulled-right has-text-right"><time>
+          <%= date(post.date, "DD MMM") %>&nbsp;
+          <span class="fa fa-calendar"></span>
+      </time></div>
+      <div class="is-clearfix"></div>
+    </div>
+  <% }) %>

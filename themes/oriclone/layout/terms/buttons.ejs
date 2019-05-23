@@ -1,0 +1,17 @@
+  <div class="field is-grouped is-grouped-multiline">
+    <% terms.each(function(item){ 
+     const posts = item.posts.find({layout: 'post'});
+     if (posts.length) {
+    %>
+    <div class="tags has-addons">
+      <a href="<%- url_for(item.path) %>">
+        <div class="tag is-light"><%= item.name %>
+        </div><div class="tag is-dark"
+             ><%= posts.length %></div>
+      </a>
+    </div>
+    &nbsp;
+    <% }}) %>
+    <div class="tags dummy"></div>
+  </div>
+

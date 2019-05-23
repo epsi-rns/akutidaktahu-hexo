@@ -1,0 +1,54 @@
+# Helper for related links
+
+# just copy the result manually
+# from _site/pages/all_posts.yml 
+# to folder _data/all_posts.yml
+
+- title: "Teknik Nih (search engine)"
+  url: http://tekniknih.com/
+
+- title: "BanditHijo (R)-Chive"
+  url: http://bandithijo.com/
+
+- title: "Sira Argia (Aflasio)"
+  url: https://aflasio.netlify.com/
+
+- title: "Michael Dion"
+  url: https://www.digimoclub.com
+
+- title: "Rania Amina"
+  url: https://raniaamina.id/
+
+- title: "Nanda 'Yunee' Okitavera"
+  url: https://okitavera.me/
+
+- title: "Adhi Pambudi"
+  url: https://addy-dclxvi.github.io/
+
+- title: "Yunindyo Prabowo @ gitlab.io"
+  url: http://ypraw.gitlab.io
+
+- title: "Habib Mustofa"
+  url: https://mustofa.id/
+
+- title: "Muktazam Hasbi"
+  url: https://chamelemon.site
+
+- title: "Doddy Rizal Novianto"
+  url: https://drzaln.github.io/
+  
+- title: "Arivle"
+  url: http://arivle.github.io
+
+- title: "epsi @ github.io (desktop)"
+  url: http://epsi-rns.github.io/
+
+- title: "A Sky"
+  url: https://asky-el.gitlab.io
+
+- title: "Karen"
+  url: http://maidgirl21.github.io
+
+- title: "GIMPScape ID"
+  url: https://gimpscape.org/
+

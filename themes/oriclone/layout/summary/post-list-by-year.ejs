@@ -1,0 +1,46 @@
+<%
+  // Data Model
+
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+  
+  function groupBy(objectArray, property) {
+    return objectArray.reduce(function (acc, obj) {
+      var key = obj[property];
+      if (!acc[key]) {
+        acc[key] = [];
+      }
+      acc[key].push(obj);
+      return acc;
+    }, {});
+  }
+
+  // Filtered by layout
+  // Note: pagination will not be filtered.
+  const postsLayout = page.posts.find({layout: 'post'});
+
+  // Grouped by date  
+  const postsMapped = postsLayout.map(post => ({ 
+    ...post, year: date(post.date, "YYYY")
+  }));
+
+  const postsByYear = groupBy(postsMapped, 'year');
+_%>
+  <% Object.keys(postsByYear).sort(date, -1).forEach(function (year){ %>
+    <div class ="anchor-target archive-year" 
+         id="<%= year %>"><%= year %></div>
+
+    <div class="archive-list archive-p3">
+      <% postsByYear[year].forEach(function(post){ %>
+      <div class="archive-item">
+        <div class="is-pulled-left"><a href="<%- url_for(post.path) %>">
+          <%= post.title %>
+        </a></div>
+        <div class="is-pulled-right has-text-right"><time>
+            <%= date(post.date, "DD MMM") %>&nbsp;
+            <span class="fas fa-calendar"></span>
+        </time></div>
+        <div class="is-clearfix"></div>
+      </div>
+      <% }) %>
+    </div>
+  <% }) %>

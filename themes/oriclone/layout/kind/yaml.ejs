@@ -1,0 +1,20 @@
+<main role="main" 
+     class="column is-full blog-column box-deco has-background-white">
+  <article class="blog-post">
+    <h1 class="title is-4"><%= config.author %></h1>
+    <h2 class="subtitle is-4"><%= config.subtitle %></h2>
+
+<pre>
+# Helper for related links
+# <%= page.title %>
+
+<% site.posts.each(function(post){ %>
+- id: <%= date(post.date, "YYMMDDmm") %>
+  title: "<%= post.title %>"
+  url: <%= post.path %>
+<% }) %>
+</pre>
+
+  </article>
+</main>
+

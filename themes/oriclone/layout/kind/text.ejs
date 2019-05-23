@@ -1,0 +1,10 @@
+# Helper for related links
+# <%= page.title %>
+
+<% site.posts.each(function(post){ %>
+- id: <%= date(post.date, "YYMMDDmm") %>
+  title: "<%= post.title %>"
+  url: <%= post.path %>
+<% }) %>
+
+

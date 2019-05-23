@@ -1,0 +1,44 @@
+<%
+  var title = page.title;
+
+  if (is_archive()){
+    title = __('archive');
+
+    if (is_month()){
+      title += ': ' + page.year + '/' + page.month;
+    } else if (is_year()){
+      title += ': ' + page.year;
+    }
+  } else if (is_category()){
+    title = __('category') + ': ' + page.category;
+  } else if (is_tag()){
+    title = __('tag') + ': ' + page.tag;
+  }
+_%>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+
+  <%/* Let's Fake the Generator */%>
+  <meta name="generator" content="Karimata 1.2.3 Media Engine" />
+
+  <title><%= title || config.title%></title>
+
+  <% if (theme.favicon){ %>
+     <link href="<%- theme.favicon %>" rel="shortcut icon" type="image/x-icon" />
+  <% } %>
+
+  <%- css(['/css/bulma.css', '/css/fontawesome.css', '/css/main.css']) %>
+  
+  <%/* Chrome, Firefox OS and Opera */%>
+  <meta name="theme-color" content="#2980b9">
+
+  <%- partial('meta/opengraph', {title: title}) %>
+  <%- partial('meta/twitter', {title: title}) %>
+
+  <%/* unused */%>
+</head>

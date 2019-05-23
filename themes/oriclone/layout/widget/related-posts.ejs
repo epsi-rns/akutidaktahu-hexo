@@ -1,0 +1,23 @@
+<% if (page.related_link_ids) { %>
+<section class="panel is-light">
+  <div class="panel-header">
+    <p>Related Posts</p>
+    <span class="fa fa-link"></span>
+  </div>
+  <div class="panel-body has-background-white">
+    <ul class="panel-list">
+      <% page.related_link_ids.forEach(function (id){ %>
+      <li>
+        <% site.data.archives.forEach(function(archive){ %>
+
+          <% if (archive.id == id) { %>
+          <a href="<%= url_for(archive.url) %>"><%= archive.title %></a>
+          <% } %>
+
+        <% }) %>
+      </li>
+      <% }) %>
+    </ul>
+  </div>
+</section>
+<% } %>

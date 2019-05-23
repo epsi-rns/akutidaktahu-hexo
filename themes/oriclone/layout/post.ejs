@@ -1,0 +1,29 @@
+  <main role="main" 
+        class="column is-two-thirds blog-column box-deco has-background-white">
+    <div class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+      <%- partial('post/header') %>
+
+      <article class="main-content" itemprop="articleBody">
+        <% if (page.toc) {%>
+          <%- partial(page.toc) %>
+        <% } %>
+        
+        <%- partial('service/google-adsense') %>
+
+        <%- page.content %>
+      </article>
+
+      <br/>
+      <%- partial('post/navigation') %>
+    </div>
+
+    <%- partial('post/footer') %>
+    <%- partial('service/disqus-comments') %>
+  </main>
+
+  <aside class="sidebar column is-one-thirds is-paddingless">
+    <%- partial('widget/related-posts') %>
+    <%- partial('widget/tags', {view_tag_type: 'before'}) %>
+    <%- partial('widget/categories') %>
+    <%- partial('widget/archives-grouped') %>
+  </aside>

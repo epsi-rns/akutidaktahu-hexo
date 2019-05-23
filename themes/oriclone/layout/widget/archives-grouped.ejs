@@ -1,0 +1,75 @@
+<%
+  // Data Model
+
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+  
+  function groupBy(objectArray, property) {
+    return objectArray.reduce(function (acc, obj) {
+      var key = obj[property];
+      if (!acc[key]) {
+        acc[key] = [];
+      }
+      acc[key].push(obj);
+      return acc;
+    }, {});
+  }
+
+  // grouping by date
+
+  const posts = site.posts.map(post => ({ 
+    ...post,
+    year: date(post.date, "YYYY"),
+    month: date(post.date, "MMMM")
+  }));
+
+  const postsByYear = groupBy(posts, 'year');
+  
+  // additional
+  
+  const pageYear  = date(page.date, 'YYYY');
+  const pageMonth = date(page.date, 'MMMM');
+_%>
+<section class="panel is-light">
+  <div class="panel-header">
+    <p>Archives</p>
+    <span class="fa fa-archive"></span>
+  </div>
+  <div class="panel-body has-background-white">
+  <% Object.keys(postsByYear).sort(date, -1).forEach(function (year){ %>
+    <div class ="archive-year" id="<%= year %>">
+      <a href="<%- url_for("/archives/") %>#<%= year %>">
+      <%= year %></a>
+    </div>
+    
+    <% if (year == pageYear) {%>
+    <ul class="panel-archive">
+    <%
+      const postsByMonth = groupBy(postsByYear[year], 'month');
+      Object.keys(postsByMonth).forEach(function (month){
+    %>
+      <li class="list-month">
+        
+        <span id="<%= year %>-<%= month %>">
+              <a href="<%- url_for("/archives/") %>#<%= year %>-<%= month %>">
+              <%= month %></a> - <%= year %></span>
+
+        <% if (month == pageMonth) {%>
+          <ul class="panel-list">
+          <% postsByMonth[month].forEach(function(post){ %>
+
+          <li>
+            <a href="<%- url_for(post.path) %>">
+              <%= post.title %>
+            </a>
+          </li>
+          <% }) %>
+          </ul>
+        <% } %>
+
+      </li>
+      <% }) %>
+    </ul>
+    <% } %>
+  <% }) %>
+  </div>
+</section>

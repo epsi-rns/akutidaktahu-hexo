@@ -1,0 +1,33 @@
+<main role="main" 
+      class="column is-full box-deco has-background-white">
+  <section class="section">
+    <h1 class="title is-4"><%= config.author %></h1>
+    <h2 class="subtitle is-4"><%= config.subtitle %></h2>
+  </section>
+
+  <section class="section">
+    <%- partial('pagination/06-screenreader') %>
+  </section>
+  
+  <br/>
+
+  <div class="post-list">
+  <% page.posts.each(function(post){ %>
+    <section class="section" id="archive">
+      <%- partial('summary/blog-item', {post: post}) %>
+    </section>
+  <% }) %>
+  </div>
+
+</main>
+
+<%/* 
+* pagination choices:
+
+        partial('pagination/01-simple')
+        partial('pagination/02-number')
+        partial('pagination/03-adjacent')
+        partial('pagination/04-indicator')
+        partial('pagination/05-responsive')
+        partial('pagination/06-screenreader')
+*/%>

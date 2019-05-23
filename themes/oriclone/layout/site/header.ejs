@@ -1,0 +1,67 @@
+<nav role="navigation" aria-label="main navigation"
+     class="navbar is-fixed-top is-white maxwidth header-deco"
+     id="navbar-vue-app">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="<%- url_for("/") %>">
+       <%- image_tag("/images/logo-gear.png", {alt: "Home"}) %>
+    </a>
+    <a class="navbar-item" href="<%- url_for("/blog") %>">
+      Blog
+    </a>
+    
+    <a role="button" class="navbar-burger burger" 
+       aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+       @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBulma" class="navbar-menu"
+       v-bind:class="{'is-active': isOpen}">
+    <div class="navbar-start">
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item"
+             href="<%- url_for("/tags.html") %>">
+            By Tags
+          </a>
+          <a class="navbar-item"
+            href="<%- url_for("/categories.html") %>">
+            By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item"
+            href="<%- url_for("/archives/") %>">
+            By Date
+          </a>
+        </div>
+      </div>
+
+      <a class="navbar-item"
+         href="<%- url_for("/about/longing.html") %>">
+        About
+      </a>
+    </div>
+
+    <div class="navbar-end">
+      <form class="is-marginless" method="get"
+            action="<%- url_for("/pages/search/") %>">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+      </form>
+    </div>
+
+  </div>
+</nav>
+

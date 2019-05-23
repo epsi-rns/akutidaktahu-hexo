@@ -1,0 +1,13 @@
+<section class="panel is-light">
+  <div class="panel-header">
+    <p>Categories</p>
+    <span class="fa fa-tag"></span>
+  </div>
+  <div class="panel-body has-background-white">
+    <% site.categories.forEach(function(cat){ %>
+      <a class="tag is-small is-info" href="<%- url_for(cat.path) %>">
+        <%= cat.name %>&nbsp;<span class="fa fa-folder"></span>
+      </a>&nbsp;
+    <% }) %>
+  </div>
+</section>

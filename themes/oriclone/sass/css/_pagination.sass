@@ -1,0 +1,59 @@
++tablet
+  li.blog-previous a:after
+    content: " previous"
+  li.blog-next a:before
+    content: "next "
+
+// Breakpoint
+
+$xs1: 0
+$xs2: 320px
+$xs3: 400px
+$xs4: 480px
+$sm1: 576px
+$sm2: 600px
+$md:  768px
+$lg:  992px
+$xl:  1200px
+
+// Responsiveness
+
+ul.pagination-list
+  li.first,
+  li.last,
+  li.pages-indicator
+    display: none
+  li.pagination--offset-1,
+  li.pagination--offset-2,
+  li.pagination--offset-3,
+  li.pagination--offset-4,
+  li.pagination--offset-5,
+  li.pagination--offset-6,
+  li.pagination--offset-7
+    display: none
+  +from($xs1)
+  +from($xs2)
+    li.pages-indicator
+      display: inline-block
+  +from($xs3)
+    li.pagination--offset-1
+      display: inline-block
+  +from($xs4)
+    li.pagination--offset-2
+      display: inline-block
+  +from($sm1)
+    li.first,
+    li.last,
+    li.pagination--offset-3
+      display: inline-block
+  +from($sm2)
+    li.pagination--offset-4
+      display: inline-block
+  +from($md)
+    li.pagination--offset-5,
+    li.pagination--offset-6
+      display: inline-block
+  +from($lg)
+    li.pagination--offset-7
+      display: inline-block
+  +from($xl)

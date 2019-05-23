@@ -1,0 +1,25 @@
+<!-- view_tag_type : 'before' or 'after' -->
+
+<section class="panel is-light">
+  <div class="panel-header">
+    <p>Tags</p>
+    <span class="fa fa-tag"></span>
+  </div>
+  <div class="panel-body has-background-white">
+    <% if (view_tag_type == 'after'){ %>
+      <% site.tags.forEach(function(tag){ %>
+        <a class="tag is-small is-light has-background-white"
+           href="<%- url_for(tag.path) %>">
+          <%= tag.name %>&nbsp;<span class="fa fa-folder"></span>
+        </a>&nbsp;
+      <% }) %>
+    <% } else { %>
+      <% site.tags.forEach(function(tag){ %>
+        <a class="tag is-small is-light has-background-white"
+           href="<%- url_for(tag.path) %>">
+          <span class="fa fa-folder"></span>&nbsp;<%= tag.name %>
+        </a>&nbsp;
+      <% }) %>
+    <% } %>
+  </div>
+</section>

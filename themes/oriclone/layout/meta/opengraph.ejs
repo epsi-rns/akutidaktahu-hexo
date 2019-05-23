@@ -1,0 +1,27 @@
+<%  
+  var ogi; 
+  if (page.opengraphimage) {
+    ogi = page.opengraphimage;
+  } else if(config.opengraphimage) {
+    ogi = config.opengraphimage;
+  } else {
+    ogi = '/images/epsi-vexel.png';
+  }
+  ogi = config.url + url_for(ogi);
+%>
+
+    <meta property="og:locale" content="<%= config.language || "en" %>">
+    <meta property="og:title" content="<%= title || config.title %>">
+<% if (is_post()) {%>
+    <meta property="og:type" content="article">
+<% } %>
+<% if (page.excerpt) {%>
+    <meta property="og:description" content="<%= page.excerpt %>">
+<% } %>
+    <meta property="og:url" content="<%= page.permalink %>">
+    <meta property="og:site_name" content="<%= config.title %>">
+    <meta property="og:image" content="<%= ogi %>">
+    <meta property="og:latitude" content="-6.193665"/>
+    <meta property="og:longitude" content="106.848558"/>
+    <meta property="og:locality" content="Jakarta"/>
+    <meta property="og:country-name" content="Indonesia"/>

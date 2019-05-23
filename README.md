@@ -1,2 +1,5 @@
-# akutidaktahu
-Aku Tidak Tahu
+# Aku Tidak Tahu
+
+Blog Pribadi, umumnya berbagi mengenai membangun UKM.
+
+

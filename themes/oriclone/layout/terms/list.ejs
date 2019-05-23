@@ -1,0 +1,19 @@
+  <section class="archive-p3" id="archive">
+  <% terms.each(function(item){ 
+     const posts = item.posts.find({layout: 'post'});
+     if (posts.length) {
+  %>
+    <div id="<%= item.name %>" class ="anchor-target">
+      <span class="fa fa-folder"></span> 
+      Tag: 
+      <a href="<%- url_for(item.path) %>">
+      <%= item.name %></a>
+    </div>
+
+    <div class="archive-list archive-p3">
+    <% posts.each(function(post){ %>
+      <%- partial('terms/post-item', {post: post}) %>
+    <% }) %>
+    </div>
+  <% }}) %>
+  </section>

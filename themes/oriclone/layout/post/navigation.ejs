@@ -1,0 +1,17 @@
+<nav class="pagination is-centered" 
+     role="navigation" aria-label="pagination">
+
+    <!-- Previous Page. -->
+    <% if (page.next) { %>
+      <a class="pagination-previous post-previous"
+         href="<%- url_for(page.next.path) %>"
+         title="<%- page.next.name %>">&laquo;&nbsp;</a>
+    <% } %>
+
+    <!-- Next Page. -->
+    <% if (page.prev) { %>
+      <a class="pagination-next post-next"
+         href="<%- url_for(page.prev.path) %>"
+         title="<%- page.prev.name %>">&nbsp;&raquo;</a>
+    <% } %>
+</nav>

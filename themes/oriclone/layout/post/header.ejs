@@ -1,0 +1,47 @@
+    <section class="box">
+      <div class="main_title"> 
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+          <a href="<%- page.path %>"><%- page.title %></a></h4>
+      </div>
+
+      <div class="is-clearfix"></div>
+      
+      <div class="field">
+        <% if (config.author){ %>
+        <div class="is-pulled-left">
+        <span class="meta_author tag is-primary is-small">
+            <span class="fa fa-user"></span>
+            &nbsp;
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name"><%- config.author %></span></span>            
+        </span>
+        &nbsp;
+        </div>
+        <% } %>
+
+        <div class="is-pulled-left">
+          <span class="meta-time tag is-light is-small">
+          <%- partial('post/time-elapsed') %>
+          </span>
+          &nbsp;
+        </div>
+
+        <div class="is-pulled-right">
+          <% page.tags.forEach(function(tag){ %>
+            <a href="<%- url_for(tag.path) %>">
+              <span class="tag is-light is-small"><span class="fa fa-tag"></span>&nbsp;<%- tag.name %></span></a>
+          <% }) %>
+          &nbsp;
+        </div>
+
+        <div class="is-pulled-right">
+          <% page.categories.forEach(function(cat){ %>
+            <a href="<%- url_for(cat.path) %>">
+              <span class="tag is-dark is-small"><span class="fa fa-folder"></span>&nbsp;<%- cat.name %></span></a>
+          <% }) %>
+          &nbsp;
+        </div>
+      </div>
+
+      <div class="is-clearfix"></div>
+    </section>

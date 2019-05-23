@@ -1,0 +1,23 @@
+<% 
+  var section_title = __('archive');
+
+  if (is_month()){
+    section_title += ': ' + page.year + '/' + page.month;
+  } else if (is_year()){
+    section_title += ': ' + page.year;
+  }
+%>
+<main role="main" 
+      class="column is-full box-deco has-background-white">
+  <section class="section">
+    <h4 class="title is-4"><%= section_title %></h4>
+  </section>
+
+  <section class="section">
+    <%- partial('pagination/06-screenreader') %>
+  </section>
+
+  <section class="section" id="archive">  
+    <%- partial('summary/post-list-by-month') %>
+  </section>
+</main>
