@@ -26,7 +26,7 @@ marked:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://akutidaktahu.neltify.com/
+url: https://akutidaktahu.netlify.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
