@@ -1,24 +1,28 @@
   <main role="main" 
-        class="column is-two-thirds blog-column box-deco has-background-white">
-    <div class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
-      <%- partial('post/header') %>
+        class="column is-two-thirds">
+  <div id="sitedesc_image"></div>
+  
+    <div class="blog-column box-deco has-background-white">
+      <div class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+        <%- partial('post/header') %>
 
-      <article class="main-content" itemprop="articleBody">
-        <% if (page.toc) {%>
-          <%- partial(page.toc) %>
-        <% } %>
-        
-        <%- partial('service/google-adsense') %>
+        <article class="main-content" itemprop="articleBody">
+          <% if (page.toc) {%>
+            <%- partial(page.toc) %>
+          <% } %>
 
-        <%- page.content %>
-      </article>
+          <%- partial('service/google-adsense') %>
 
-      <br/>
-      <%- partial('post/navigation') %>
+          <%- page.content %>
+        </article>
+
+        <br/>
+        <%- partial('post/navigation') %>
+      </div>
+
+      <%- partial('post/footer') %>
+      <%- partial('service/disqus-comments') %>
     </div>
-
-    <%- partial('post/footer') %>
-    <%- partial('service/disqus-comments') %>
   </main>
 
   <aside class="sidebar column is-one-thirds is-paddingless">
