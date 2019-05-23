@@ -1,13 +1,15 @@
 <main role="main" 
-     class="column is-full blog-column">
+     class="column is-full blog-column is-paddingless">
   <div id="sitedesc_image"></div>
 
   <div class="box-deco has-background-white has-text-centered">
     <article class="blog-post">
+      <br/>
       <h1 class="title is-4"><%= config.title %></h1>
       <h2 class="subtitle is-4"><%= config.subtitle %></h2>
     
       <%- page.content %>
+      <br/>
     </article>
   </div>
 </main>
