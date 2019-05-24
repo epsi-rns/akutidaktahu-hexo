@@ -4,7 +4,7 @@
 
 # Site
 title: Aku Tidak Tahu
-subtitle: Berkembang bersama, mulai dari kebodohan.
+subtitle: Tumbuh bersamamu, mulai dari ketidaktahuan.
 description: Too Long. Too Late. So Far Away. So Far Too Long.
 keywords: affection, crush, dream, heartbeat, pulse
 author: Mataharani
@@ -17,7 +17,7 @@ theme: oriclone
 
 # Custom
 #opengraphimage: "images/logo-gear-opengraph.png"
-opengraphimage: "site/images/saya-vexel.png"
+opengraphimage: "images/saya-vexel.png"
 
 # Markdown
 marked:

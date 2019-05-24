@@ -3,13 +3,15 @@
   <div id="sitedesc_image"></div>
 
   <div class="box-deco has-background-white has-text-centered">
-    <article class="blog-post">
-      <br/>
-      <h1 class="title is-4"><%= config.title %></h1>
-      <h2 class="subtitle is-4"><%= config.subtitle %></h2>
-    
-      <%- page.content %>
-      <br/>
+    <article class="columns is-centered blog-post">
+      <div class="column is-half">
+        <br/>
+        <h1 class="title is-4"><%= config.title %></h1>
+        <h2 class="subtitle is-4"><%= config.subtitle %></h2>
+
+        <%- page.content %>
+        <br/>
+      </div>
     </article>
   </div>
 </main>
