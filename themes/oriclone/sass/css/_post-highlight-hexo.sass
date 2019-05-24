@@ -1,0 +1,39 @@
+figure.highlight
+  table
+    max-height: 350px
+
+figure.highlight
+  table
+    span.line
+      .title, .number, .type, .string
+        font-size: unset
+        padding:   unset
+        margin:    unset
+        height:    unset
+        min-width: unset
+
+figure.highlight
+  table
+    span.line
+      .title
+        color: #1976d2 // blue 700        
+      .comment
+        color: #9e9e9e // grey 500
+        font-style: oblique
+      .number
+        color: #0097a7 // cyan 700
+        font-weight: 500
+      .type
+        color: #3f51b5 // indigo 500
+        text-decoration: underline dotted
+      .string
+        color: #004d40 // teal 900
+        font-style: italic
+        text-decoration: underline wavy
+      :hover
+        background-color: $yellow
+        box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+    tbody
+      box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+    tbody:hover
+      box-shadow: 0 1rem 3rem rgba($black, .175)

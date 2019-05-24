@@ -3,6 +3,7 @@ title     : David Gates - Lady Valentine
 date      : 2014/03/25 07:35:05
 tags      : [jazz, 80s]
 category  : [lyric]
+toc       : "toc/social-accounts"
 ---
 
 She's a real look  
