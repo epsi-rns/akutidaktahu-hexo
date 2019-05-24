@@ -17,7 +17,7 @@ theme: oriclone
 
 # Custom
 #opengraphimage: "images/logo-gear-opengraph.png"
-opengraphimage: "images/saya-vexel.png"
+opengraphimage: "images/authors/saya-vexel.png"
 
 # Markdown
 marked:
