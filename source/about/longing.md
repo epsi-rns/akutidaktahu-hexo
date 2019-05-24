@@ -2,8 +2,9 @@
 title: Longing About You
 ---
 
-  There are so many things to say,
-  to Bulma, Chici, and that Android 18.
-  Hexo don't want to live in regrets.
-  But Hexo have to go. So Hexo wrote this.
+There are so many things to say,
+to Bulma, Chici, and that Android 18.
+Hexo don't want to live in regrets.
+But Hexo have to go. So Hexo wrote this.
 
+> Motto: Kamu saja tidak tahu, apalagi aku.
