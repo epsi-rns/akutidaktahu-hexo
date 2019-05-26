@@ -57,3 +57,14 @@ ul.pagination-list
     li.pagination--offset-7
       display: inline-block
   +from($xl)
+
+// hover color
+
+ul.pagination-list li 
+  a:hover
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+    background-color: $yellow
+    color: #000
+  a.is-current:hover
+    background-color: $gray
+    color: #fff
