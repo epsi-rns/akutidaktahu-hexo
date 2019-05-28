@@ -3,7 +3,7 @@ title     : George Benson - Moody's Mood
 date      : 2018/01/15 07:35:05
 tags      : [alternative, 2000s]
 category  : [lyric]
-opengraphimage: posts/2018/kiddo-007.jpg
+opengraphimage: posts/2018/kiddo-008-s.jpg
 ---
 
 Such a funny thing but every time you're near me  
