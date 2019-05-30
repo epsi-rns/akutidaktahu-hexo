@@ -32,37 +32,49 @@
   const yearToday = date(new Date(), 'YYYY');
 _%>
   <% Object.keys(postsByYear).sort(date, -1).forEach(function (year){ %>
-    <div class ="anchor-target archive-year" id="<%= year %>">
-       <% if (year == yearToday) {%>
-         This year's posts (<%= year %>)
-       <% } else { %>
-         <%= year %>
-       <% } %>
-    </div>
+
+  <div class ="anchor-target archive-year" id="<%= year %>">
+     <% if (year == yearToday) {%>
+       This year's posts (<%= year %>)
+     <% } else { %>
+       <%= year %>
+     <% } %>
+  </div>
+
+  <div class="columns is-multiline ">
     <%
       const postsByMonth = groupBy(postsByYear[year], 'month');
       Object.keys(postsByMonth).forEach(function (month){
     %>
-    <div class="archive-p4">
-      <div class ="archive-month" 
-           id="<%= year %>-<%= month %>">
-           <%= month %> <%= year %></div>
 
-      <div class="archive-list archive-p3">
-        <% postsByMonth[month].forEach(function(post){ %>
-        <div class="archive-item">
-          <div class="is-pulled-left"><a href="<%- url_for(post.path) %>">
-            <%= post.title %>
-          </a></div>
-          <div class="is-pulled-right has-text-right"><time>
-              <%= date(post.date, "DD MMM") %>&nbsp;
-              <span class="fas fa-calendar"></span>
-          </time></div>
-          <div class="is-clearfix"></div>
+    <div class="column is-one-third">
+      <section class="panel is-light">
+        <div class="panel-header" id="<%= year %>-<%= month %>">
+          <p><%= month %> <%= year %></p>
+          <span class="fa fa-archive"></span>
         </div>
-        <% }) %>
-      </div>
+        <div class="panel-body has-background-white">
 
+          <div class="archive-list archive-p3">
+            <% postsByMonth[month].forEach(function(post){ %>
+            <div class="archive-item">
+              <div class="is-pulled-left"><a href="<%- url_for(post.path) %>">
+                <%= post.title %>
+              </a></div>
+              <div class="is-pulled-right has-text-right"><time>
+                  <%= date(post.date, "DD MMM") %>&nbsp;
+                  <span class="fas fa-calendar"></span>
+              </time></div>
+              <div class="is-clearfix"></div>
+            </div>
+            <% }) %>
+          </div>
+
+        </div>
+      </section>
     </div>
+
     <% }) %>
+  </div>
   <% }) %>
+

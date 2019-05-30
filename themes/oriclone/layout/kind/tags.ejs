@@ -2,5 +2,6 @@
       class="column is-full box-deco has-background-white">
   <%- partial('terms/buttons', {terms: site.tags}) %>
   <%- partial('terms/title') %>
-  <%- partial('terms/list', {terms: site.tags}) %>
+  <%- partial('terms/list', 
+        {terms: site.tags, taxonomyname: __('tag')}) %>
 </main>
