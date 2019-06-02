@@ -47,7 +47,9 @@ _%>
       Object.keys(postsByMonth).forEach(function (month){
     %>
 
-    <div class="column is-one-third">
+    <div class="column is-full-mobile 
+                is-half-tablet is-one-third-widescreen">
+
       <section class="panel is-light">
         <div class="panel-header" id="<%= year %>-<%= month %>">
           <p><%= month %> <%= year %></p>
@@ -72,6 +74,7 @@ _%>
 
         </div>
       </section>
+
     </div>
 
     <% }) %>

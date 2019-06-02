@@ -3,7 +3,9 @@
      const posts = item.posts.find({layout: 'post'});
      if (posts.length) {
   %>
-    <div class="column is-one-third">
+    <div class="column is-full-mobile 
+                is-half-tablet is-one-third-widescreen">
+
       <section class="panel is-light">
         <div class="panel-header" id="<%= item.name %>">
           <p><%= taxonomyname %>: 
@@ -20,6 +22,7 @@
           </div>
 
         </div>
+
       </section>
 
     </div>

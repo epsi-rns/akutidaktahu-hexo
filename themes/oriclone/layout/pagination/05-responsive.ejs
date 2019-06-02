@@ -7,12 +7,16 @@ function pagination_url(number) {
   var path;
 
   // default for index
-  path = config.index_generator.path;
+  var path = config.index_generator.path;
+  
+  // dirty quick fix, avoid double (//)
+  if (path=='/') { path = '' }
   
   if (is_archive()){
     path = '/' + config.archive_dir;
 
     if (is_month()){
+      // trailing zero
       var month = ( page.month < 10 ? '0' + page.month : page.month );
       path += '/' + page.year + '/' + month;
     } else if (is_year()){

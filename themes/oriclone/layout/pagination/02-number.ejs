@@ -5,6 +5,9 @@
 
 function pagination_url(number) {
   var path = config.index_generator.path;
+  
+  // dirty quick fix, avoid double (//)
+  if (path=='/') { path = '' }
 
   if (number>1) {
       path = path + '/' + config.pagination_dir + '/' + number;
