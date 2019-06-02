@@ -1,10 +1,13 @@
 
-  <meta name="twitter:title" content="<%= title || config.title %>">
+  <meta name="twitter:title"
+        content="<%= title || config.title %>">
 
 <% if (page.excerpt) {%>
-  <meta name="twitter:description" content="<%= description || config.description %>">
+  <meta name="twitter:description"
+        content="<%= description || config.description %>">
 <% } %>
 
 <% if (site.data.friends.twitter) {%>
-  <meta name="twitter:site" content="@<%= site.data.friends.twitter %>">
+  <meta name="twitter:site"
+        content="@<%= site.data.friends.twitter %>">
 <% } %>
