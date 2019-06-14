@@ -19,6 +19,7 @@ function pagination_url(number) {
 <nav class="pagination is-small is-centered" 
      role="navigation" aria-label="pagination">
   <% if (page.total > 1) { %>
+
     <!-- First Page. -->
     <% if (page.prev != 0) { %>
       <a class="pagination-previous"
@@ -63,8 +64,35 @@ function pagination_url(number) {
          disabled>Last</a>
     <% } %>
 
-    <!-- Dummy. Do not delete! -->
+    <!-- Main Pagination List -->
     <ul class="pagination-list">
+
+      <!-- First Page. -->
+      <li class="first">
+      <% if (page.prev != 0) { %>
+        <a class="pagination-previous"
+           href="<%= pagination_url(1) %>" 
+           rel="first">&laquo;&laquo;&nbsp;</a>
+      <% } else { %>
+        <a class="pagination-previous"
+           title="This is the first page"
+           disabled>&laquo;&laquo;&nbsp;</a>
+      <% } %>
+      </li>
+
+      <!-- Previous Page. -->
+      <li class="blog-previous">
+      <% if (page.prev_link) { %>
+        <a class="pagination-previous"
+           href="<%= url_for(page.prev_link) %>" 
+           rel="prev">&laquo;&nbsp;</a>
+      <% } else { %>
+        <a class="pagination-previous"
+           title="This is the first page"
+           disabled>&laquo;&nbsp;</a>
+      <% } %>
+      </li>
+
       <!-- Page numbers. -->
       <% var cursor; 
          for (cursor = 1; cursor <= page.total; cursor++) { %>
@@ -83,6 +111,33 @@ function pagination_url(number) {
         <% } %>
       </li>
       <% } %>
+
+      <!-- Next Page. -->
+      <li class="blog-next">
+      <% if (page.next_link) { %>
+        <a class="pagination-next"
+           href="<%= url_for(page.next_link) %>" 
+           rel="next">&nbsp;&raquo;</a>
+      <% } else { %>
+        <a class="pagination-next"
+           title="This is the last page"
+           disabled>&nbsp;&raquo;</a>
+      <% } %>
+      </li>
+
+      <!-- Last Page. -->
+      <li class="last">
+      <% if (page.next != 0) { %>
+        <a class="pagination-next"
+           href="<%= pagination_url(page.total) %>" 
+           rel="last">&nbsp;&raquo;&raquo;</a>
+      <% } else { %>
+        <a class="pagination-next"
+           title="This is the last page"
+           disabled>&nbsp;&raquo;&raquo;</a>
+      <% } %>
+      </li>
+
     </ul>
   <% } %>
 </nav>

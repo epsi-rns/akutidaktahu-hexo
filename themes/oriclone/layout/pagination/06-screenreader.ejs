@@ -52,6 +52,52 @@ var upper_limit    = page.total - adjacent_links;
      role="navigation" aria-label="pagination">
 
   <% if (page.total > 1) { %>
+
+    <!-- First Page. -->
+    <% if (page.prev != 0) { %>
+      <a class="pagination-previous"
+         href="<%= pagination_url(1) %>" 
+         rel="first">First</a>
+        <% } else { %>
+      <a class="pagination-previous"
+         title="This is the first page"
+         disabled>First</a>
+    <% } %>
+
+    <!-- Previous Page. -->
+    <% if (page.prev_link) { %>
+      <a class="pagination-previous"
+         href="<%= url_for(page.prev_link) %>" 
+         rel="prev">Previous</a>
+    <% } else { %>
+      <a class="pagination-previous"
+         title="This is the first page"
+         disabled>Previous</a>
+    <% } %>
+
+    <!-- Next Page. -->
+    <% if (page.next_link) { %>
+      <a class="pagination-next"
+         href="<%= url_for(page.next_link) %>" 
+         rel="next">Next</a>
+    <% } else { %>
+      <a class="pagination-next"
+         title="This is the last page"
+         disabled>Next</a>
+    <% } %>
+
+    <!-- Last Page. -->
+    <% if (page.next != 0) { %>
+      <a class="pagination-next"
+         href="<%= pagination_url(page.total) %>" 
+         rel="last">Last</a>
+    <% } else { %>
+      <a class="pagination-next"
+         title="This is the last page"
+         disabled>Last</a>
+    <% } %>
+
+    <!-- Main Pagination List -->
     <ul class="pagination-list">
 
       <!-- Previous Page. -->
