@@ -57,61 +57,102 @@ var upper_limit    = page.total - adjacent_links;
     <% if (page.prev != 0) { %>
       <a class="pagination-previous"
          href="<%= pagination_url(1) %>" 
-         rel="first">First</a>
+         aria-label="Go to first page"
+         data-rel="first">
+        <span class="is-sr-only">Go to </span>
+        First
+        <span class="is-sr-only"> page</span>
+      </a>
         <% } else { %>
       <a class="pagination-previous"
          title="This is the first page"
-         disabled>First</a>
+         aria-label="First page"
+         aria-current="true"
+         disabled>First
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } %>
 
     <!-- Previous Page. -->
     <% if (page.prev_link) { %>
       <a class="pagination-previous"
          href="<%= url_for(page.prev_link) %>" 
-         rel="prev">Previous</a>
+         aria-label="Go to previous page"
+         rel="prev">
+        <span class="is-sr-only">Go to </span>
+        Previous
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } else { %>
       <a class="pagination-previous"
          title="This is the first page"
-         disabled>Previous</a>
+         aria-label="First page"
+         aria-current="true"
+         disabled>Previous
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } %>
 
     <!-- Next Page. -->
     <% if (page.next_link) { %>
       <a class="pagination-next"
          href="<%= url_for(page.next_link) %>" 
-         rel="next">Next</a>
+         aria-label="Go to next page"
+         rel="next">
+        <span class="is-sr-only">Go to </span>
+        Next
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } else { %>
       <a class="pagination-next"
          title="This is the last page"
-         disabled>Next</a>
+         aria-label="Last page"
+         aria-current="true"
+         disabled>Next
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } %>
 
     <!-- Last Page. -->
     <% if (page.next != 0) { %>
       <a class="pagination-next"
          href="<%= pagination_url(page.total) %>" 
-         rel="last">Last</a>
+         aria-label="Go to last page"
+         data-rel="last">
+        <span class="is-sr-only">Go to </span>
+        Last
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } else { %>
       <a class="pagination-next"
          title="This is the last page"
-         disabled>Last</a>
+         aria-label="Last page"
+         aria-current="true"
+         disabled>Last
+        <span class="is-sr-only"> page</span>
+      </a>
     <% } %>
 
     <!-- Main Pagination List -->
     <ul class="pagination-list">
 
       <!-- Previous Page. -->
-      <li class="blog-previous">
+      <li class="blog-previous-no-responsive">
       <% if (page.prev_link) { %>
         <a class="pagination-previous"
            href="<%= url_for(page.prev_link) %>" 
+           aria-label="Go to previous page"
            rel="prev">&laquo;&nbsp;
-           <span class="sr-only">Previous</span>
+           <span class="is-sr-only">Go to previous page</span>
         </a>
       <% } else { %>
         <a class="pagination-previous"
            title="This is the first page"
-           disabled>&laquo;&nbsp;</a>
+           aria-label="First page"
+           aria-current="true"
+           disabled>&laquo;&nbsp;
+        <span class="is-sr-only">First page</span>
+      </a>
       <% } %>
       </li>
 
@@ -121,8 +162,8 @@ var upper_limit    = page.total - adjacent_links;
       <li class="first">
         <a href="<%= pagination_url(1) %>"
            class="pagination-link" 
-           aria-label="Goto page 1">
-           <span class="sr-only">Goto page </span>1</a>
+           aria-label="Go to page 1">
+           <span class="is-sr-only">Go to page </span>1</a>
       </li>
       <% } %>
 
@@ -153,7 +194,7 @@ var upper_limit    = page.total - adjacent_links;
       } else if (current >= upper_limit) {
         // Upper limit pages.
         // If the user is on a page which is in the upper limit.
-        if (cursor >= (page.total - max_links)) {
+        if (cursor > (page.total - max_links)) {
           // If the current loop page is less than max_links.
           show_cursor_flag = true;
         }
@@ -180,13 +221,14 @@ var upper_limit    = page.total - adjacent_links;
         <% if (current != cursor) { %>
         <a href="<%= pagination_url(cursor) %>"
            class="pagination-link" 
-           aria-label="Goto page <%= cursor %>">
-          <span class="sr-only">Goto page </span><%= cursor %>
+           aria-label="Go to page <%= cursor %>">
+          <span class="is-sr-only">Go to page </span><%= cursor %>
         </a>
         <% } else { %>
         <a class="pagination-link is-current" 
-           aria-label="Page <%= current %>">
-          <span class="sr-only">Page </span><%= current %>
+           aria-label="Page <%= current %>"
+           aria-current="true">
+          <span class="is-sr-only">Page </span><%= current %>
         </a>
         <% } %>
       </li>
@@ -206,24 +248,29 @@ var upper_limit    = page.total - adjacent_links;
       <li class="last">
         <a href="<%= pagination_url(page.total) %>"
            class="pagination-link" 
-           aria-label="Goto page <%= page.total %>">
-           <span class="sr-only">Goto page </span><%= page.total %></a>
+           aria-label="Go to page <%= page.total %>">
+           <span class="is-sr-only">Go to page </span><%= page.total %></a>
       </li>
       <% } %>
     <% } %>
 
       <!-- Next Page. -->
-      <li class="blog-next">
+      <li class="blog-next-no-responsive">
       <% if (page.next_link) { %>
         <a class="pagination-next"
            href="<%= url_for(page.next_link) %>" 
+           aria-label="Go to next page"
            rel="next">&nbsp;&raquo;
-           <span class="sr-only">Next</span>
+           <span class="is-sr-only">Go to next page</span>
         </a>
       <% } else { %>
         <a class="pagination-next"
            title="This is the last page"
-           disabled>&nbsp;&raquo;</a>
+           aria-label="Last page"
+           aria-current="true"
+           disabled>&nbsp;&raquo;
+        <span class="is-sr-only">Last page</span>
+      </a>
       <% } %>
       </li>
     </ul>

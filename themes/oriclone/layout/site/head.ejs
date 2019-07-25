@@ -28,6 +28,7 @@
 
 _%>
 <head>
+  <%- partial('meta/html') %>
   <title><%= title || config.title %></title>
 
   <% if (theme.favicon){ %>
@@ -36,7 +37,6 @@ _%>
 
   <%- css(['/css/bulma.css', '/css/fontawesome.css', '/css/main.css']) %>
 
-  <%- partial('meta/html', {title: title, description: description}) %>  
   <%- partial('meta/seo', {description: description}) %>  
   <%- partial('meta/opengraph', {title: title, description: description}) %>
   <%- partial('meta/twitter', {title: title, description: description}) %>

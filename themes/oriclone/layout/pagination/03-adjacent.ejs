@@ -22,11 +22,11 @@ function pagination_url(number) {
 * Adjacent: Number of links either side of the current page
 */
 
-var current        = page.current;
-var adjacent_links = 2;
-var max_links      = (adjacent_links * 2) + 1;
-var lower_limit    = 1 + adjacent_links;
-var upper_limit    = page.total - adjacent_links;
+const adjacent_links = 2;
+var current          = page.current;
+var max_links        = (adjacent_links * 2) + 1;
+var lower_limit      = 1 + adjacent_links;
+var upper_limit      = page.total - adjacent_links;
 %>
 
 <nav class="pagination is-small is-centered"
@@ -38,7 +38,6 @@ var upper_limit    = page.total - adjacent_links;
   var cursor; 
   for (cursor = 1; cursor <= page.total; cursor++) { 
     var show_cursor_flag = false;
-
 
     if (page.total > max_links) {
       // Complex page numbers.
@@ -53,7 +52,7 @@ var upper_limit    = page.total - adjacent_links;
       } else if (current >= upper_limit) {
         // Upper limit pages.
         // If the user is on a page which is in the upper limit.
-        if (cursor >= (page.total - max_links)) {
+        if (cursor > (page.total - max_links)) {
           // If the current loop page is less than max_links.
           show_cursor_flag = true;
         }

@@ -105,7 +105,7 @@ var upper_limit    = page.total - adjacent_links;
       } else if (current >= upper_limit) {
         // Upper limit pages.
         // If the user is on a page which is in the upper limit.
-        if (cursor >= (page.total - max_links)) {
+        if (cursor > (page.total - max_links)) {
           // If the current loop page is less than max_links.
           show_cursor_flag = true;
         }
