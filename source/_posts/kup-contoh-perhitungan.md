@@ -6,6 +6,11 @@ category  : [pajak]
 opengraphimage: /posts/2019/08/latihan-9.6-4.png
 ---
 
+Mempelajari ~~perbucinan~~ secara rinci,
+dapat dimulai dari latihan soal.
+
+<!-- more --> 
+
 > Soal diambil dari buku PPA FEB UI
 
 ### Source Gambar
