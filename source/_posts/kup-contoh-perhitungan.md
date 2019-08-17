@@ -20,6 +20,12 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 * [infografis source svg gambar][github-latihan-soal]
 
+## Latihan 3.5
+
+### Sanksi: Perpanjangan SPT Badan (PPh 29)
+
+![Sanksi: PPh 29][latihan-3.5]
+
 ## Latihan 7.7
 
 ### STP: PPh 25
@@ -54,6 +60,7 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
+[latihan-3.5]:   /posts/2019/08/latihan-3.5.png
 [latihan-7.7-04]:   /posts/2019/08/latihan-7.7-4.png
 [latihan-7.7-06]:   /posts/2019/08/latihan-7.7-6.png
 [latihan-7.7-07]:   /posts/2019/08/latihan-7.7-7.png
