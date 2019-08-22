@@ -7,7 +7,10 @@ opengraphimage: /posts/2019/08/fase-01-flowchart.png
 ---
 
 Mempelajari ~~perbucinan~~,
-perpajakan dapat dimulai dari fase perpajakan.
+perpajakan dapat dimulai dari fase perpajakan
+yang berdasar pada Undang Undang KUP.
+
+Duh kek ngarep jodoh aja yaks, kawinan trus pake undang-undang sodara2.
 
 <!-- more --> 
 
