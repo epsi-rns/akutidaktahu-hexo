@@ -8,7 +8,8 @@ opengraphimage: /posts/2019/09/formula-progressive.png
 
 Menurunkan rumus matematika,
 untuk mendapatkan formula yang sederhana,
-untuk menghitung tarif progresif pasal 17.
+yaitu untuk menghitung tarif progresif,
+yang ada di pasal 17.
 <!-- more -->
 
 ### Latar Belakang 
@@ -29,6 +30,10 @@ saya menghitung PPH 21 dengan tarif pasal 17 yaitu 15%,
 karena akibat bonus project dalam bulan tersebut,
 penghasilan kena pajak yang disetahunkan,
 ternyata sudah lebih dari dua ratus lima puluh juta rupiah.
+Tiba saatnya saya mencari formula yang tepat,
+untuk pekerjaan mencari tarif progresif ini,
+yang terdiri dari beberapa tingkat,
+yaitu 5%, 15%, 25% dan 30%.
 
 #### Permasalahan
 
@@ -186,7 +191,8 @@ bilamana array di dalamnya tidak berada dalam fungsi lain.
 
 ### Kesimpulan
 
-Nah sekarang, kalau aturan pasal 17 ini diubah dengan UU yang baru,
+Nah sekarang, kalau aturan pasal 17 ini diubah,
+yaitu dengan naskah RUU yang baru,
 maka teman2 dapat membikin rumus sendiri khan ?
 
 [//]: <> ( -- -- -- links below -- -- -- )
