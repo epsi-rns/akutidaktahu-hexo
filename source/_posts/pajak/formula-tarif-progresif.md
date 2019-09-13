@@ -3,7 +3,7 @@ title     : Spreadsheet - Formula Tarif Progresif
 date      : 2019/09/10 09:17:35
 tags      : [spreadsheet, infografis]
 category  : [pajak]
-opengraphimage: /posts/2019/08-op/06-Kategori-Hadiah.png
+opengraphimage: /posts/2019/09/formula-progressive.png
 ---
 
 Menurunkan rumus matematika,
