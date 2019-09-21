@@ -50,7 +50,7 @@ dengan hanya formula pendek.
 #### Referensi
 
 Sebetulnya saya pemakai LibreOffice Calc.,
-namun referensi terbaik yangsaya dapatkan adalah dari situs ini:
+namun referensi terbaik yang saya dapatkan adalah dari situs ini:
 
 * [Rumus Excel PPh 21](https://excelku.com/2015/03/15/rumus-excel-pph-21/)
 
@@ -97,12 +97,12 @@ Barangkali perlu, maka source infografis ada di sini:
 {% codeblock lang:haskell %}
 PKP = 200 juta
 
-PPh = 15% * 200 juta - 30 juta
+PPh = 15% * 200 juta - 5 juta
     = 30 juta - 5 juta
     = 25 juta
 {% endcodeblock %}
 
-T2 Langsung saja dikurangi 30 juta, langsung ditemukan jawabnya.
+T2 Langsung saja dikurangi 5 juta, langsung ditemukan jawabnya.
 
 Mudah bukan!
 
