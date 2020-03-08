@@ -63,7 +63,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: '/blog'
-  per_page: 2
+  per_page: 7
   order_by: -date
   
 # Category & Tag
