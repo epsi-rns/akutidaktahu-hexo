@@ -146,5 +146,19 @@ Screenshot harus menyertakan:
 Keterangan tidak terlalu panjang, karena keterbatasan dari telegram.
 {% endcodeblock %}
 
+-- -- --
+
+## Profile Picture dan Username
+
+_Dear._
+
+_My advice, though it is not a requirement for this group.
+It is better for new telegram user to have username and profile picture.
+You can use any profile picture, such as cat, kitten, feral cat, weeb cat, or your original photograph.
+You can also use any username that you like. Mine is @cahgentoo, although my real name is epsi.
+At last, you do not need to follow my advice. As long as you enjoy being here, that is enough for me._
+
+_I'm just an admin anyway._
+
 [//]: <> ( -- -- -- links below -- -- -- )
 
