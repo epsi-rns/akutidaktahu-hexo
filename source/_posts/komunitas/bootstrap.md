@@ -5,7 +5,7 @@ tags      : [pesan-tersemat, aturan]
 category  : [komunitas]
 ---
 
-Walaupun saya dalah owner dari group ini,
+Walaupun saya adalah _owner_ dari group ini,
 namun dari awal pembentukan, group ini dibikin oleh beberapa orang admin.
 Karena itu saya memasang __pinned post__ yang umum.
 Tidak telalu kreatif.
