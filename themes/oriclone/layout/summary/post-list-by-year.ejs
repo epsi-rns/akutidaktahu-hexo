@@ -25,7 +25,7 @@
 
   const postsByYear = groupBy(postsMapped, 'year');
 _%>
-  <% Object.keys(postsByYear).sort(date, -1).forEach(function (year){ %>
+  <% Object.keys(postsByYear).sort(date, -1).reverse().forEach(function (year){ %>
     <div class ="anchor-target archive-year" 
          id="<%= year %>"><%= year %></div>
 
