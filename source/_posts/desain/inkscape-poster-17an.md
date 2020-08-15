@@ -34,10 +34,19 @@ karena kartu ini saya bikin khusus untuk pesanan.
 Bagaimanapun, sebagian besar sudah ada di dalam berkas `.svg` ini,
 siap untuk dipakai.
 
+### Lapisan Layer
+
+Saya suka bekerja dengan `layer`.
+Berikut lapisan `layer` yang saya bikin,
+di dalam berkas vektor tersebut di atas:
+
+![Inkscape: Lapisan Layers: Kartu Ucapan][lapisan-merdeka]
+
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [panduan-mensesneg]:https://www.setneg.go.id/view/index/peringatan_hari_ulang_tahun_ke_75_kemerdekaan_republik_indonesia_tahun_2020
 
 [poster-merdeka]:   /posts/2020/08/poster-merdeka.png
+[lapisan-merdeka]:  /posts/2020/08/layers-merdeka.png
 [source-merdeka]:   /posts/2020/08/template-merdeka.svg
 
