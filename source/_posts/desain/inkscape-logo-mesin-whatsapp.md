@@ -8,9 +8,9 @@ keywords  : [logo, mehcanical engineering, mesin, brushed]
 
 ### Prakata
 
-Tahun 2016, penulis sudah undur diri dari kealumnian,
+Tahun 2015, penulis sudah undur diri dari kealumnian,
 untuk berkonsentrasi berwiraswasta.
-Namun rasanya tangan i masih gatal ingin berkiprah
+Namun rasanya tangan ini masih gatal ingin berkiprah
 yaitu saat menemukan gagasan,
 untuk dipadukan dengan logo mesin yang sudah ada,
 dan kemudian menjadi profile picture untuk masing-masing group angkatan.
@@ -20,7 +20,10 @@ barangkali suatu saat ada yang membutuhkan,
 baik dari teman-teman alumni mesin, ataupun dari kealumnian yang lain.
 Semuanya saya lakukan tidak dengan tujuan komersial,
 maka artwork yang dipakai juga penulis,
-pilih yang free for non-commercial use.
+pilih yang free for non-commercial use
+Di masa-masa berikutnya saya sangat berhati-hati untuk memilih artwork.
+Kalau bisa, saya lebih suka membikin sendiri,
+supaya bebas dipakai oleh orang lain.
 
 #### Sumber Gagasan.
 
@@ -88,6 +91,8 @@ untuk tiap angkatan. Baik yang lebih tua atau yang lebih muda.
 Saat itu sangat menyenangkan. Hahaha
 
 #### Semakin Aneh
+
+> Komponen dekorasi artwork di bawah ini bukan karya saya.
 
 Karena percobaan logonya semakin aneh,
 maka penulis tidak berani menawarkan ke angakatn yang lebih tua,
@@ -166,9 +171,39 @@ Source gambar dapat diambil di:
 
 * [Source Gambar: Cluster Angkatan: Kotak][svg-box]
 
-
-
 Tidak bagus sih... hehe... namanya juga, dahulu masih belajar.
+
+-- -- --
+
+### Logo Sebagai Overlay
+
+Di penghujung 2016.
+Penulis harus memadukan gambar logo yang ada,
+dengan foto2 yang diambil oleh penulis.
+
+#### Contoh 01
+
+Foto penulis di kakan bawah.
+
+![Inkscape SVG beserta Foto dengan Logo Overlay: Contoh 1][png-foto-01]
+
+Selengkapnya dapat dilihat di DeviantArt.
+
+* [DeviantArt: Foto dengan Logo Overlay: Contoh 1][deviant-foto-01]
+
+#### Contoh 02
+
+![Inkscape SVG beserta Foto dengan Logo Overlay: Contoh 2][png-foto-02]
+
+Selengkapnya dapat dilihat di DeviantArt.
+
+* [DeviantArt: Foto dengan Logo Overlay: Contoh 2][deviant-foto-02]
+
+Cukup cantik bukan?
+
+-- -- --
+
+Sampai jumpa di catatan berikutnya.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
@@ -199,3 +234,7 @@ Tidak bagus sih... hehe... namanya juga, dahulu masih belajar.
 [svg-portrait]:     /posts/2016/11-ilusin/angkatan-portrait.svg
 [deviant-angkatan]: https://www.deviantart.com/nurwijayadi/art/Simple-Decade-Alumni-ID-645894014
 
+[png-foto-01]:      /posts/2016/11-ilusin/logo-trans-foto-01.png
+[png-foto-02]:      /posts/2016/11-ilusin/logo-trans-foto-02.png
+[deviant-foto-01]:  https://www.deviantart.com/nurwijayadi/art/ILUSIN-FTUI-Transparent-Logo-647726067
+[deviant-foto-02]:  https://www.deviantart.com/nurwijayadi/art/ILUSIN-FTUI-Transparent-Logo-647719236
