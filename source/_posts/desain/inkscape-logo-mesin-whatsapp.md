@@ -21,8 +21,8 @@ baik dari teman-teman alumni mesin, ataupun dari kealumnian yang lain.
 Semuanya saya lakukan tidak dengan tujuan komersial,
 maka artwork yang dipakai juga penulis,
 pilih yang free for non-commercial use
-Di masa-masa berikutnya saya sangat berhati-hati untuk memilih artwork.
-Kalau bisa, saya lebih suka membikin sendiri,
+Di masa-masa berikutnya penulis sangat berhati-hati untuk memilih artwork.
+Kalau bisa, penulis lebih suka membikin sendiri,
 supaya bebas dipakai oleh orang lain.
 
 Ini artikel yang biasa-biasa saja
@@ -101,12 +101,12 @@ Saat itu sangat menyenangkan. Hahaha
 > Komponen dekorasi artwork di bawah ini bukan karya saya.
 
 Karena percobaan logonya semakin aneh,
-maka penulis tidak berani menawarkan ke angakatn yang lebih tua,
+maka penulis tidak berani menawarkan ke angkatan yang lebih tua,
 namun ke angkatan yang lebih muda.
 
 Dan hasilnya?
 Lihat saja contoh berikut.
-Tidak semua angkatan suka dengan keisengan yang saya bikin.
+Tidak semua angkatan suka dengan keisengan yang penulis bikin. Hehehe.
 
 ![Inkscape SVG: Logo Angkatan Mesin: Contoh Bunga][png-2009-flourish]
 
