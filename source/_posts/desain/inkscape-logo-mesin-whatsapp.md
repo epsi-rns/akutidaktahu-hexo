@@ -25,6 +25,9 @@ Di masa-masa berikutnya saya sangat berhati-hati untuk memilih artwork.
 Kalau bisa, saya lebih suka membikin sendiri,
 supaya bebas dipakai oleh orang lain.
 
+Ini artikel yang biasa-biasa saja,
+karena saat itu baru saja berkenalan dengan inkscape.
+
 #### Sumber Gagasan.
 
 Sebetulnya gagasan-nya saya ambil dari logo arch linux ini:
