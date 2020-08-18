@@ -189,7 +189,7 @@ dengan foto2 yang diambil oleh penulis.
 
 #### Contoh 01
 
-Foto penulis di kakan bawah.
+Foto penulis di paling bawah, sebelah kanan.
 
 ![Inkscape SVG beserta Foto dengan Logo Overlay: Contoh 1][png-foto-01]
 
