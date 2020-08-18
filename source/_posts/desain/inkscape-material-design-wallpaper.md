@@ -29,7 +29,12 @@ dari beberapa wallpapar lainnya yang kutemeka di suatu tempat,
 di internet yang aku lupa di mana dahulu aku menemukannya.
 
 Penulis tidak merancang dari awal, hanya meniru.
-Dan menaruh gambar asilnya di repository, untuk keperluan backup.
+Dan menaruh gambar aslinya di repository, untuk keperluan backup.
+Kalaulah ada kemiripan gambar dengan wallpaper lain,
+itu memang karena saya meniru rancangan-nya.
+
+Yang membedakan adalah,
+sebagian besar wallpaper ini saya ubah ke bentuk isometri.
 
 ### Pratilik
 
