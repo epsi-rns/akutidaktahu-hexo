@@ -25,8 +25,11 @@ Di masa-masa berikutnya saya sangat berhati-hati untuk memilih artwork.
 Kalau bisa, saya lebih suka membikin sendiri,
 supaya bebas dipakai oleh orang lain.
 
-Ini artikel yang biasa-biasa saja,
-karena saat itu baru saja berkenalan dengan inkscape.
+Ini artikel yang biasa-biasa saja
+dan bisa dibilang sangat _mediocre_.
+Karena pada saat itu,
+penulis baru saja berkenalan dengan inkscape.
+Dan belum tahu apa-apa.
 
 #### Sumber Gagasan.
 
