@@ -10,7 +10,7 @@ toc       : "toc/2015-inkscape-alumni"
 
 ### Prakata
 
-> Gagal itu bisa, yang lebih penting adalah mencoba
+> Gagal itu biasa, yang lebih penting adalah mencoba
 
 Penulis harus mengakui bahwa karya penulis,
 tidaklah luar biasa mengesankan.
