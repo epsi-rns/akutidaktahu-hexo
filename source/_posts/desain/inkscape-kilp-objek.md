@@ -1,5 +1,5 @@
 ---
-title     : Inkscape - Object Clip
+title     : Inkscape - Klip Objek
 date      : 2015/10/10 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
