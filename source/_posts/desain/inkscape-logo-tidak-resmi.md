@@ -63,7 +63,7 @@ Selamat menikmati sajian konsep logo.
 ### Rancangan
 
 Dirancang begitu sederhana, sehingga tidak perlu menaruh,
-tiap-tiap bagian di lapisan `layer` maisng-masing.
+tiap-tiap bagian di lapisan `layer` masing-masing.
 Bagaimanapun, pembaca dapat dengan mudah merubah warna,
 atau menambahkan pola `pattern` sendiri.
 
