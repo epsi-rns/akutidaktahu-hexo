@@ -36,7 +36,7 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ftui]
 
-![ILUNI Teknik][image-ss-iluni-ftui]][photo-ss-iluni-ftui]
+![ILUNI Teknik][image-ss-iluni-ftui]
 
 ### Document Properties
 
