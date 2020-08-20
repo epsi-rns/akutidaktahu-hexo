@@ -160,7 +160,7 @@ Hadeuh... malu sayah.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-invitation-stock/
+[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-stamp-poster-flyer/
 
 [image-incafo-diskusi]:         /posts/desain/2015/09-serbaguna/incafo-galangan-diskusi.png
 [dotfiles-incafo-diskusi]:      /posts/desain/2015/09-serbaguna/incafo-galangan-diskusi.svg.gz
