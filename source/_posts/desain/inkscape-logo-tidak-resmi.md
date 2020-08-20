@@ -70,7 +70,7 @@ atau menambahkan pola `pattern` sendiri.
 #### Tata Huruf
 
 Sebagaimana biasanya, penulis menggunakan `free font`,
-dengan lisensi yang luwes.
+dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
 
 * `Trajan Pro`, Trajan adalah fonta baku di kampus penulis.
 
