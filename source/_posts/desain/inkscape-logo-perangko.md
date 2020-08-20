@@ -23,7 +23,7 @@ dalam bahasa Inggris:
 
 * [Inkscape: Logo with Stamp Ornament][english-version]
 
-### Padz Jambon
+#### Padz Jambon
 
 Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
@@ -45,7 +45,7 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 ![ILUNI Teknik][image-ss-iluni-ftui]
 
-### Document Properties
+#### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1200px.
 
