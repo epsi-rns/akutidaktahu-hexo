@@ -33,7 +33,7 @@ Permasalahan yang mungkin timbul adalah,
 bagaimana cara memelihara identitas kealumnian yang utama,
 tanpa mengorbankan tiap2 bagian identitasnya.
 Maka penulis mengambil keputusan untuk membuat,
-koleksi logo `bagaimana-jika` yag terilhami dari oanduan berikut:
+koleksi logo `bagaimana-jika` yang terilhami dari panduan berikut:
 
 * <http://fisip.ui.ac.id/informasi-publik/panduan-penggunaan-logo-universitas-indonesia.html>
 
