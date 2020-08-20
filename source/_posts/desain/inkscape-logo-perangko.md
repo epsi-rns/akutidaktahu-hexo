@@ -16,6 +16,13 @@ yang menarique cantique di poster yang kita bikin.
 Penulis juga menambahkan bayangan `shadow` di bawah logo,
 dengan menggunakan fitur `envelope path effects`.
 
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Logo with Stamp Ornament][english-version]
+
 ### Padz Jambon
 
 Logo Padmanaba Berwarna Jambon (Merah Jambu)
@@ -46,11 +53,13 @@ Ya sudah. Itu saja. Namanya juga baru belajar.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[image-ss-pink-padz]:  /posts/desain/2015/09-perangko/logo-stamp-pink-padz.png
-[image-ss-iluni-ftui]: /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.png
+[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-stamp-logo/
 
-[dotfiles-pink-padz]:  /posts/desain/2015/09-perangko/logo-stamp-pink-padz.svg.gz
-[deviant-pink-padz]:   http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Iluni-FTUI-645792391
-[dotfiles-iluni-ftui]: /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.svg.gz
-[deviant-iluni-ftui]:  http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Padmanaba-in-Pink-645792516
+[image-ss-pink-padz]:   /posts/desain/2015/09-perangko/logo-stamp-pink-padz.png
+[image-ss-iluni-ftui]:  /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.png
+
+[dotfiles-pink-padz]:   /posts/desain/2015/09-perangko/logo-stamp-pink-padz.svg.gz
+[deviant-pink-padz]:    http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Iluni-FTUI-645792391
+[dotfiles-iluni-ftui]:  /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.svg.gz
+[deviant-iluni-ftui]:   http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Padmanaba-in-Pink-645792516
 

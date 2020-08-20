@@ -28,6 +28,13 @@ Bukan desain yang luar biasa bagus,
 namun cukup untuk dapat dipakai,
 untuk keperluan dasar sehari-hari.
 
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Event Banner Collection][english-version]
+
 -- -- --
 
 ### Rancangan
@@ -172,6 +179,8 @@ Itu saja bang.
 Semoga bermanfaat.
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-event-banners/
 
 [image-wof]:        /posts/desain/2015/08-munas/munas-01-wall-of-fame-4x3.png
 [photo-wof]:        /posts/desain/2015/08-munas/munas-01-wall-of-fame-4x3-cetak.jpg

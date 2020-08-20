@@ -10,6 +10,8 @@ toc       : "toc/2015-inkscape-alumni"
 
 ### Prakata
 
+> Tiru - Amati - Modifikasi
+
 Teman penulis di kealumnian,yaitu mbak friend, Esti Handayani,
 telah membuatkan undangan kegiatan yang sangat cantik,
 untuk reuni alumni Universitas Indonesia.
@@ -26,6 +28,13 @@ Bebas pakai, dan bebas mengubah.
 * atau salinan dalam bentuk cetak
 
 Di inkscape, kita dapat menggunakan failitas `png export`.
+
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Event Invitation Stock Image][english-version]
 
 -- -- --
 
@@ -64,8 +73,9 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 * [nurwijayadi.deviantart.com/art/...blue...][deviant-invitation-blue]
 
+[//]: <> ( -- -- -- links below
 
-[//]: <> ( -- -- -- links below -- -- -- )
+[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-invitation-stock/
 
 [image-yellow-invitation]:   /posts/desain/2015/08-undangan/event-invitation-sample-alumni-yellow.png
 [image-blue-invitation]:     /posts/desain/2015/08-undangan/event-invitation-sample-alumni-blue.png
