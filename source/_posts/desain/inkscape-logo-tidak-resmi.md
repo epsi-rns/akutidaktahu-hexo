@@ -4,6 +4,8 @@ date      : 2015/06/06 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
 keywords  : [logo, makara UI, perangko]
+
+toc       : "toc/2015-inkscape-alumni"
 ---
 
 ### Prakata
@@ -14,6 +16,13 @@ digantikan oleh panduan baku yang lebih baru,
 yang diberlakukan untuk logo kealumnian.
 
 Bagaimanapun, konsep ini dapat dipakai oleh kealumnian yang lain.
+
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Inkscape: Non Standard Alumni Logo][english-version]
 
 -- -- --
 
@@ -194,6 +203,8 @@ Sementara hanya itu, yang dapat penulis bagikan.
 Sampai jumpa di waktu yang lebih baik.
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-non-standard-makara/
 
 [image-pusat]:          /posts/desain/2015/06-alumni/logo-iluni-ui-01-pusat.png
 [dotfiles-pusat]:       /posts/desain/2015/06-alumni/logo-iluni-ui-01-pusat.svg.gz

@@ -4,6 +4,8 @@ date      : 2016/11/15 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
 keywords  : [logo, mechanical engineering, mesin, brushed]
+
+toc       : "toc/2015-inkscape-alumni"
 ---
 
 ### Prakata
