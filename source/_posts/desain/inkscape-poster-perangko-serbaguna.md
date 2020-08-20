@@ -84,13 +84,13 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../incafo-galangan-diskusi.svg.gz][dotfiles-incafo-diskusi]
+* [akutidaktahu.netlify.app/.../incafo-galangan-diskusi.svg.gz][dotfiles-incafo-diskusi]
 
 * [nurwijayadi.deviantart.com/art/...galangan...][deviant-incafo-diskusi]
 
 * [nurwijayadi.deviantart.com/art/...bki...][deviant-incafo-diskusi-bki]
 
-* [epsi-rns.gitlab.io/.../energi-terbarukan-diskusi.svg.gz][dotfiles-energi-diskusi]
+* [akutidaktahu.netlify.app/.../energi-terbarukan-diskusi.svg.gz][dotfiles-energi-diskusi]
 
 * [nurwijayadi.deviantart.com/art/...energi...][deviant-energi-diskusi]
 
@@ -102,7 +102,7 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
+* [akutidaktahu.netlify.app/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-incafo-summary]
 
@@ -123,11 +123,11 @@ peserta kegiatan
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
+* [akutidaktahu.netlify.app/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-incafo-thanks]
 
-* [epsi-rns.gitlab.io/.../energi-terbarukan-ucapan-terima-kasih.svg.gz][dotfiles-energi-thanks]
+* [akutidaktahu.netlify.app/.../energi-terbarukan-ucapan-terima-kasih.svg.gz][dotfiles-energi-thanks]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-energi-thanks]
 
@@ -143,11 +143,11 @@ Pembaca juga dapat mengucapkan terimakasih kepada pantia kegiatan!
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../stamp-sertifikat-piagam.svg.gz][dotfiles-incafo-piagam]
+* [akutidaktahu.netlify.app/.../stamp-sertifikat-piagam.svg.gz][dotfiles-incafo-piagam]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-incafo-piagam]
 
-* [epsi-rns.gitlab.io/.../energi-terbarukan-piagam.svg.gz][dotfiles-energi-piagam]
+* [akutidaktahu.netlify.app/.../energi-terbarukan-piagam.svg.gz][dotfiles-energi-piagam]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-energi-piagam]
 

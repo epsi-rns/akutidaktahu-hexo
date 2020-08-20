@@ -71,7 +71,7 @@ Maka jadilah hasilnya!
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../clip-iluni-01.svg.gz][dotfiles-iluni-ui]
+* [akutidaktahu.netlify.app/.../clip-iluni-01.svg.gz][dotfiles-iluni-ui]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ui]
 
@@ -87,7 +87,7 @@ Maka jadilah hasilnya!
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../clip-iluni-02.svg.gz][dotfiles-iluni-ftui]
+* [akutidaktahu.netlify.app/.../clip-iluni-02.svg.gz][dotfiles-iluni-ftui]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ftui]
 
@@ -103,7 +103,7 @@ Maka jadilah hasilnya!
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../energi-terbarukan-ucapan-terima-kasih.svg.gz][dotfiles-energi-trims]
+* [akutidaktahu.netlify.app/.../energi-terbarukan-ucapan-terima-kasih.svg.gz][dotfiles-energi-trims]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-energi-trims]
 

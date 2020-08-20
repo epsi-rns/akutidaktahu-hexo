@@ -108,7 +108,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-iluni-ui-01-pusat.svg.gz][dotfiles-pusat]
+* [akutidaktahu.netlify.app/.../logo-iluni-ui-01-pusat.svg.gz][dotfiles-pusat]
 
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pusat]
@@ -121,7 +121,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-iluni-ui-02-fakultas.svg.gz][dotfiles-fakultas]
+* [akutidaktahu.netlify.app/.../logo-iluni-ui-02-fakultas.svg.gz][dotfiles-fakultas]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-fakultas]
 
@@ -133,7 +133,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-iluni-ui-03-departemen.svg.gz][dotfiles-departemen]
+* [akutidaktahu.netlify.app/.../logo-iluni-ui-03-departemen.svg.gz][dotfiles-departemen]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-departemen]
 
@@ -145,7 +145,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-iluni-ui-04-program-studi.svg.gz][dotfiles-prodi]
+* [akutidaktahu.netlify.app/.../logo-iluni-ui-04-program-studi.svg.gz][dotfiles-prodi]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-prodi]
 
@@ -157,7 +157,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-iluni-ui-05-wilayah.svg.gz][dotfiles-wilayah]
+* [akutidaktahu.netlify.app/.../logo-iluni-ui-05-wilayah.svg.gz][dotfiles-wilayah]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-wilayah]
 
@@ -169,7 +169,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../logo-gak-non-standar.svg.gz][dotfiles-gak]
+* [akutidaktahu.netlify.app/.../logo-gak-non-standar.svg.gz][dotfiles-gak]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-gak]
 
@@ -181,7 +181,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../perangko-iluni-01-black.svg.gz][dotfiles-hitam]
+* [akutidaktahu.netlify.app/.../perangko-iluni-01-black.svg.gz][dotfiles-hitam]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-hitam]
 
@@ -193,7 +193,7 @@ Masing-masing memiliki lima alternatif logo
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../perangko-iluni-02-white.svg.gz][dotfiles-putih]
+* [akutidaktahu.netlify.app/.../perangko-iluni-02-white.svg.gz][dotfiles-putih]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-putih]
 

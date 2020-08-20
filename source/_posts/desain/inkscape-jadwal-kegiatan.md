@@ -36,7 +36,7 @@ dalam bahasa Inggris:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../50th-ftui-schedule.svg.gz][dotfiles-sched-1]
+* [akutidaktahu.netlify.app/.../50th-ftui-schedule.svg.gz][dotfiles-sched-1]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sched-1]
 
@@ -52,7 +52,7 @@ dalam bahasa Inggris:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-ftui-schedule.svg.gz][dotfiles-sched-2]
+* [akutidaktahu.netlify.app/.../munas-ftui-schedule.svg.gz][dotfiles-sched-2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sched-2]
 

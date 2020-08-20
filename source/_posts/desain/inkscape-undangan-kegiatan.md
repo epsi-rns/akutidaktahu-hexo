@@ -67,7 +67,7 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../event-invitation-sample-alumni.svg.gz][dotfiles-invitation]
+* [akutidaktahu.netlify.app/.../event-invitation-sample-alumni.svg.gz][dotfiles-invitation]
 
 * [nurwijayadi.deviantart.com/art/...yellow...][deviant-invitation-yellow]
 

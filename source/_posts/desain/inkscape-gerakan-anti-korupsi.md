@@ -44,7 +44,7 @@ dalam bahasa Inggris:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-01-deklarasi-backdrop.svg.gz][dotfiles-deklarasi]
+* [akutidaktahu.netlify.app/.../gak-01-deklarasi-backdrop.svg.gz][dotfiles-deklarasi]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-deklarasi]
 
@@ -60,7 +60,7 @@ dalam bahasa Inggris:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-02-deklarasi-terimakasih.svg.gz][dotfiles-thanks-1]
+* [akutidaktahu.netlify.app/.../gak-02-deklarasi-terimakasih.svg.gz][dotfiles-thanks-1]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-thanks-1]
 
@@ -78,7 +78,7 @@ Please Click for higher resolution.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-03-aksi-flyer.svg.gz][dotfiles-aksi]
+* [akutidaktahu.netlify.app/.../gak-03-aksi-flyer.svg.gz][dotfiles-aksi]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-aksi]
 
@@ -94,7 +94,7 @@ Please Click for higher resolution.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-04-seminar-backdrop.svg.gz][dotfiles-seminar]
+* [akutidaktahu.netlify.app/.../gak-04-seminar-backdrop.svg.gz][dotfiles-seminar]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-seminar]
 
@@ -110,7 +110,7 @@ Please Click for higher resolution.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-05-seminar-terimakasih.svg.gz][dotfiles-thanks-2]
+* [akutidaktahu.netlify.app/.../gak-05-seminar-terimakasih.svg.gz][dotfiles-thanks-2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-thanks-2]
 
@@ -125,7 +125,7 @@ dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.github.io/.../gak-06-logo-dasar.svg.gz][dotfiles-logo]
+* [akutidaktahu.netlify.app/.../gak-06-logo-dasar.svg.gz][dotfiles-logo]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-logo]
 

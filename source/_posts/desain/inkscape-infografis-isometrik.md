@@ -134,7 +134,7 @@ Inilah warna RGBA yang dipakai:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-12.svg.gz][dotfiles-ig12]
+* [akutidaktahu.netlify.app/.../isometric-infographic-12.svg.gz][dotfiles-ig12]
 
 -- -- --
 
@@ -172,7 +172,7 @@ Catatan: Group dahulu semua kotak, sebelum menerapkan efek.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-13.svg.gz][dotfiles-ig13]
+* [akutidaktahu.netlify.app/.../isometric-infographic-13.svg.gz][dotfiles-ig13]
 
 -- -- --
 
@@ -201,7 +201,7 @@ Bagaimanapun, pembaca dapat menemukannya di sini:
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-14.svg.gz][dotfiles-ig14]
+* [akutidaktahu.netlify.app/.../isometric-infographic-14.svg.gz][dotfiles-ig14]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig14]
 
@@ -221,7 +221,7 @@ Yuk, tumpuk kotak-kotak ini satu diatas yang lain.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-15.svg.gz][dotfiles-ig15]
+* [akutidaktahu.netlify.app/.../isometric-infographic-15.svg.gz][dotfiles-ig15]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig15]
 
@@ -242,7 +242,7 @@ dan juga lakukan percobaan dengan efek filter lain yang berbeda-beda.
 
 ### SVG Source
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-16.svg.gz][dotfiles-ig16]
+* [akutidaktahu.netlify.app/.../isometric-infographic-16.svg.gz][dotfiles-ig16]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig16]
 
@@ -264,7 +264,7 @@ Lucu khaaaan...
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-17.svg.gz][dotfiles-ig17]
+* [akutidaktahu.netlify.app/.../isometric-infographic-17.svg.gz][dotfiles-ig17]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig17]
 
@@ -282,7 +282,7 @@ Ini pengumuman terakhir yang penulis bikin di kegiatan ini.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../isometric-infographic-18.svg.gz][dotfiles-ig18]
+* [akutidaktahu.netlify.app/.../isometric-infographic-18.svg.gz][dotfiles-ig18]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig18]
 

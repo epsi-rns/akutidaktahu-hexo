@@ -29,7 +29,7 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 **Berkas Sumber SVG**:
 
-* [epsi-rns.gitlab.io/.../logo-stamp-pink-padz.svg.gz][dotfiles-pink-padz]
+* [akutidaktahu.netlify.app/.../logo-stamp-pink-padz.svg.gz][dotfiles-pink-padz]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pink-padz]
 
@@ -39,7 +39,7 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 **Berkas Sumber SVG**:
 
-* [epsi-rns.gitlab.io/.../logo-stamp-iluni-ftui.svg.gz][dotfiles-iluni-ftui]
+* [akutidaktahu.netlify.app/.../logo-stamp-iluni-ftui.svg.gz][dotfiles-iluni-ftui]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ftui]
 

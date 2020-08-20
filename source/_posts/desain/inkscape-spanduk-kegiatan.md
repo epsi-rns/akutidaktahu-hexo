@@ -87,7 +87,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-01-wall-of-fame-4x3.svg.gz][dotfiles-wof]
+* [akutidaktahu.netlify.app/.../munas-01-wall-of-fame-4x3.svg.gz][dotfiles-wof]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-wof]
 
@@ -101,7 +101,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-02-banner-6x5.svg.gz][dotfiles-banner-1]
+* [akutidaktahu.netlify.app/.../munas-02-banner-6x5.svg.gz][dotfiles-banner-1]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-banner-1]
 
@@ -115,7 +115,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-03-banner-12x5.svg.gz][dotfiles-banner-2]
+* [akutidaktahu.netlify.app/.../munas-03-banner-12x5.svg.gz][dotfiles-banner-2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-banner-2]
 
@@ -127,7 +127,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-04-spanduk-5x2.svg.gz][dotfiles-spanduk]
+* [akutidaktahu.netlify.app/.../munas-04-spanduk-5x2.svg.gz][dotfiles-spanduk]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-spanduk]
 
@@ -141,7 +141,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-05-backdrop-10x2.svg.gz][dotfiles-backdrop]
+* [akutidaktahu.netlify.app/.../munas-05-backdrop-10x2.svg.gz][dotfiles-backdrop]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-backdrop]
 
@@ -169,7 +169,7 @@ Ini untuk ditaruh di jalan toll.
 
 #### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../munas-07-umbul2-90x300.svg.gz][dotfiles-umbul2]
+* [akutidaktahu.netlify.app/.../munas-07-umbul2-90x300.svg.gz][dotfiles-umbul2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-umbul2]
 

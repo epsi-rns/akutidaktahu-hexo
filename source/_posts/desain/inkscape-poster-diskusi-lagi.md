@@ -70,7 +70,7 @@ Ini poster e-flyer penulis pertama dengan desain ini.
 
 ### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../esbp-03.svg.gz][dotfiles-rimawan]
+* [akutidaktahu.netlify.app/.../esbp-03.svg.gz][dotfiles-rimawan]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-rimawan]
 
@@ -92,7 +92,7 @@ Tidak ada kreatifitas yang dapat dikembangkan di desain ini.
 
 ### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../esbp-04.svg.gz][dotfiles-latief]
+* [akutidaktahu.netlify.app/.../esbp-04.svg.gz][dotfiles-latief]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-latief]
 
@@ -112,7 +112,7 @@ sampai saat ini.
 
 ### Berkas Sumber SVG
 
-* [epsi-rns.gitlab.io/.../esbp-terimakasih.svg.gz][dotfiles-thanks]
+* [akutidaktahu.netlify.app/.../esbp-terimakasih.svg.gz][dotfiles-thanks]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-thanks]
 
