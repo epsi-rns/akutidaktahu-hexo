@@ -78,7 +78,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 ![Foto Munas: Wall of Fame: 4m x 3m][photo-wof]
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../munas-01-wall-of-fame-4x3.svg.gz][dotfiles-wof]
 
@@ -92,7 +92,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 ![Foto Munas: Banner: 6m x 5m][photo-banner-1]
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../munas-02-banner-6x5.svg.gz][dotfiles-banner-1]
 
@@ -106,7 +106,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 ![Foto Munas: Banner: 12m x 5m][photo-banner-2]
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../munas-03-banner-12x5.svg.gz][dotfiles-banner-2]
 
@@ -118,7 +118,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 ![Desain Munas: Spanduk: 5m x 2m][image-spanduk]
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../munas-04-spanduk-5x2.svg.gz][dotfiles-spanduk]
 
@@ -132,7 +132,7 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 ![Foto Munas: Backdrop: 10m x 2m][photo-backdrop]
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../munas-05-backdrop-10x2.svg.gz][dotfiles-backdrop]
 

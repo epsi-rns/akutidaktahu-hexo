@@ -56,7 +56,7 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 -- -- --
 
-##### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [epsi-rns.gitlab.io/.../event-invitation-sample-alumni.svg.gz][dotfiles-invitation]
 
