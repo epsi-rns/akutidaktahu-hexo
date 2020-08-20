@@ -49,6 +49,8 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 **Ukuran**: lebar 1200px, tinggi 1200px.
 
+-- -- --
+
 Ya sudah. Itu saja. Namanya juga baru belajar.
 
 [//]: <> ( -- -- -- links below -- -- -- )
