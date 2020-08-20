@@ -76,7 +76,7 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 -- -- --
 
-### Event poster e-flyer
+### Poster Kegiatan: e-flyer
 
 ![INCAFO: Diskusi Galangan][image-incafo-diskusi]
 
@@ -156,6 +156,7 @@ SVG ini menggunakan fonta bernama 'Bird of Paradise'.
 -- -- --
 
 Hanya itu, untuk sementara ini.
+Hadeuh... malu sayah.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
