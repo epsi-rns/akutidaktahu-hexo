@@ -1,9 +1,9 @@
 ---
 title     : Inkscape - Logo Mesin Whatsapp
 date      : 2016/11/15 09:17:35
-tags      : [inkscape]
+tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [logo, mehcanical engineering, mesin, brushed]
+keywords  : [logo, mechanical engineering, mesin, brushed]
 ---
 
 ### Prakata
@@ -30,6 +30,8 @@ dan bisa dibilang sangat _mediocre_.
 Karena pada saat itu,
 penulis baru saja berkenalan dengan inkscape.
 Dan belum tahu apa-apa.
+Di saat itu pula belum bayak tutorial inkscape,
+sebagaimana tahun 2020 ini.
 
 #### Sumber Gagasan.
 
@@ -215,32 +217,32 @@ Sampai jumpa di catatan berikutnya.
 
 [deviant-arch]:     https://www.deviantart.com/fametsuri/art/Brushed-Arch-SVG-385393073
 
-[png-ilusin]:       /posts/2016/11-ilusin/brushed-ilusin.png
-[svg-ilusin]:       /posts/2016/11-ilusin/brushed-ilusin.svg
+[png-ilusin]:       /posts/desain/2016/11-ilusin/brushed-ilusin.png
+[svg-ilusin]:       /posts/desain/2016/11-ilusin/brushed-ilusin.svg
 [deviant-ilusin]:   https://www.deviantart.com/nurwijayadi/art/Logo-WAG-ILUSIN-FTUI-645892619
 
-[png-1989-master]:  /posts/2016/11-ilusin/brushed-1989-master.png
-[png-1989-colored]: /posts/2016/11-ilusin/brushed-1989-blue.png
-[png-1989-inkscape]:/posts/2016/11-ilusin/brushed-1989-inkscape.png
-[svg-1989-master]:  /posts/2016/11-ilusin/brushed-1989-master.svg
+[png-1989-master]:  /posts/desain/2016/11-ilusin/brushed-1989-master.png
+[png-1989-colored]: /posts/desain/2016/11-ilusin/brushed-1989-blue.png
+[png-1989-inkscape]:/posts/desain/2016/11-ilusin/brushed-1989-inkscape.png
+[svg-1989-master]:  /posts/desain/2016/11-ilusin/brushed-1989-master.svg
 [deviant-1989]:     https://www.deviantart.com/nurwijayadi/art/WhatsApp-Profile-Picture-Of-Mechanical-Class-1989-645890207
 
-[png-2009-flourish]:/posts/2016/11-ilusin/brushed-2009-with-decoration.png
-[png-2009-dream]:   /posts/2016/11-ilusin/brushed-2009-dream.png
-[png-2009-inkscape]:/posts/2016/11-ilusin/brushed-2009-inkscape-layers.png
-[svg-2009-master]:  /posts/2016/11-ilusin/brushed-2009-with-decoration.svg.zip
+[png-2009-flourish]:/posts/desain/2016/11-ilusin/brushed-2009-with-decoration.png
+[png-2009-dream]:   /posts/desain/2016/11-ilusin/brushed-2009-dream.png
+[png-2009-inkscape]:/posts/desain/2016/11-ilusin/brushed-2009-inkscape-layers.png
+[svg-2009-master]:  /posts/desain/2016/11-ilusin/brushed-2009-with-decoration.svg.zip
 [deviant-2009]:     https://www.deviantart.com/nurwijayadi/art/WhatsApp-Profile-Picture-Of-Mechanical-Class-2009-645893339
 
-[png-transisi]:     /posts/2016/11-ilusin/angkatan-transisi.png
-[svg-box]:          /posts/2016/11-ilusin/angkatan-box.svg
-[png-landscape]:    /posts/2016/11-ilusin/angkatan-landscape.png
-[png-landscape-red]:/posts/2016/11-ilusin/angkatan-contoh.png
-[svg-landscape]:    /posts/2016/11-ilusin/angkatan-landscape.svg
-[png-portrait]:     /posts/2016/11-ilusin/angkatan-portrait.png
-[svg-portrait]:     /posts/2016/11-ilusin/angkatan-portrait.svg
+[png-transisi]:     /posts/desain/2016/11-ilusin/angkatan-transisi.png
+[svg-box]:          /posts/desain/2016/11-ilusin/angkatan-box.svg
+[png-landscape]:    /posts/desain/2016/11-ilusin/angkatan-landscape.png
+[png-landscape-red]:/posts/desain/2016/11-ilusin/angkatan-contoh.png
+[svg-landscape]:    /posts/desain/2016/11-ilusin/angkatan-landscape.svg
+[png-portrait]:     /posts/desain/2016/11-ilusin/angkatan-portrait.png
+[svg-portrait]:     /posts/desain/2016/11-ilusin/angkatan-portrait.svg
 [deviant-angkatan]: https://www.deviantart.com/nurwijayadi/art/Simple-Decade-Alumni-ID-645894014
 
-[png-foto-01]:      /posts/2016/11-ilusin/logo-trans-foto-01.png
-[png-foto-02]:      /posts/2016/11-ilusin/logo-trans-foto-02.png
+[png-foto-01]:      /posts/desain/2016/11-ilusin/logo-trans-foto-01.png
+[png-foto-02]:      /posts/desain/2016/11-ilusin/logo-trans-foto-02.png
 [deviant-foto-01]:  https://www.deviantart.com/nurwijayadi/art/ILUSIN-FTUI-Transparent-Logo-647726067
 [deviant-foto-02]:  https://www.deviantart.com/nurwijayadi/art/ILUSIN-FTUI-Transparent-Logo-647719236

@@ -69,10 +69,10 @@ Jangan memakai foto saya.
 
 [panduan-mensesneg]:https://www.setneg.go.id/view/index/peringatan_hari_ulang_tahun_ke_75_kemerdekaan_republik_indonesia_tahun_2020
 
-[poster-merdeka]:   /posts/2020/08/poster-merdeka.png
-[lapisan-merdeka]:  /posts/2020/08/layers-merdeka.png
-[source-merdeka]:   /posts/2020/08/template-merdeka.svg
+[poster-merdeka]:   /posts/desain/2020/08/poster-merdeka.png
+[lapisan-merdeka]:  /posts/desain/2020/08/layers-merdeka.png
+[source-merdeka]:   /posts/desain/2020/08/template-merdeka.svg
 
-[poster-whatsapp]:  /posts/2020/08/template-whatsapp-epsi.png
-[source-whatsapp]:  /posts/2020/08/template-whatsapp-epsi.svg
+[poster-whatsapp]:  /posts/desain/2020/08/template-whatsapp-epsi.png
+[source-whatsapp]:  /posts/desain/2020/08/template-whatsapp-epsi.svg
 

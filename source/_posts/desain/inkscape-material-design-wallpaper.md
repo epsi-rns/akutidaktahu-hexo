@@ -170,29 +170,29 @@ Sekian.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[isometric-01]: /posts/2018/11-wallpaper/isometric-01.png
-[isometric-02]: /posts/2018/11-wallpaper/isometric-02.png
-[isometric-03a]:/posts/2018/11-wallpaper/isometric-03a.png
-[isometric-03b]:/posts/2018/11-wallpaper/isometric-03b.png
-[isometric-04]: /posts/2018/11-wallpaper/isometric-04.png
-[isometric-05]: /posts/2018/11-wallpaper/isometric-05.png
-[isometric-06]: /posts/2018/11-wallpaper/isometric-06.png
-[isometric-07]: /posts/2018/11-wallpaper/isometric-07.png
-[isometric-08]: /posts/2018/11-wallpaper/isometric-08.png
-[isometric-09]: /posts/2018/11-wallpaper/isometric-09.png
-[isometric-10]: /posts/2018/11-wallpaper/isometric-10.png
-[isometric-11]: /posts/2018/11-wallpaper/isometric-11.png
-[isometric-12]: /posts/2018/11-wallpaper/isometric-12.png
-[isometric-13]: /posts/2018/11-wallpaper/isometric-13.png
-[isometric-14a]:/posts/2018/11-wallpaper/isometric-14a.png
-[isometric-14b]:/posts/2018/11-wallpaper/isometric-14b.png
-[isometric-15]: /posts/2018/11-wallpaper/isometric-15.png
-[isometric-16]: /posts/2018/11-wallpaper/isometric-16.png
-[isometric-17]: /posts/2018/11-wallpaper/isometric-17.png
+[isometric-01]: /posts/desain/2018/11-wallpaper/isometric-01.png
+[isometric-02]: /posts/desain/2018/11-wallpaper/isometric-02.png
+[isometric-03a]:/posts/desain/2018/11-wallpaper/isometric-03a.png
+[isometric-03b]:/posts/desain/2018/11-wallpaper/isometric-03b.png
+[isometric-04]: /posts/desain/2018/11-wallpaper/isometric-04.png
+[isometric-05]: /posts/desain/2018/11-wallpaper/isometric-05.png
+[isometric-06]: /posts/desain/2018/11-wallpaper/isometric-06.png
+[isometric-07]: /posts/desain/2018/11-wallpaper/isometric-07.png
+[isometric-08]: /posts/desain/2018/11-wallpaper/isometric-08.png
+[isometric-09]: /posts/desain/2018/11-wallpaper/isometric-09.png
+[isometric-10]: /posts/desain/2018/11-wallpaper/isometric-10.png
+[isometric-11]: /posts/desain/2018/11-wallpaper/isometric-11.png
+[isometric-12]: /posts/desain/2018/11-wallpaper/isometric-12.png
+[isometric-13]: /posts/desain/2018/11-wallpaper/isometric-13.png
+[isometric-14a]:/posts/desain/2018/11-wallpaper/isometric-14a.png
+[isometric-14b]:/posts/desain/2018/11-wallpaper/isometric-14b.png
+[isometric-15]: /posts/desain/2018/11-wallpaper/isometric-15.png
+[isometric-16]: /posts/desain/2018/11-wallpaper/isometric-16.png
+[isometric-17]: /posts/desain/2018/11-wallpaper/isometric-17.png
 
-[paper-01]:     /posts/2018/11-wallpaper/paper-01.png
-[paper-02]:     /posts/2018/11-wallpaper/paper-02.png
-[paper-03]:     /posts/2018/11-wallpaper/paper-03.png
+[paper-01]:     /posts/desain/2018/11-wallpaper/paper-01.png
+[paper-02]:     /posts/desain/2018/11-wallpaper/paper-02.png
+[paper-03]:     /posts/desain/2018/11-wallpaper/paper-03.png
 
 [deviant-i-01]: https://www.deviantart.com/nurwijayadi/art/Material-Design-Wallpaper-646511906
 [deviant-i-02]: https://www.deviantart.com/nurwijayadi/art/Material-Design-Wallpaper-646511906
