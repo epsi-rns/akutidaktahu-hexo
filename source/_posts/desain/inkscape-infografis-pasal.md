@@ -157,7 +157,6 @@ Terimakasih sudah repot-repot berkunjung.
 [image-difference]:     /posts/desain/2014/12-pasal/difference.png
 [source-difference]:    /posts/desain/2014/12-pasal/difference.svg
 
-
 [image-landscape]:      /posts/desain/2014/12-pasal/hape-besar-landscape.png
 [source-landscape]:     /posts/desain/2014/12-pasal/hape-besar-landscape.svg
 [image-portrait]:       /posts/desain/2014/12-pasal/hape-kecil.png
