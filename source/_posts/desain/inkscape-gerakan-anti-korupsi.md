@@ -116,7 +116,21 @@ Please Click for higher resolution.
 
 -- -- --
 
-## Logo Dasar
+### Woro-Woro
+
+Suatu seruan memerlukan pengumuman yang anggun.
+
+![Seruan Aksi Bongkar e-KTP][image-seruan-aksi]
+
+#### Berkas Sumber SVG
+
+* [akutidaktahu.netlify.app/.../seruan-aksi-bongkar-ektp.zip][dotfiles-seruan-aksi]
+
+* [nurwijayadi.deviantart.com/art/...][deviant-seruan-aksi]
+
+-- -- --
+
+### Logo Dasar
 
 Sebagai bonus, inilah sumber SVG dari logo dasar,
 dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
@@ -160,3 +174,8 @@ Sekian. Sampai jumpa.
 [image-logo]:           /posts/desain/2016/02-gak/gak-06-logo-dasar.png
 [dotfiles-logo]:        /posts/desain/2016/02-gak/gak-06-logo-dasar.svg.gz
 [deviant-logo]:         http://nurwijayadi.deviantart.com/art/GAK-Clone-Logo-Dasar-645790444
+
+
+[image-seruan-aksi]:    /posts/desain/2016/02-gak/seruan-aksi-bongkar-ektp.png
+[dotfiles-seruan-aksi]: /posts/desain/2016/02-gak/seruan-aksi-bongkar-ektp.zip
+[deviant-seruan-aksi]:  https://www.deviantart.com/nurwijayadi/art/Seruan-aksi-bongkar-ektp-svg-690832915
