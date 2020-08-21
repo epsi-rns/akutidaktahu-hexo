@@ -130,6 +130,24 @@ Suatu seruan memerlukan pengumuman yang anggun.
 
 -- -- --
 
+### Ucapan Terimakasih
+
+Selalu ucapkan terimakasih di setiap kegiatan.
+
+![Ucapan Terimakasih][image-terima-kasih]
+
+#### Berkas Sumber SVG
+
+* [akutidaktahu.netlify.app/.../terima-kasih.svg][dotfiles-terima-kasih]
+
+#### Logo Overlay
+
+Mengenai cara pembikinan logo overlay dapat dilihat di sini:
+
+* [Inkscape - Logo Mesin Whatsapp][logo-overlay]
+
+-- -- --
+
 ### Logo Dasar
 
 Sebagai bonus, inilah sumber SVG dari logo dasar,
@@ -175,7 +193,11 @@ Sekian. Sampai jumpa.
 [dotfiles-logo]:        /posts/desain/2016/02-gak/gak-06-logo-dasar.svg.gz
 [deviant-logo]:         http://nurwijayadi.deviantart.com/art/GAK-Clone-Logo-Dasar-645790444
 
-
 [image-seruan-aksi]:    /posts/desain/2016/02-gak/seruan-aksi-bongkar-ektp.png
 [dotfiles-seruan-aksi]: /posts/desain/2016/02-gak/seruan-aksi-bongkar-ektp.zip
 [deviant-seruan-aksi]:  https://www.deviantart.com/nurwijayadi/art/Seruan-aksi-bongkar-ektp-svg-690832915
+
+[image-terima-kasih]:    /posts/desain/2016/02-gak/terima-kasih.png
+[dotfiles-terima-kasih]: /posts/desain/2016/02-gak/terima-kasih.svg
+
+[logo-overlay]: https://akutidaktahu.netlify.app/2016/11/15/desain/inkscape-logo-mesin-whatsapp/
