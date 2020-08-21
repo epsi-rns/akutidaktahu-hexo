@@ -34,6 +34,21 @@ dalam bahasa Inggris:
 
 -- -- --
 
+### Logo Dasar
+
+Sebagai awalan, inilah sumber SVG dari logo dasar,
+dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
+
+![Logo GAK][image-logo]
+
+#### Berkas Sumber SVG
+
+* [akutidaktahu.netlify.app/.../gak-06-logo-dasar.svg.gz][dotfiles-logo]
+
+* [nurwijayadi.deviantart.com/art/...][deviant-logo]
+
+-- -- --
+
 ### Deklarasi: Backdrop 15x2
 
 ![Backdrop Deklarasi GAK][image-deklarasi]
@@ -84,7 +99,7 @@ Please Click for higher resolution.
 
 -- -- --
 
-## Hari Jadi: Backdrop 15x2
+### Hari Jadi: Backdrop 15x2
 
 ![Backdrop Ulang Tahun Perdana GAK][image-seminar]
 
@@ -100,7 +115,7 @@ Please Click for higher resolution.
 
 -- -- --
 
-## Hari Jadi: E-flyer Ucapan Terimakasih.
+### Hari Jadi: E-flyer Ucapan Terimakasih.
 
 ![Foto Ulang Tahun Perdana GAK][image-thanks-2]
 
@@ -148,18 +163,28 @@ Mengenai cara pembikinan logo overlay dapat dilihat di sini:
 
 -- -- --
 
-### Logo Dasar
+### Fotografi
 
-Sebagai bonus, inilah sumber SVG dari logo dasar,
-dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
+Tidak semua harus kelihatan wah,
+terkadang foto sederhana lebih mengena.
 
-![Logo GAK][image-logo]
+![Dua Tahun Gerakan Anti Korupsi][image-dua-tahun-tumpeng]
 
-#### Berkas Sumber SVG
+-- -- --
 
-* [akutidaktahu.netlify.app/.../gak-06-logo-dasar.svg.gz][dotfiles-logo]
+### Pemirsa
 
-* [nurwijayadi.deviantart.com/art/...][deviant-logo]
+Terkadang penulis harus membuat dua versi pengumuman.
+Tergantung `audience` permisa yang dituju.
+Misalnya:
+
+1. Warna netral untuk lintas alumni PT
+
+![Dua Tahun Gerakan Anti Korupsi][image-dua-tahun-netral]
+
+2. Warna kuning untuk ILUNI UI
+
+![Dua Tahun Gerakan Anti Korupsi][image-dua-tahun-kuning]
 
 -- -- --
 
@@ -201,3 +226,7 @@ Sekian. Sampai jumpa.
 [dotfiles-terima-kasih]: /posts/desain/2016/02-gak/terima-kasih.svg
 
 [logo-overlay]: https://akutidaktahu.netlify.app/2016/11/15/desain/inkscape-logo-mesin-whatsapp/
+
+[image-dua-tahun-netral]:   /posts/desain/2016/02-gak/dua-tahun-01.png
+[image-dua-tahun-kuning]:   /posts/desain/2016/02-gak/dua-tahun-03.png
+[image-dua-tahun-tumpeng]:  /posts/desain/2016/02-gak/dua-tahun-tumpeng.png
