@@ -16,6 +16,8 @@ Cukup mudah membuat SVG ini di inkscape.
 Yang agak berat adalah jepretan foto yang bagus,
 karena ini dibikin sebelum era handphone memiliki gambar yang tajam.
 
+> Mohon maaf kalau jadinya merepotkan pembaca.
+
 #### Panitia
 
 ![Bang Montery Darwin][image-bang-monty]
@@ -39,7 +41,7 @@ lalu tag di facebook, supaya orangnya senang.
 
 Sekian.
 
-Mohon maaf kalau jadinya merepotkan pembaca.
+Kenangan masa-masa indah.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
