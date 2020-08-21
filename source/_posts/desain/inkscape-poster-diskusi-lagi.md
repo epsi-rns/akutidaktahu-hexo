@@ -98,7 +98,7 @@ Tidak ada kreatifitas yang dapat dikembangkan di desain ini.
 
 -- -- --
 
-## Pemaduan dengan Fotografi
+### Pemaduan dengan Fotografi
 
 Gambar akhir adalah, e-flyer dengan ucapan terimakasih.
 Sebagaimana terlihat, tidaklah mudah untuk memadukan gambar foto
@@ -110,16 +110,38 @@ sampai saat ini.
 
 ![ESBP][image-thanks]
 
-### Berkas Sumber SVG
+#### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../esbp-terimakasih.svg.gz][dotfiles-thanks]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-thanks]
 
--- -- --
-
 Penulis suka dengan warna cerah desain ini,
 namun gagal dalam hal peletakannya.
+
+-- -- --
+
+### Serial Diskusi
+
+> Mencoba Lagi
+
+Dasarnya tambeng, penulis mencoba lagi,
+dengan rancangan lainnya, dengan jenis fonta yang sama sekali berbeda.
+Yang rencananya akan dipakai untuk serial diskusi.
+
+Sayangnya penulis tidak sempat meneruskan karena keburu sibuk di tempat lain.
+
+![Serial Diskusi][image-serial]
+
+### Berkas Sumber SVG
+
+* [akutidaktahu.netlify.app/.../serial-diskusi.zip][dotfiles-serial]
+
+* [nurwijayadi.deviantart.com/art/...][deviant-serial]
+
+> Dan Gagal
+
+-- -- --
 
 Itu saja. Sudah ah.. Malu.
 
@@ -138,3 +160,7 @@ Itu saja. Sudah ah.. Malu.
 [image-thanks]:     /posts/desain/2015/10-esbp/esbp-terimakasih.png
 [dotfiles-thanks]:  /posts/desain/2015/10-esbp/esbp-terimakasih.svg.gz
 [deviant-thanks]:   http://nurwijayadi.deviantart.com/art/ESBP-Terimakasih-645783965
+
+[image-serial]:     /posts/desain/2015/10-esbp/serial-diskusi.png
+[dotfiles-serial]:  /posts/desain/2015/10-esbp/serial-diskusi.zip
+[deviant-serial]:   https://www.deviantart.com/nurwijayadi/art/Serial-Diskusi-645794480
