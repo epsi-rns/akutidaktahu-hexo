@@ -1,16 +1,19 @@
 ---
-title     : Inkscape - Material Design Wallpaper
+title     : Inkscape - Gambar Latar Desain Material
 date      : 2018/11/18 09:17:35
 tags      : [inkscape]
 category  : [desain]
-keywords  : [material design]
+keywords  : [material design, gambar latar]
+
+toc       : "toc/2015-keseharian"
 ---
 
 ### Prakata
 
 #### Scalable Vector Graphic
 
-Wallpaper ini dibikin menggunakan `inkscape` beberapa waktu lalu.
+Gambar latar `wallpaper` ini,
+dibikin menggunakan `inkscape` beberapa waktu lalu.
 Sekian lama tidak pernah diunggah,
 karena ada beberapa gambar yang tidak sempat saya selesaikan.
 Namun akhirnya saya putuskan untuk mengunggah,

@@ -3,6 +3,8 @@ title     : Inkscape - Kartu Ucapan HUT RI
 date      : 2020/08/16 09:17:35
 tags      : [inkscape]
 category  : [desain]
+
+toc       : "toc/2015-keseharian"
 ---
 
 Setelah berulangkali membuat kartu untuk orang lain.
