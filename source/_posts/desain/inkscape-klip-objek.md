@@ -3,7 +3,7 @@ title     : Inkscape - Klip Objek
 date      : 2015/10/10 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [logo, perangko, woro woro]
+keywords  : [logo, perangko, woro woro, ILUNI UI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

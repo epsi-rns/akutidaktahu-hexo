@@ -3,7 +3,7 @@ title     : Inkscape - Gerakan Anti Korupsi
 date      : 2016/02/21 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [woro-woro, flyer]
+keywords  : [woro-woro, flyer, gak]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

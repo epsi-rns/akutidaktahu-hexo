@@ -3,7 +3,7 @@ title     : Inkscape - Gambar Latar Isometrik Datar
 date      : 2016/10/03 09:17:35
 tags      : [inkscape]
 category  : [desain]
-keywords  : [material design, wallpaper]
+keywords  : [material design, wallpaper, flat design]
 
 toc       : "toc/2015-keseharian"
 ---

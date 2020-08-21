@@ -51,7 +51,25 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 -- -- --
 
+### Sampul Gudang Gambar
+
+Penulis juga membuat sampul untuk gudang gambar `stock images`.
+
+![Stock Images 01][image-ss-stock-01]
+
+* [www.deviantart.com/nurwijayadi/art/...][deviant-stock-01]
+
+![Stock Images 02][image-ss-stock-02]
+
+* [www.deviantart.com/nurwijayadi/art/...][deviant-stock-01]
+
+Silahkan berkreasi sebebas-bebas-nya.
+
+-- -- --
+
 Ya sudah. Itu saja. Namanya juga baru belajar.
+
+Terimakasih telah berkunjung.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
@@ -65,3 +83,7 @@ Ya sudah. Itu saja. Namanya juga baru belajar.
 [dotfiles-iluni-ftui]:  /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.svg.gz
 [deviant-iluni-ftui]:   http://nurwijayadi.deviantart.com/art/Logo-Stamp-Ornament-Padmanaba-in-Pink-645792516
 
+[image-ss-stock-01]:    /posts/desain/2015/09-perangko/stock-perangko-01.png
+[deviant-stock-01]:     https://www.deviantart.com/nurwijayadi/art/Cover-Stock-Images-645991377
+[image-ss-stock-02]:    /posts/desain/2015/09-perangko/stock-perangko-02.png
+[deviant-stock-02]:     https://www.deviantart.com/nurwijayadi/art/Cover-Stok-Images-645991166

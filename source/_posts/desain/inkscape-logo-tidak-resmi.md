@@ -3,7 +3,7 @@ title     : Inkscape - Logo Tidak Resmi Alumni
 date      : 2015/06/06 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [logo, makara UI, perangko]
+keywords  : [logo, makara UI, perangko, ILUNI UI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

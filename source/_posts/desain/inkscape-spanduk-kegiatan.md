@@ -3,7 +3,7 @@ title     : Inkscape - Spanduk Kegiatan
 date      : 2015/08/08 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [spanduk, cetak]
+keywords  : [spanduk, cetak, ILUNI FTUI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

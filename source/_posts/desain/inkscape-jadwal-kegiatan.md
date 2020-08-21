@@ -3,7 +3,7 @@ title     : Inkscape - Pengumuman Jadwal Kegiatan
 date      : 2014/07/07 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [logo, makara UI, perangko, flyer, woro-woro, event schedule]
+keywords  : [logo, makara UI, perangko, flyer, woro-woro, event schedule, ILUNI FTUI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

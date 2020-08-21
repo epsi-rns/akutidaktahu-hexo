@@ -3,7 +3,7 @@ title     : Inkscape - Undangan Kegiatan
 date      : 2015/08/17 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [spanduk, cetak, woro-woro, undangan kegiatan, stock image]
+keywords  : [spanduk, cetak, woro-woro, undangan kegiatan, stock image, ILUNI UI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---
@@ -59,9 +59,16 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 ### Pratilik
 
-![Sample Invitation: Yellow][image-yellow-invitation]
+![Contoh Undangan: Yellow][image-yellow-invitation]
 
-![Sample Invitation: Blue][image-blue-invitation]
+![Contoh Undangan: Blue][image-blue-invitation]
+
+#### Tahlil
+
+Penulis sendiri memakai untuk undangan Tahlil
+
+![Contoh Undangan: Blue][image-tahlil-invitation]
+
 
 -- -- --
 
@@ -69,17 +76,27 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 * [akutidaktahu.netlify.app/.../event-invitation-sample-alumni.svg.gz][dotfiles-invitation]
 
+* [akutidaktahu.netlify.app/.../event-invitation-example-tahlil.zip][dotfiles-tahlil]
+
+#### DeviantArt
+
 * [nurwijayadi.deviantart.com/art/...yellow...][deviant-invitation-yellow]
 
 * [nurwijayadi.deviantart.com/art/...blue...][deviant-invitation-blue]
 
-[//]: <> ( -- -- -- links below
+* [nurwijayadi.deviantart.com/art/...blue...][deviant-invitation-tahlil]
+
+[//]: <> ( -- -- -- links below -- -- -- )
 
 [english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-invitation-stock/
 
-[image-yellow-invitation]:   /posts/desain/2015/08-undangan/event-invitation-sample-alumni-yellow.png
-[image-blue-invitation]:     /posts/desain/2015/08-undangan/event-invitation-sample-alumni-blue.png
+[image-yellow-invitation]:   /posts/desain/2015/08-undangan/event-invitation-example-alumni-yellow.png
+[image-blue-invitation]:     /posts/desain/2015/08-undangan/event-invitation-example-alumni-blue.png
+[image-tahlil-invitation]:   /posts/desain/2015/08-undangan/event-invitation-example-tahlil.png
 
-[dotfiles-invitation]:       /posts/desain/2015/08-undangan/event-invitation-sample-alumni.svg.gz
+[dotfiles-invitation]:       /posts/desain/2015/08-undangan/event-invitation-example-alumni.svg.
+[dotfiles-tahlil]:           /posts/desain/2015/08-undangan/event-invitation-example-tahlil.zip
+
 [deviant-invitation-yellow]: http://nurwijayadi.deviantart.com/art/Undangan-Alumni-645736320
 [deviant-invitation-blue]:   http://nurwijayadi.deviantart.com/art/Undangan-Alumni-645736708
+[deviant-invitation-tahlil]: https://www.deviantart.com/nurwijayadi/art/Undangan-Tahlil-Digital-Target-646340609

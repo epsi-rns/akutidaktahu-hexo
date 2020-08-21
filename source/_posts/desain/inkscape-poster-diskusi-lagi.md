@@ -3,7 +3,7 @@ title     : Inkscape - Poster Diskusi Lagi
 date      : 2015/10/20 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [flyer, woro woro]
+keywords  : [flyer, woro woro, GAK, ILUNI FTUI, Diskusi Berseri]
 
 toc       : "toc/2015-inkscape-alumni"
 ---

@@ -2,7 +2,7 @@
 title     : Inkscape - Kartu Ucapan HUT RI
 date      : 2020/08/16 09:17:35
 tags      : [inkscape]
-category  : [desain]
+category  : [desain, kartu]
 
 toc       : "toc/2015-keseharian"
 ---

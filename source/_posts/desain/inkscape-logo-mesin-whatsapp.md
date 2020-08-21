@@ -3,7 +3,7 @@ title     : Inkscape - Logo Mesin Whatsapp
 date      : 2016/11/15 09:17:35
 tags      : [inkscape, alumni]
 category  : [desain]
-keywords  : [logo, mechanical engineering, mesin, brushed]
+keywords  : [logo, mechanical engineering, mesin, brushed, FTUI]
 
 toc       : "toc/2015-inkscape-alumni"
 ---
