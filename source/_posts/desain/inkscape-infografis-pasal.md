@@ -10,11 +10,15 @@ toc       : "toc/2015-inkscape-alumni"
 
 ### Prakata
 
-Salah satu ahl yang membuat penulis ingin belajar inkscape adalah
+Salah satu hal yang membuat penulis ingin belajar inkscape adalah
 untuk membuat infografis,
 salah satunya untuk menjelaskan pasal dari suatu peraturan.
 Kalau saat kuliah dahulu,
 fungsinya hanya memberi `highlight` berwarna kuning dengan `stabillo`.
+
+#### Sangkalan
+
+Penulis bukan aktivis. Hanya tukang woro-woro di kealumnian.
 
 #### Sambil Belajar
 
@@ -79,6 +83,21 @@ dengan infografis pasal-pasal yang terkait.
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pengeboran]
 
+#### Lebih jauh mengenai Bingkai
+
+Bingkai ini juga bermanfaat untuk hal-hal lain.
+Misalnya untuk kegiatan anti korupsi.
+
+![Gerakan Anti Korupsi: Tablet][image-landscape]
+
+* [Gerakan Anti Korupsi: Tablet][source-landscape]
+
+Atau versi kecul yang lebih mudah dilihat di social media.
+
+![Gerakan Anti Korupsi: Handphone][image-portrait]
+
+* [Gerakan Anti Korupsi: Handphone][source-portrait]
+
 #### Ketentuan Umum Perpajakan
 
 Penulis bikin di tahun 2019.
@@ -89,12 +108,18 @@ Kali ini dengan tata warna yang lebih kontras.
 
 #### Lain-Lain
 
-Sebetulnya banyak lagi yang pernah penulkis bikin,
+Sebetulnya banyak lagi yang pernah penulis bikin,
 namun rasanya tidak perlu disampaikan di sini,
 supaya rtikel ini tidakterlalu panjang.
 Beberapa sengaja tidak ditampilkan, 
 karena Undang-Undang-nya juga telah di-revisi, atau ada alasan lain,
 misalnya karena penulis tidak kompeten dalam perundangan tersebut.
+
+Misalnya yang penulis bikin di tahun 2014 ini:
+
+![Perbedaan antara Maritim dan Kelautan][image-difference]
+
+* [Perbedaan antara Maritim dan Kelautan][source-difference]
 
 -- -- --
 
@@ -124,8 +149,16 @@ Terimakasih sudah repot-repot berkunjung.
 [deviant-bingkai-01]:   https://www.deviantart.com/nurwijayadi/art/Tap-MPR-VI-2001-645895403
 [deviant-bingkai-02]:   https://www.deviantart.com/nurwijayadi/art/UU-MD3-132-Sidang-MKD-645895170
 
-
 [image-pengeboran-s]:   /posts/desain/2014/12-pasal/infografis-pengeboran-lepas-pantai-kecil.png
 [image-pengeboran]:     /posts/desain/2014/12-pasal/infografis-pengeboran-lepas-pantai.png
 [dotfiles-pengeboran]:  /posts/desain/2014/12-pasal/infografis-pengeboran-lepas-pantai.zip
 [deviant-pengeboran]:   https://www.deviantart.com/nurwijayadi/art/Infografis-Pengeboran-Lepas-Pantai-645897086
+
+[image-difference]:     /posts/desain/2014/12-pasal/difference.png
+[source-difference]:    /posts/desain/2014/12-pasal/difference.svg
+
+
+[image-landscape]:      /posts/desain/2014/12-pasal/hape-besar-landscape.png
+[source-landscape]:     /posts/desain/2014/12-pasal/hape-besar-landscape.svg
+[image-portrait]:       /posts/desain/2014/12-pasal/hape-kecil.png
+[source-portrait]:      /posts/desain/2014/12-pasal/hape-kecil.svg
