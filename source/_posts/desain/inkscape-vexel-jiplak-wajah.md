@@ -54,7 +54,7 @@ Akhirnya, penulis punya juga sesuatu untuk dijadikan `avatar`.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-vexel-face-tracing/
+[english-version]:  https://epsi-rns.gitlab.io/design/2015/09/06/inkscape-vexel-face-tracing/
 
 [image-ss-pp]:      /posts/desain/2015/09-vexel/vexel-profile-picture.png
 [image-ss-pair]:    /posts/desain/2015/09-vexel/vexel-compare.png

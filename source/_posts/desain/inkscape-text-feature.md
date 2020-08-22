@@ -214,7 +214,7 @@ Saya juga tidak paham nih.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-text-feature/
+[english-version]:  https://epsi-rns.gitlab.io/design/2016/11/01/inkscape-text-feature/
 
 [image-text-1]:     /posts/desain/2016/11-teks/text-feature-1.png
 [image-text-2]:     /posts/desain/2016/11-teks/text-feature-2.png

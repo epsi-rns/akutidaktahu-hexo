@@ -115,7 +115,7 @@ Selamat bermain-main dengan meng-`clip` objek jepretan foto.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-object-clip/
+[english-version]:      https://epsi-rns.gitlab.io/design/2015/10/10/inkscape-object-clip/
 
 [image-step-photo]:     /posts/desain/2015/10-clip/clip-step-01.png
 [image-step-text]:      /posts/desain/2015/10-clip/clip-step-02.png

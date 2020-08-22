@@ -73,7 +73,7 @@ Terimakasih telah berkunjung.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-stamp-logo/
+[english-version]:      https://epsi-rns.gitlab.io/design/2015/09/03/inkscape-stamp-logo/
 
 [image-ss-pink-padz]:   /posts/desain/2015/09-perangko/logo-stamp-pink-padz.png
 [image-ss-iluni-ftui]:  /posts/desain/2015/09-perangko/logo-stamp-iluni-ftui.png

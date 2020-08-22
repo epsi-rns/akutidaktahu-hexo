@@ -368,7 +368,7 @@ Selamat Menikmati!
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-flat-isometric-wallpaper/
+[english-version]:  https://epsi-rns.gitlab.io/design/2016/10/03/inkscape-flat-isometric-wallpaper/
 
 [image-pallete]:        /posts/desain/2016/10-flat/flat-deco-03-accent700.png
 [image-dialog-page]:    /posts/desain/2016/10-flat/flat-isometric-dialog-page.png

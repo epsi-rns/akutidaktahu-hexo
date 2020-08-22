@@ -192,7 +192,7 @@ Sekian. Sampai jumpa.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-anti-corruption-movement/
+[english-version]:  https://epsi-rns.gitlab.io/design/2016/02/23/inkscape-anti-corruption-movement/
 
 [image-deklarasi]:      /posts/desain/2016/02-gak/gak-01-deklarasi-backdrop.png
 [dotfiles-deklarasi]:   /posts/desain/2016/02-gak/gak-01-deklarasi-backdrop.svg.gz

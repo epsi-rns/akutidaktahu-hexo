@@ -31,7 +31,7 @@ dalam bahasa Inggris:
 Di samping komunitas alumni yang utama,
 dalam benak penulis ada dua bagian alumni
 
-1. Uatama: dari mana alumni berasal: fakultas, dan departemen (jurusan)
+1. Utama: dari mana alumni berasal: fakultas, dan departemen (jurusan)
 
 2. Alumni saat ini: Kota (tempat bekerja), pekerjaan, hobi.
 
@@ -204,7 +204,7 @@ Sampai jumpa di waktu yang lebih baik.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-non-standard-makara/
+[english-version]:      https://epsi-rns.gitlab.io/design/2015/06/06/inkscape-non-standard-makara/
 
 [image-pusat]:          /posts/desain/2015/06-alumni/logo-iluni-ui-01-pusat.png
 [dotfiles-pusat]:       /posts/desain/2015/06-alumni/logo-iluni-ui-01-pusat.svg.gz

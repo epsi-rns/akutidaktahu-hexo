@@ -88,7 +88,7 @@ Penulis sendiri memakai untuk undangan Tahlil
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:      https://epsi-rns.gitlab.io/design/inkscape/inkscape-invitation-stock/
+[english-version]:      https://epsi-rns.gitlab.io/design/2015/08/17/inkscape-invitation-stock/
 
 [image-yellow-invitation]:   /posts/desain/2015/08-undangan/event-invitation-example-alumni-yellow.png
 [image-blue-invitation]:     /posts/desain/2015/08-undangan/event-invitation-example-alumni-blue.png

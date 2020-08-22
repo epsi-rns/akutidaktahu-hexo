@@ -147,7 +147,7 @@ Itu saja. Sudah ah.. Malu.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-discussion-flyer/
+[english-version]:  https://epsi-rns.gitlab.io/design/2015/10/20/inkscape-discussion-flyer/
 
 [image-rimawan]:    /posts/desain/2015/10-esbp/esbp-03.png
 [dotfiles-rimawan]: /posts/desain/2015/10-esbp/esbp-03.svg.gz

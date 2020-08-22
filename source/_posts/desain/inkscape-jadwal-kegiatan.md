@@ -64,7 +64,7 @@ Saya dahulu memang tidak tahu cara membuat poster.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-event-schedule/
+[english-version]:  https://epsi-rns.gitlab.io/design/2015/07/07/inkscape-event-schedule/
 
 [image-sched-1]:    /posts/desain/2014/07-ftui/50th-ftui-schedule.png
 [dotfiles-sched-1]: /posts/desain/2014/07-ftui/50th-ftui-schedule.svg.gz

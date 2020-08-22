@@ -180,7 +180,7 @@ Semoga bermanfaat.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-event-banners/
+[english-version]:  https://epsi-rns.gitlab.io/design/2015/08/08/inkscape-event-banners/
 
 [image-wof]:        /posts/desain/2015/08-munas/munas-01-wall-of-fame-4x3.png
 [photo-wof]:        /posts/desain/2015/08-munas/munas-01-wall-of-fame-4x3-cetak.jpg

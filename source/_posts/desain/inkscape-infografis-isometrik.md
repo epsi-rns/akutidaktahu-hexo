@@ -293,7 +293,7 @@ Bisanya cuma itu.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[english-version]:  https://epsi-rns.gitlab.io/design/inkscape/inkscape-isometric-infographics/
+[english-version]:  https://epsi-rns.gitlab.io/design/2015/11/11/inkscape-isometric-infographics/
 
 [image-ig12]:   /posts/desain/2015/11-isometrik/isometric-infographic-12.png
 [dotfiles-ig12]:/posts/desain/2015/11-isometrik/isometric-infographic-12.svg.gz
