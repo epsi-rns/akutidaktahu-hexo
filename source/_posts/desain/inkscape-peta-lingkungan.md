@@ -10,6 +10,19 @@ toc       : "toc/2015-keseharian"
 
 ### Prakata
 
+Inkscape bukan saja dipakai untuk membuat
+sesuatu karya seni yang cantique,
+namun juga dipakai untuk kegiatan sehari-hari.
+
+__diagramming adalah bagian dari keseharian__
+
+Berikut artikel yang __mediocre__ yang biasa saja,
+mengenai penggunaan __inkscape__ untuk sehari-hari,
+karena aku bisanya cuma itu... hehehe 🤦🏻‍♂️.
+Aku belum bisa bikin karya yang cantique menarique.
+
+#### Musrenbang
+
 Semenjak tahun 2018,
 saya menjadi pendamping RW (rukun warga) di musrenbang DKI.
 Tiap tahun ada saja tugas berdiskusi dengan para RT (Rukun Tetangga),
