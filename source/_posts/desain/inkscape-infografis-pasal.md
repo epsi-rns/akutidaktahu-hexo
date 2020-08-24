@@ -83,21 +83,6 @@ dengan infografis pasal-pasal yang terkait.
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pengeboran]
 
-#### Lebih jauh mengenai Bingkai
-
-Bingkai ini juga bermanfaat untuk hal-hal lain.
-Misalnya untuk kegiatan anti korupsi.
-
-![Gerakan Anti Korupsi: Tablet][image-landscape]
-
-* [Gerakan Anti Korupsi: Tablet][source-landscape]
-
-Atau versi kecul yang lebih mudah dilihat di social media.
-
-![Gerakan Anti Korupsi: Handphone][image-portrait]
-
-* [Gerakan Anti Korupsi: Handphone][source-portrait]
-
 #### Ketentuan Umum Perpajakan
 
 Penulis bikin di tahun 2019.
@@ -156,8 +141,3 @@ Terimakasih sudah repot-repot berkunjung.
 
 [image-difference]:     /posts/desain/2014/12-pasal/difference.png
 [source-difference]:    /posts/desain/2014/12-pasal/difference.svg
-
-[image-landscape]:      /posts/desain/2014/12-pasal/hape-besar-landscape.png
-[source-landscape]:     /posts/desain/2014/12-pasal/hape-besar-landscape.svg
-[image-portrait]:       /posts/desain/2014/12-pasal/hape-kecil.png
-[source-portrait]:      /posts/desain/2014/12-pasal/hape-kecil.svg

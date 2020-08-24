@@ -188,6 +188,27 @@ Misalnya:
 
 -- -- --
 
+### Sejarah
+
+> Di awal, ya culun-lah.
+
+Ini masa-masa awal pertama kali penulis membuat,
+selebaran Gerakan Anti Korupsi.
+
+![Gerakan Anti Korupsi: Tablet][image-landscape]
+
+* [Gerakan Anti Korupsi: Tablet][source-landscape]
+
+Atau versi kecil yang lebih mudah dilihat di social media.
+
+![Gerakan Anti Korupsi: Handphone][image-portrait]
+
+* [Gerakan Anti Korupsi: Handphone][source-portrait]
+
+Desain-nya jelek khaaaaan.....
+
+-- -- --
+
 Sekian. Sampai jumpa.
 
 [//]: <> ( -- -- -- links below -- -- -- )
@@ -230,3 +251,8 @@ Sekian. Sampai jumpa.
 [image-dua-tahun-netral]:   /posts/desain/2016/02-gak/dua-tahun-01.png
 [image-dua-tahun-kuning]:   /posts/desain/2016/02-gak/dua-tahun-03.png
 [image-dua-tahun-tumpeng]:  /posts/desain/2016/02-gak/dua-tahun-tumpeng.png
+
+[image-landscape]:      /posts/desain/2014/12-pasal/hape-besar-landscape.png
+[source-landscape]:     /posts/desain/2014/12-pasal/hape-besar-landscape.svg
+[image-portrait]:       /posts/desain/2014/12-pasal/hape-kecil.png
+[source-portrait]:      /posts/desain/2014/12-pasal/hape-kecil.svg

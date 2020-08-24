@@ -65,12 +65,12 @@ Buka properti berkas, can bikinlah `Axonometric Grid` yang baru.
 
 * Kisi utama `major grid`: 4
 
-Periksa pilihan menu (<kbd>View - Page Grid</kbd>)
+Periksalah pilihan menu (<kbd>View - Page Grid</kbd>)
 untuk menampilkan kisi `grid` di halaman pembaca.
 Perhatikan bahwa jarak `spacing` dan kisi utama `major grid`,
 bersifat luwes dan dapat diubah kapan saja.
 Aturanya adalah, pilih yang cocok untuk karya yang sedang dikerjakan.
-Sebagai tambahan, pembaca dapat mengubah berkas `XML`,
+Sebagai tambahan, sobat pembaca dapat mengubah berkas `XML`,
 dan kemudian menamai kisi `grid` dengan nama tertentu,
 misalnya `Isonometric`.
 
@@ -121,8 +121,8 @@ harus menutupi semua bidang halaman.
 ![Tuas Patok: Snap Handle][image-snap-handle]
 
 Klik dari simpul `node` ke simpul `node` yang lain,
-sampai pembaca berhasil mendapatkan bentuk berlian.
-Sekarang pembaca memiliki pola ubin,
+sampai sobat pembaca berhasil mendapatkan bentuk berlian.
+Sekarang sobat pembaca memiliki pola ubin,
 sebanyak kira-kira 18 kotak x 19 kotak.
 Tuang dengan warna apapun yang dikehendaki,
 
@@ -164,7 +164,7 @@ Dan jangan lupa untuk mengunci lapisan `layer` ini.
 
 #### Simpan Pekerjaan
 
-Selamat, sekarang pembaca sudah punya template.
+Selamat, sekarang sobat pembaca sudah punya template.
 Simpanlah, `save` ke berkas baru,
 misalnya dengan nama `flat-isometric-looks.svg`.
 
@@ -332,9 +332,9 @@ Pembaca dapat meninjauulang bahan ajar ini dengan berkas sumber SVG berikut:
 
 ### Di Luar Desain Datar
 
-Bilamana pembaca menghendaki tampilan yang lebih nyata,
+Bilamana sobat pembaca menghendaki tampilan yang lebih nyata,
 dengan meninggalakan filosofi `flat designn`.
-Maka pembaca dapat menggunakan efek `filter`,
+Maka sobat pembaca dapat menggunakan efek `filter`,
 yang akan membuat balok tampak seperti pita.
 
 Pembaca perlu menggandakan tiap-tiap pita,
