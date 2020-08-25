@@ -46,13 +46,13 @@ Contohnya adalah begini:
 
 ![Woro-woro: Whatsapp: Separo dalam Pesn][image-ws-partial]
 
-Padahal kalau di-klik menjadi begini:a
+Padahal kalau di-klik menjadi begini:
 
 ![Woro-woro: Whatsapp: Layar Penuh][image-ws-fullscreen]
 
-Ini mudah membuatnya,
+Membikinnya sih mudah,
 namun karena tidak ada panduan yang pasti,
-mesti mencoba peletakannya.
+sohib mesti mencoba-coba sendiri peletakannya.
 Kalau mau lebih jelas, lihat langsung di source gambar SVG di atas.
 
 -- -- --
@@ -119,6 +119,7 @@ dengan jumlah total sebanyak sembilan konsep logo nano.
 
 Tulisan ini terinsipirasi film `Thor Ragnarok`,
 yang sedang tayang belum lama berselang.
+Tulisannya kubikin nge-jreng seperti tulisan di era djadoel 80-an.
 
 ![Woro-Woro: Business Network: Lengkap][image-nano-lengkap]
 
