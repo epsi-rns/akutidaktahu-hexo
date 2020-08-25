@@ -23,6 +23,16 @@ karena selama ini melihat woro-woro yang ada bentuknya itu-itu saja.
 Sebetulnya dengan tidak menjadi panitia inilah,
 rasanya saya lebih bebas bereksperimen tanpa beban.
 
+#### Sangkalan
+
+> Salah Tema Warna
+
+Rancangan konsep dengan warna gelap ini mestinya untuk kegiatan malam.
+Sedangkan kegiatannya sendiri pagi sehingga seharusnya memakai warna terang.
+Lalu aku baru `ngeh` kalau salah warna dari awal ketika sudah berakhir.
+
+Maaf yacc.
+
 #### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
@@ -82,7 +92,7 @@ maka aku beri video-nya paman Nick Saporito saja yacc.
 
 * [Inkscape Tutorial: Vector Smoke Effect][nick-saporito]
 
-Di aku hasilnya begini:
+Di komputer aku hasilnya begini:
 
 ![Woro-woro: Kabut Asap Pelangi Warna-Warni][image-spectrum]
 
