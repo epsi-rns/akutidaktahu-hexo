@@ -49,15 +49,6 @@ Dapat ditambahkan lokasi lampu jalan mana saja remang-remang,
 atau keterangan saluran air mana saja yang banjir.
 Pokoke RW in lebih siap akhir tahun ini.
 
-#### Alternatif
-
-Ada cara lain selain yang diungkap di artikel ini,
-yaitu unduh SVG dari `openstreemap`.
-
-![Open Street Map][openstreetmap]
-
-Lebih rinci. Silahkan dicoba sendiri. Bagus koq.
-
 #### Source SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
@@ -81,6 +72,16 @@ aku pakai (cieee... aku..) ukuran lebar 500px x kali 600px.
 Kalo nanti kurang, khan bisa ditambahin ukurannya.
 
 > Gampang toh.
+
+#### Alternatif
+
+Ada cara lain selain yang diungkap di artikel ini,
+yaitu unduh SVG dari `openstreemap`.
+Lebih rinci. Silahkan dicoba sendiri. Bagus koq.
+
+![Open Street Map][openstreetmap]
+
+Sayangnya SVG tersebut tidak dipisahkan berdasarkan lapisan `layer`.
 
 #### Sketsa Jalan
 
