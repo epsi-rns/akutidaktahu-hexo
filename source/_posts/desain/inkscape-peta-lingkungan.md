@@ -49,6 +49,15 @@ Dapat ditambahkan lokasi lampu jalan mana saja remang-remang,
 atau keterangan saluran air mana saja yang banjir.
 Pokoke RW in lebih siap akhir tahun ini.
 
+#### Alternatif
+
+Ada cara lain selain yang diungkap di artikel ini,
+yaitu unduh SVG dari `openstreemap`.
+
+![Open Street Map][openstreetmap]
+
+Lebih rinci. Silahkan dicoba sendiri. Bagus koq.
+
 #### Source SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
@@ -211,3 +220,4 @@ Itu saja yacc sohib. Sampai jumpaaaaa...
 [image-lapisan-07]: /posts/desain/2020/08-map/07-lapisan-layers.png
 [image-bendera]:    /posts/desain/2020/08-map/07-merah-putih.png
 [image-kesukaan]:   /posts/desain/2020/08-map/07-kesukaan.png
+[openstreetmap]:    /posts/desain/2020/08-map/openstreetmap.png
