@@ -239,6 +239,13 @@ Silahkan di-klik untuk melihat gambar yang lebih besar dengan resolusi tinggi.
 
 [![Woro-Woro: Hasil Akhir Siap Tayang][image-event-ring-s]][image-event-ring]
 
+Suatu hari saya sedang buru-buru,
+rancangan desain ini pernah saya pakai ulang. Hehehe..
+Walaupun hasilnya tidak sebagus di atas,
+karena membikinnya-pun terburu-buru.
+
+![Rancangan Desain Dipakai Ulang][image-dekan-ilusin]
+
 Silahkan dipakai, diamati, ditiru, atau dimodifikasi,
 untuk keperluan masing-masing.
 
@@ -256,6 +263,7 @@ Segitu saja yacc. Sampai jumpa sohib.
 [source-nano-01]:       /posts/desain/2017/11-ilusin/nano-01.svg
 [source-nano-02]:       /posts/desain/2017/11-ilusin/nano-02.svg
 
+[image-dekan-ilusin]:   /posts/desain/2017/11-ilusin/dekan-ilusin.png
 [image-event-ring]:     /posts/desain/2017/11-ilusin/event-ring-07.png
 [image-event-ring-s]:   /posts/desain/2017/11-ilusin/event-ring-07-small.png
 
