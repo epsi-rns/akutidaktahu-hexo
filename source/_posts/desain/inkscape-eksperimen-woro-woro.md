@@ -27,9 +27,13 @@ rasanya saya lebih bebas bereksperimen tanpa beban.
 
 > Salah Tema Warna
 
-Rancangan konsep dengan warna gelap ini mestinya untuk kegiatan malam.
-Sedangkan kegiatannya sendiri pagi sehingga seharusnya memakai warna terang.
-Lalu aku baru `ngeh` kalau salah warna dari awal ketika sudah berakhir.
+Rancangan konsep dengan warna gelap ini,
+mestinya untuk kegiatan malam.
+Sedangkan kegiatannya sendiri pagi sampai sore,
+sehingga seharusnya memakai warna terang.
+Lalu aku baru `ngeh` kalau,
+salah warna dari awa,
+ketika sudah berakhir.
 
 Maaf yacc.
 
@@ -190,12 +194,12 @@ ada penjelasan singkat mengenai kegiatan.
 
 ![Woro-Woro: Penjelasan yang tidak perlu dijelaskan][image-penjelasan]
 
-Ini mah tidak perlu dijelaskan lagi bagaimana cara bikinnya.
+Ini mah tidak perlu dijelaskan lagi, bagaimana cara membikinnya.
 
 #### Acuan Ilham
 
 Gagasan awalnya berasal dari blog saya yang berbahasa inggris.
-Cieee. bisa bikin blog berbahasa inggris gitu loh.
+Cieee... bisa bikin blog berbahasa inggris gitu loh.
 
 * [Inkscape: Progress Ring Animation][gitlab-progress-ring]
 
@@ -220,6 +224,10 @@ Dan yang ketiga, jadilah seperti penampakan di bawah ini:
 
 ![Woro-Woro: Tanggal Tayang: Percobaan Ketiga][image-event-ring-03]
 
+Akhirnya seperti ini
+
+![Woro-Woro: Tanggal Tayang: Hasil Akhir][image-tanggal-final]
+
 Kalau ada yang bilang kurang bagus.
 Jawaban saya adalah: _biarin... biarin_.
 
@@ -230,6 +238,9 @@ Jawaban saya adalah: _biarin... biarin_.
 Silahkan di-klik untuk melihat gambar yang lebih besar dengan resolusi tinggi.
 
 [![Woro-Woro: Hasil Akhir Siap Tayang][image-event-ring-s]][image-event-ring]
+
+Silahkan dipakai, diamati, ditiru, atau dimodifikasi,
+untuk keperluan masing-masing.
 
 -- -- --
 
@@ -266,7 +277,7 @@ Segitu saja yacc. Sampai jumpa sohib.
 [image-biznet-bawah-01]:/posts/desain/2017/11-ilusin/biznet-bawah-gelap.png
 [image-biznet-bawah-02]:/posts/desain/2017/11-ilusin/biznet-bawah-terang.png
 
-[image-penjelasan]:     /posts/desain/2017/11-ilusin/penjelasan.
+[image-penjelasan]:     /posts/desain/2017/11-ilusin/penjelasan.png
 [image-progress-ring]:  /posts/desain/2017/11-ilusin/progress-ring-dark.png
 [image-event-ring-01]:  /posts/desain/2017/11-ilusin/event-ring-01.png
 [image-event-ring-02]:  /posts/desain/2017/11-ilusin/event-ring-02.png
