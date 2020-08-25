@@ -49,7 +49,7 @@ Dapat ditambahkan lokasi lampu jalan mana saja remang-remang,
 atau keterangan saluran air mana saja yang banjir.
 Pokoke RW in lebih siap akhir tahun ini.
 
-#### Source SVG
+#### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
