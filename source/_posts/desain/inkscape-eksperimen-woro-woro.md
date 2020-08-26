@@ -32,7 +32,7 @@ mestinya untuk kegiatan malam.
 Sedangkan kegiatannya sendiri pagi sampai sore,
 sehingga seharusnya memakai warna terang.
 Lalu aku baru `ngeh` kalau,
-salah warna dari awa,
+salah warna dari awal,
 ketika sudah berakhir.
 
 Maaf yacc.
