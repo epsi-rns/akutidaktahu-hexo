@@ -220,6 +220,11 @@ maka penulis ganti sedikit logo-nya, dan juga nama-nya.
 
 #### Tampak Depan
 
+Boleh memakai rancangan desain ini,
+namun mohon memakai logo sendiri,
+karena logo yang ada sudah dipakai untuk perusahaan,
+di mana penulis berjuang.
+
 ![Teman: Business Card: Tampak Depan][image-teman-card]
 
 **Source**
