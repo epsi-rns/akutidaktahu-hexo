@@ -287,7 +287,7 @@ Segitu saja yacc. Sampai jumpa sohib.
 
 [source-iluni-card]:    /posts/desain/2017/10-kartu-nama/03-business-card-iluni-wilayah.svg
 [source-iluni-cover]:   /posts/desain/2017/10-kartu-nama/03-cover-card-iluni-wilayah.svg
-[source-indie-pages]:   /posts/desain/2017/10-kartu-nama/03-two-pages-indie-wilayah.svg
+[source-iluni-pages]:   /posts/desain/2017/10-kartu-nama/03-two-pages-iluni-wilayah.svg
 
 [image-teman-card]:     /posts/desain/2017/10-kartu-nama/04-business-card-teman-93.png
 [image-teman-page]:     /posts/desain/2017/10-kartu-nama/04-single-page-teman-93.png
