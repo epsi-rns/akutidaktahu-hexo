@@ -42,7 +42,7 @@ Maaf yacc.
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
 
-* [akutidaktahu.netlify.app/.../event-ring-07.svg][source-event-ring]
+* [event-ring-07.svg][source-event-ring]
 
 #### DeviantArt
 
@@ -102,7 +102,7 @@ Di komputer aku hasilnya begini:
 
 Source gambar SVG-nya dapat diunduh di sini:
 
-* [akutidaktahu.netlify.app/.../rainbow-spectrum.svg][source-spectrum]
+* [rainbow-spectrum.svg][source-spectrum]
 
 Spektrum kabut asap pelangi warna-warni ini dapat dibuat ulang,
 sesuai tutorial yang ada. Dan dapat diganti warna-nya,
