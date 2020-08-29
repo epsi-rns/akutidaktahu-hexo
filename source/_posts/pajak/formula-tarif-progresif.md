@@ -205,17 +205,17 @@ maka teman2 dapat membikin rumus sendiri khan ?
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[tarif-progresif-infografis]:   /posts/2019/09/formula-progressive.png
-[tarif-progresif-source-svg]:   /posts/2019/09/formula-progressive.svg
-[tarif-progresif-libreoffice]:  /posts/2019/09/hitung-tarif-progresif.ods
-[tarif-progresif-ms-office]:    /posts/2019/09/hitung-tarif-progresif.xls
+[tarif-progresif-infografis]:   /posts/pajak/2019/09/formula-progressive.png
+[tarif-progresif-source-svg]:   /posts/pajak/2019/09/formula-progressive.svg
+[tarif-progresif-libreoffice]:  /posts/pajak/2019/09/hitung-tarif-progresif.ods
+[tarif-progresif-ms-office]:    /posts/pajak/2019/09/hitung-tarif-progresif.xls
 
-[tarif-01-table]:   /posts/2019/09/01-table.png
-[tarif-02-between]: /posts/2019/09/02-between.png
-[tarif-03-sumif]:   /posts/2019/09/03-sumif-min.png
-[tarif-04-sumif]:   /posts/2019/09/04-sumif-if.png
-[tarif-05-match]:   /posts/2019/09/05-match-index.png
-[tarif-06-sum-min]: /posts/2019/09/06-sum-min.png
-[tarif-07-min-max]: /posts/2019/09/07-sum-min-max.png
-[tarif-08-sum-min]: /posts/2019/09/08-sum-min.png
-[tarif-09-sum-max]: /posts/2019/09/09-sum-max.png
+[tarif-01-table]:   /posts/pajak/2019/09/01-table.png
+[tarif-02-between]: /posts/pajak/2019/09/02-between.png
+[tarif-03-sumif]:   /posts/pajak/2019/09/03-sumif-min.png
+[tarif-04-sumif]:   /posts/pajak/2019/09/04-sumif-if.png
+[tarif-05-match]:   /posts/pajak/2019/09/05-match-index.png
+[tarif-06-sum-min]: /posts/pajak/2019/09/06-sum-min.png
+[tarif-07-min-max]: /posts/pajak/2019/09/07-sum-min-max.png
+[tarif-08-sum-min]: /posts/pajak/2019/09/08-sum-min.png
+[tarif-09-sum-max]: /posts/pajak/2019/09/09-sum-max.png

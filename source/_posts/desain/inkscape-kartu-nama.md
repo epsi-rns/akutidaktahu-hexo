@@ -5,7 +5,7 @@ tags      : [inkscape]
 category  : [desain]
 keywords  : [kartu nama, business card]
 
-toc       : "toc/2015-keseharian"
+toc       : "toc/2015-inkscape-keseharian"
 ---
 
 ### Prakata
@@ -48,6 +48,9 @@ maka jangan dibuat ukuran pixel yacc.
 
 Sejujurnya saya tidak terlalu peduli.
 Apalagi sekarang kartu nama bukan hal yang terlalu utama.
+
+Cukup bawa versi PDF ke percetakan.
+Biasanya percetakan langsung paham mesti ngapain.
 
 #### Cara Membikin
 

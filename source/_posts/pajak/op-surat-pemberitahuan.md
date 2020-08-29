@@ -42,14 +42,14 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[kategori-spt-wp-op]:   /posts/2019/08-op/08-Kategori-SPT-WP-OP.png
-[kuadran-spt-wp-op]:    /posts/2019/08-op/08-Kuadran-SPT-WP-OP.png
-[perhitungan-keluarga]: /posts/2019/08-op/09-Perhitungan-Keluarga.png
-[tabel-kk-hb-ph-mt]:    /posts/2019/08-op/10-Tabel-KK-HB-PH-MT.png
+[kategori-spt-wp-op]:   /posts/pajak/2019/08-op/08-Kategori-SPT-WP-OP.png
+[kuadran-spt-wp-op]:    /posts/pajak/2019/08-op/08-Kuadran-SPT-WP-OP.png
+[perhitungan-keluarga]: /posts/pajak/2019/08-op/09-Perhitungan-Keluarga.png
+[tabel-kk-hb-ph-mt]:    /posts/pajak/2019/08-op/10-Tabel-KK-HB-PH-MT.png
 
 [github-orang-pribadi]:  https://github.com/epsi-rns/belajar-pajak/tree/master/02-OP/svg
 
 
-[chart-progressive]:    /posts/2019/08-op/11-Chart-Progressive.png
-[wp-op-pekerja-bebas]:  /posts/2019/08-op/12-Kategori-WP-OP-Pekerja-Bebas.png
-[wp-op-pengusaha]:      /posts/2019/08-op/13-Kategori-WP-OP-Pengusaha.png
+[chart-progressive]:    /posts/pajak/2019/08-op/11-Chart-Progressive.png
+[wp-op-pekerja-bebas]:  /posts/pajak/2019/08-op/12-Kategori-WP-OP-Pekerja-Bebas.png
+[wp-op-pengusaha]:      /posts/pajak/2019/08-op/13-Kategori-WP-OP-Pengusaha.png

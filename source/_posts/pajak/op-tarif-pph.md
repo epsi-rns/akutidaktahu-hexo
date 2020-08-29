@@ -39,9 +39,9 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[kategori-bunga-1]:     /posts/2019/08-op/05a-Kategori-Bunga.png
-[kategori-bunga-2]:     /posts/2019/08-op/05b-Kategori-Bunga.png
-[kategori-hadiah]:      /posts/2019/08-op/06-Kategori-Hadiah.png
-[kategori-dividen]:     /posts/2019/08-op/07-Kategori-Dividen.png
+[kategori-bunga-1]:     /posts/pajak/2019/08-op/05a-Kategori-Bunga.png
+[kategori-bunga-2]:     /posts/pajak/2019/08-op/05b-Kategori-Bunga.png
+[kategori-hadiah]:      /posts/pajak/2019/08-op/06-Kategori-Hadiah.png
+[kategori-dividen]:     /posts/pajak/2019/08-op/07-Kategori-Dividen.png
 
 [github-orang-pribadi]:  https://github.com/epsi-rns/belajar-pajak/tree/master/02-OP/svg

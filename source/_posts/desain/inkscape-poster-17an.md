@@ -4,7 +4,7 @@ date      : 2020/08/16 09:17:35
 tags      : [inkscape]
 category  : [desain, kartu]
 
-toc       : "toc/2015-keseharian"
+toc       : "toc/2015-inkscape-keseharian"
 ---
 
 Setelah berulangkali membuat kartu untuk orang lain.

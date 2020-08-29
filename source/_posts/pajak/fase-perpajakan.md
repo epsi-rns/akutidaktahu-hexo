@@ -185,14 +185,14 @@ sebagaimana dimaksud dalam Pasal 26 ayat (1).
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[flowchart]:        /posts/2019/08-kup/fase-01-flowchart.png
-[fase-00-01-02]:    /posts/2019/08-kup/0-KUP-definisi-1(2).png
-[fase-01-02-01]:    /posts/2019/08-kup/1-KUP-hak-dan-kewajiban-2(1).png
-[fase-02-12-00]:    /posts/2019/08-kup/2-KUP-self-assessment-12(1,2).png
-[fase-02-28-01]:    /posts/2019/08-kup/2-KUP-self-assessment-28(1).png
-[fase-03-12-03]:    /posts/2019/08-kup/3-KUP-pengawasan-12(3).png
-[fase-03-29-03]:    /posts/2019/08-kup/3-KUP-pengawasan-29(3).png
-[fase-04-25-01]:    /posts/2019/08-kup/4-KUP-sengketa-25(1).png
-[fase-05-27-01]:    /posts/2019/08-kup/5-KUP-penyelesaian-sengketa-27(1).png
+[flowchart]:        /posts/pajak/2019/08-kup/fase-01-flowchart.png
+[fase-00-01-02]:    /posts/pajak/2019/08-kup/0-KUP-definisi-1(2).png
+[fase-01-02-01]:    /posts/pajak/2019/08-kup/1-KUP-hak-dan-kewajiban-2(1).png
+[fase-02-12-00]:    /posts/pajak/2019/08-kup/2-KUP-self-assessment-12(1,2).png
+[fase-02-28-01]:    /posts/pajak/2019/08-kup/2-KUP-self-assessment-28(1).png
+[fase-03-12-03]:    /posts/pajak/2019/08-kup/3-KUP-pengawasan-12(3).png
+[fase-03-29-03]:    /posts/pajak/2019/08-kup/3-KUP-pengawasan-29(3).png
+[fase-04-25-01]:    /posts/pajak/2019/08-kup/4-KUP-sengketa-25(1).png
+[fase-05-27-01]:    /posts/pajak/2019/08-kup/5-KUP-penyelesaian-sengketa-27(1).png
 
 [github-pasal]:     https://github.com/epsi-rns/belajar-pajak/tree/master/01-KUP/Fase%20Perpajakan

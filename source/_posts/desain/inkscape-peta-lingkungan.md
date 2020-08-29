@@ -5,7 +5,7 @@ tags      : [inkscape, lingkungan]
 category  : [desain]
 keywords  : [RT/RW, Rukun Warga, Rukun Tetangga]
 
-toc       : "toc/2015-keseharian"
+toc       : "toc/2015-inkscape-keseharian"
 ---
 
 ### Prakata

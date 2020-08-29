@@ -58,7 +58,7 @@ Pernahkah sohib pembaca mengklik sebuah gambar kechil di whatsapp,
 lalu keluar gambar yang lebih lengkap?
 Contohnya adalah begini:
 
-![Woro-woro: Whatsapp: Separo dalam Pesn][image-ws-partial]
+![Woro-woro: Whatsapp: Separo dalam Pesan][image-ws-partial]
 
 Padahal kalau di-klik menjadi begini:
 
@@ -203,6 +203,10 @@ Cieee... bisa bikin blog berbahasa inggris gitu loh.
 
 * [Inkscape: Progress Ring Animation][gitlab-progress-ring]
 
+Yang sudah kubikin terjemahannya juga di sini:
+
+* [Inkscape: Animasi Cincin][local-progress-ring]
+
 Dengan hasil sebagai berikut
 
 ![Inkscape: Progress Ring Animation][image-progress-ring]
@@ -257,6 +261,7 @@ Segitu saja yacc. Sampai jumpa sohib.
 
 [nick-saporito]:    https://www.youtube.com/watch?v=kuJRlMfG0HQ
 [gitlab-progress-ring]: https://epsi-rns.gitlab.io/design/2017/11/15/inkscape-progress-ring/
+[local-progress-ring]:  https://akutidaktahu.netlify.app/2017/11/15/desain/inkscape-animasi-cincin/
 
 [source-event-ring]:    /posts/desain/2017/11-ilusin/event-ring-07.svg
 [source-spectrum]:      /posts/desain/2017/11-ilusin/rainbow-spectrum.svg

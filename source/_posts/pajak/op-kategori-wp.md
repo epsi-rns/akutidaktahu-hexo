@@ -41,9 +41,9 @@ Pasal 17
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[chart-progressive]:    /posts/2019/08-op/11-Chart-Progressive.png
-[wp-op-pekerja-bebas]:  /posts/2019/08-op/12-Kategori-WP-OP-Pekerja-Bebas.png
-[wp-op-pengusaha]:      /posts/2019/08-op/13-Kategori-WP-OP-Pengusaha.png
+[chart-progressive]:    /posts/pajak/2019/08-op/11-Chart-Progressive.png
+[wp-op-pekerja-bebas]:  /posts/pajak/2019/08-op/12-Kategori-WP-OP-Pekerja-Bebas.png
+[wp-op-pengusaha]:      /posts/pajak/2019/08-op/13-Kategori-WP-OP-Pengusaha.png
 
 [github-orang-pribadi]:  https://github.com/epsi-rns/belajar-pajak/tree/master/02-OP/svg
 

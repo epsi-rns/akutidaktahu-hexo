@@ -41,9 +41,9 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[kategori-pph]:         /posts/2019/08-op/01-Kategori-PPh.png
-[kategori-op]:          /posts/2019/08-op/02-Kategori-OP.png
-[kategori-objek-pph]:   /posts/2019/08-op/03-Kategori-Objek-PPh.png
-[kategori-natura]:      /posts/2019/08-op/04-Kategori-Objek-PPh-Natura.png
+[kategori-pph]:         /posts/pajak/2019/08-op/01-Kategori-PPh.png
+[kategori-op]:          /posts/pajak/2019/08-op/02-Kategori-OP.png
+[kategori-objek-pph]:   /posts/pajak/2019/08-op/03-Kategori-Objek-PPh.png
+[kategori-natura]:      /posts/pajak/2019/08-op/04-Kategori-Objek-PPh-Natura.png
 
 [github-orang-pribadi]:  https://github.com/epsi-rns/belajar-pajak/tree/master/02-OP/svg

@@ -5,7 +5,7 @@ tags      : [inkscape]
 category  : [desain]
 keywords  : [vexel, face tracing, jiplak wajah]
 
-toc       : "toc/2015-keseharian"
+toc       : "toc/2015-inkscape-keseharian"
 ---
 
 ### Prakata

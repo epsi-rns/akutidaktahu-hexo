@@ -66,13 +66,13 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[latihan-3.5]:   /posts/2019/08-kup/latihan-3.5.png
-[latihan-7.7-04]:   /posts/2019/08-kup/latihan-7.7-4.png
-[latihan-7.7-06]:   /posts/2019/08-kup/latihan-7.7-6.png
-[latihan-7.7-07]:   /posts/2019/08-kup/latihan-7.7-7.png
-[latihan-7.7-08]:   /posts/2019/08-kup/latihan-7.7-8.png
-[latihan-7.7-11]:   /posts/2019/08-kup/latihan-7.7-11.png
-[latihan-9.6-03]:   /posts/2019/08-kup/latihan-9.6-3.png
-[latihan-9.6-04]:   /posts/2019/08-kup/latihan-9.6-4.png
+[latihan-3.5]:      /posts/pajak/2019/08-kup/latihan-3.5.png
+[latihan-7.7-04]:   /posts/pajak/2019/08-kup/latihan-7.7-4.png
+[latihan-7.7-06]:   /posts/pajak/2019/08-kup/latihan-7.7-6.png
+[latihan-7.7-07]:   /posts/pajak/2019/08-kup/latihan-7.7-7.png
+[latihan-7.7-08]:   /posts/pajak/2019/08-kup/latihan-7.7-8.png
+[latihan-7.7-11]:   /posts/pajak/2019/08-kup/latihan-7.7-11.png
+[latihan-9.6-03]:   /posts/pajak/2019/08-kup/latihan-9.6-3.png
+[latihan-9.6-04]:   /posts/pajak/2019/08-kup/latihan-9.6-4.png
 
 [github-latihan-soal]:  https://github.com/epsi-rns/belajar-pajak/tree/master/01-KUP/Soal%20Latihan
