@@ -9,7 +9,7 @@ category  : [silsilah]
 
 #### Artikel asli
 
-* [Github: Catatan Silsilah][asli]
+* [Github: Catatan Silsilah][catatan-asli]
 
 #### Edisi Cetak.
 
@@ -1564,7 +1564,7 @@ Catatan: sumber belum tentu benar.
 
 Tidak banyak catatan di luar pemerintahan yang penulis tahu.
 Tentunya banyak, namun penulis tidak memiliki,
-akses langsung ke berkas-berkas terakit.
+akses langsung ke berkas-berkas terkait.
 Berikut salah satu yang ada,
 dengan buku yang ada dimiliki oleh penulis,
 karena terkait langsung dengan keluarga.
@@ -1581,8 +1581,6 @@ karena terkait langsung dengan keluarga.
 
 ![Kyai Yahya bin Moch Qorib][svg-moch-qorib]
 
-[kaliyoso]: https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
-
 -- -- --
 
 Sekian.
@@ -1591,7 +1589,8 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
-[asli]:         https://github.com/epsi-rns/catatan-silsilah/
+[catatan-asli]: https://github.com/epsi-rns/catatan-silsilah/
+[kaliyoso]:     https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [pdf]:          /posts/silsilah/catatan/pdf/catatan-silsilah-2017-februari.pdf
 [svg-jumadil]:  /posts/silsilah/catatan/svg/jumadil-qubro.png
 [svg-mataram]:  /posts/silsilah/catatan/svg/mataram.png

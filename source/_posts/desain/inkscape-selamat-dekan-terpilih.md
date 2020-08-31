@@ -14,6 +14,10 @@ Tidak ada rancangan khusus di dalam artikel ini.
 Kebetulan saja saya pernah membikin ucapan selamat ini,
 dan ingin berbagi, barangkali ada yang membutuhkan.
 
+Untuk ILUNI-FTUI-nya sendiri,
+sudah punya desain yang lebih bagus,
+yang sudah dipakai untuk ucapan selamat sehari-hari.
+
 #### Hasil Akhir
 
 Silahkan di-klik untuk melihat gambar yang lebih besar dengan resolusi tinggi.
