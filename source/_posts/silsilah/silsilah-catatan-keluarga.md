@@ -3,6 +3,8 @@ title     : Silsilah - Catatan Keluarga
 date      : 2017/02/17 09:17:35
 tags      : [inskcape]
 category  : [silsilah]
+
+toc       : "toc/2017-silsilah"
 ---
 
 ### Prakata
@@ -94,15 +96,15 @@ repository sendiri sebagai perbaikan berdasarkan tulisan ini.
 
 Rincian diagram dapat dilihat pada halaman [Jumadil Qubro][jumadil].
 
-*	[Rasulullah SAW - Ja'afar As-Sodiq][01]
+*	[Rasulullah SAW - Ja'afar As-Sodiq](#01)
 
-*	[Abu Bakar RA - Ja'afar As-Sodiq][02]
+*	[Abu Bakar RA - Ja'afar As-Sodiq](#02)
 
-*	[Ja'afar As-Sodiq - Ubaidullah][04]
+*	[Ja'afar As-Sodiq - Ubaidullah](#04)
 
-*	[Ubaidullah - Al Faqih][05]
+*	[Ubaidullah - Al Faqih](#05)
 
-*	[Al Faqih - Jumadil Qubro][07]
+*	[Al Faqih - Jumadil Qubro](#07)
 
 #### Para Sunan dalam Diagram
 
@@ -128,25 +130,25 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
 *Wali*
 
-*	[Sunan Gresik][21] (Bapak dari Jaka Tarub)
+*	[Sunan Gresik](#21) (Bapak dari Jaka Tarub)
 	<br/>(1297 M - 1419 M)
 
-*	[Sunan Giri][22] (Lewat Ki Ageng Saba)
+*	[Sunan Giri](#22) (Lewat Ki Ageng Saba)
 	<br/>(1442 M - 1506 M)
 
-*	[Sunan Gunung Jati][23]
+*	[Sunan Gunung Jati](#23)
 	<br/>(1448 M - 1568 M)
 
-*	[Sunan Kalijaga][24]
+*	[Sunan Kalijaga](#24)
 	<br/>(1450 M - )
 
 *Tokoh*
 
-*	[Kebungsuan Pengging][27] (Putra Jumadil Qubro)
+*	[Kebungsuan Pengging](#27) (Putra Jumadil Qubro)
 
 *Tambahan*
 
-*	[Syekh Siti Jenar][26]
+*	[Syekh Siti Jenar](#26)
 	<br/>Catatan: Lewat istri Raden Mas Jolang
 	ke Raden Mas Rangsang (Sultan Agung),
 	bukan leluhur Raden Mas Jolang.
@@ -157,23 +159,23 @@ Rincian diagram dapat dilihat pada halaman [Pangeran Mandura][mandura].
 
 *Wali*
 
-*	[Sunan Gresik][11] (Bapak dari Jaka Tarub)
+*	[Sunan Gresik](#11) (Bapak dari Jaka Tarub)
 	<br/>(1297 M - 1419 M)
 
-*	[Sunan Giri][12] (Lewat Ki Ageng Saba)
+*	[Sunan Giri](#12) (Lewat Ki Ageng Saba)
 	<br/>(1442 M - 1506 M)
 
-*	[Sunan Ampel][13]
+*	[Sunan Ampel](#13)
 	<br/>(1401 M - 1481 M) 
 
-*	[Syekh Siti Jenar][16]
+*	[Syekh Siti Jenar](#16)
 	<br/>(1404 M - )
 
 *Tokoh*
 
-*	[Kebungsuan Pengging][17] (Putra Jumadil Qubro)
+*	[Kebungsuan Pengging](#17) (Putra Jumadil Qubro)
 
-*	[Raden Patah][19] (Menantu Sunan Ampel)
+*	[Raden Patah](#19) (Menantu Sunan Ampel)
 
 #### Persilangan
 
@@ -181,13 +183,13 @@ Rincian diagram dapat dilihat pada halaman [persilangan][silang].
 
 Persilangan keduanya berkumpul sebagai berikut.
 
-*	[Raden Mas Jolang - Amangkurat][31]
+*	[Raden Mas Jolang - Amangkurat](#31)
 
-*	[Pangeran Mandura - Amangkurat][32]
+*	[Pangeran Mandura - Amangkurat](#32)
 
-*	[Raden Mas Jolang - Kyai Gulu][33]
+*	[Raden Mas Jolang - Kyai Gulu](#33)
 
-*	[Pangeran Mandura - Kyai Gulu][34]
+*	[Pangeran Mandura - Kyai Gulu](#34)
 
 #### Keturunan Priyayi: Mataram
 
@@ -195,15 +197,15 @@ Rincian diagram dapat dilihat pada halaman [mataram][mataram].
 
 Sumber: Rodovid
 
-*	[Pendiri][41]
+*	[Pendiri](#41)
 
-*	[Pakubuwono][42]
+*	[Pakubuwono](#42)
 
-*	[Hamengkubuwono][43]
+*	[Hamengkubuwono](#43)
 
-*	[Mangkunegara][44]
+*	[Mangkunegara](#44)
 
-*	[Pakualam][45]
+*	[Pakualam](#45)
 
 ![Genealogi Mataram dalam Diagram][svg-mataram]
 
@@ -285,15 +287,15 @@ karena itu pemahaman saya sangat terbatas.
 
 ### 3: Silsilah Jumadil Qubro
 
-*	[Rasulullah SAW - Ja'afar As-Sodiq][01]
+*	[Rasulullah SAW - Ja'afar As-Sodiq](#01)
 
-*	[Abu Bakar RA - Ja'afar As-Sodiq][02]
+*	[Abu Bakar RA - Ja'afar As-Sodiq](#02)
 
-*	[Ja'afar As-Sodiq - Ubaidullah][04]
+*	[Ja'afar As-Sodiq - Ubaidullah](#04)
 
-*	[Ubaidullah - Al Faqih][05]
+*	[Ubaidullah - Al Faqih](#05)
 
-*	[Al Faqih - Jumadil Qubro][07]
+*	[Al Faqih - Jumadil Qubro](#07)
 
 ![Genealogi Jumadil Qubro dalam Diagram][svg-silsilah-jumadil]
 
@@ -484,25 +486,25 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
 *Wali*
 
-*	[Sunan Gresik][21] (Bapak dari Jaka Tarub)
+*	[Sunan Gresik](#21) (Bapak dari Jaka Tarub)
 	<br/>(1297 M - 1419 M)
 
-*	[Sunan Giri][22] (Lewat Ki Ageng Saba)
+*	[Sunan Giri](#22) (Lewat Ki Ageng Saba)
 	<br/>(1442 M - 1506 M)
 
-*	[Sunan Gunung Jati][23]
+*	[Sunan Gunung Jati](#23)
 	<br/>(1448 M - 1568 M)
 
-*	[Sunan Kalijaga][24]
+*	[Sunan Kalijaga](#24)
 	<br/>(1450 M - )
 
 *Tokoh*
 
-*	[Kebungsuan Pengging][27] (Putra Jumadil Qubro)
+*	[Kebungsuan Pengging](#27) (Putra Jumadil Qubro)
 
 *Tambahan*
 
-*	[Syekh Siti Jenar][26]
+*	[Syekh Siti Jenar](#26)
 	<br/>Catatan: Lewat istri Raden Mas Jolang
 	ke Raden Mas Rangsang (Sultan Agung),
 	bukan leluhur Raden Mas Jolang.
@@ -799,23 +801,23 @@ Tampaknya yang menjadi pemimpin (raja) adalah dari garis ibu semua.
 
 *Wali*
 
-*	[Sunan Gresik][11] (Bapak dari Jaka Tarub)
+*	[Sunan Gresik](#11) (Bapak dari Jaka Tarub)
 	<br/>(1297 M - 1419 M)
 
-*	[Sunan Giri][12] (Lewat Ki Ageng Saba)
+*	[Sunan Giri](#12) (Lewat Ki Ageng Saba)
 	<br/>(1442 M - 1506 M)
 
-*	[Sunan Ampel][13]
+*	[Sunan Ampel](#13)
 	<br/>(1401 M - 1481 M) 
 
-*	[Syekh Siti Jenar][16]
+*	[Syekh Siti Jenar](#16)
 	<br/>(1404 M - )
 
 *Tokoh*
 
-*	[Kebungsuan Pengging][17] (Putra Jumadil Qubro)
+*	[Kebungsuan Pengging](#17) (Putra Jumadil Qubro)
 
-*	[Raden Patah][19] (Menantu Sunan Ampel)
+*	[Raden Patah](#19) (Menantu Sunan Ampel)
 
 ![Genealogi Pangeran Mandura dalam Diagram][svg-silsilah-mandura]
 
@@ -1057,13 +1059,13 @@ Catatan: sumber belum tentu benar.
 
 Persilangan keduanya berkumpul sebagai berikut.
 
-*	[Raden Mas Jolang - Amangkurat][31]
+*	[Raden Mas Jolang - Amangkurat](#31)
 
-*	[Pangeran Mandura - Amangkurat][32]
+*	[Pangeran Mandura - Amangkurat](#32)
 
-*	[Raden Mas Jolang - Kyai Gulu][33]
+*	[Raden Mas Jolang - Kyai Gulu](#33)
 
-*	[Pangeran Mandura - Kyai Gulu][34]
+*	[Pangeran Mandura - Kyai Gulu](#34)
 
 ![Genealogi Amangkurat dalam Diagram][svg-silsilah-amangkurat]
 
@@ -1178,15 +1180,15 @@ Catatan: sumber belum tentu benar.
 
 Sumber: Rodovid
 
-*	[Pendiri][41]
+*	[Pendiri](#41)
 
-*	[Pakubuwono][42]
+*	[Pakubuwono](#42)
 
-*	[Hamengkubuwono][43]
+*	[Hamengkubuwono](#43)
 
-*	[Mangkunegara][44]
+*	[Mangkunegara](#44)
 
-*	[Pakualam][45]
+*	[Pakualam](#45)
 
 ![Genealogi Mataram dalam Diagram][svg-mataram]
 
@@ -1613,34 +1615,3 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 [silang]:  #silang
 [mataram]: #mataram
 [santri]:  #santri
-
-[01]: #01
-[02]: #02
-[04]: #04
-[05]: #05
-[07]: #07
-
-[21]: #21
-[22]: #22
-[23]: #23
-[24]: #24
-[26]: #26
-[27]: #27
-
-[11]: #11
-[12]: #12
-[13]: #13
-[16]: #16
-[17]: #17
-[19]: #19
-
-[31]: #31
-[32]: #32
-[33]: #33
-[34]: #34
-
-[41]: #41
-[42]: #42
-[43]: #43
-[44]: #44
-[45]: #45
