@@ -1587,10 +1587,12 @@ karena terkait langsung dengan keluarga.
 
 Sekian.
 
-Silahkan melanjutkan ke berkas silsilah berikutnya.
+Silahkan melanjutkan ke berkas silsilah berikutnya,
+yaitu [Gitodipuro][gitodipuro]
 
 [//]: <> ( -- -- -- links below -- -- -- )
 
+[gitodipuro]:   https://akutidaktahu.netlify.app/2017/01/23/silsilah/silsilah-gitodipuro-rewrite/
 [catatan-asli]: https://github.com/epsi-rns/catatan-silsilah/
 [kaliyoso]:     https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
 [pdf]:          /posts/silsilah/catatan/pdf/catatan-silsilah-2017-februari.pdf

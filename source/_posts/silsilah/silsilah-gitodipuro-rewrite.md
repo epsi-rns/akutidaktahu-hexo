@@ -768,15 +768,6 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 [moch-qorib]:   /posts/silsilah/gitodipuro/moch-qorib.png
 [sunan-giri]:   /posts/silsilah/gitodipuro/sunan-giri.png
 
-
-[silsilah1]:   https://github.com/epsi-rns/gitodipuro/blob/master/silsilah.md
-[gitodipuro]: https://github.com/epsi-rns/gitodipuro/blob/master/gitodipuro.md
-
-
-
-[kode1]:          https://github.com/epsi-rns/gitodipuro/blob/master/text/kode.md
-
-
 [A01]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A01.md
 [A02]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A02.md
 [A03]: https://github.com/epsi-rns/gitodipuro/blob/master/tree/A03.md
