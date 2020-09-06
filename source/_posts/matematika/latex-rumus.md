@@ -14,6 +14,8 @@ mathjax   : true
 
 > Tujuan: Menulis Rumus Matematika dengan LaTeX.
 
+#### Akibat Kurang Bergaul
+
 Beberapa kali saya berharap,
 seseorang memperkenalkan LaTeX ke saya,
 pada saat kuliah di kampus Teknik dahulu.

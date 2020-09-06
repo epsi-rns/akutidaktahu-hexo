@@ -14,13 +14,16 @@ mathjax   : true
 
 > Tujuan: Menggambar Bagan Berdasar Persamaan Matematika
 
+#### Akibat Kurang Bergaul
+
 Saya juga berharap ada yang memperkenalkan matplotlib atau sejenisnya,
 saat saya berkuliah di fakultas teknik.
+Dijaman `djadoel` dahulu adanya Matlab,
+itupun saya sama sekali tidak tahu.
 Kebetulan skripsi saya terkait dengan akusisi data,
 yaitu data realtime yang diambil dari mesin `diesel`,
 dengan gambaran diagram `P-V`,
 yang harus ditampilkan seketika di layar komputer.
-
 
 Saya pikir, matplotlib adalah peralatan yang tepat,
 untuk pembikinan diagram seperti ini.
@@ -34,6 +37,13 @@ Daripada saya berkeluh kesah,
 saya membikin skrip bikinan sendiri berdasarkan tutorial yang ada,
 untuk menampilkan grafik berdasarkan rumus,
 dengan menggunakan `matplotlib`.
+
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [Python - Matplotlib][english-version]
 
 -- -- --
 
@@ -172,6 +182,8 @@ Menggambar grafik dengan `matplotlib` cukup menyenangkan.
 Bagaimana menurut sohib sekalian?
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:  https://epsi.bitbucket.io/2020/01/12/python-matplotlib-equation/
 
 [image-2d]: /posts/matematika/2020/01/e-02-quadratic.png
 [image-3d]: /posts/matematika/2020/01/e-04-surface.png
