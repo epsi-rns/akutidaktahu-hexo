@@ -14,9 +14,10 @@ mathjax   : true
 
 > Tujuan: Menulis Rumus Matematika dengan LaTeX.
 
-Beberapa kali saya berharap, seseorang memperkenalkan LaTeX ke saya,
+Beberapa kali saya berharap,
+seseorang memperkenalkan LaTeX ke saya,
 pada saat kuliah di kampus Teknik dahulu.
-Daripada saya berkeluh kesal,
+Daripada saya berkeluh kesah,
 lebih baik saya saja yang memperkenalkan LaTeX kepada sohib sekalian.
 Supaya sohib dapat menggunakan LaTeX untuk keperluan sehari-hari,
 mulai dari sekedar menulis tugas sekolah,
