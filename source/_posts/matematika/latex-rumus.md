@@ -24,6 +24,13 @@ sampai dengan memgkomunikasikan gagasan di sosial media.
 
 $$ \lim\limits_{x \to \infty} \exp(-x) = x $$
 
+#### Bahasa Inggris
+
+Artikel ini juga disajikan di blog penulis yang lain,
+dalam bahasa Inggris:
+
+* [LaTeX - Math Formula][english-version]
+
 -- -- --
 
 ### Berdiri Sendiri
@@ -262,6 +269,8 @@ Hayuuks, kita mainan LaTeX. Hehe..
 Kira2 bagaimana sohib?
 
 [//]: <> ( -- -- -- links below -- -- -- )
+
+[english-version]:  https://epsi.bitbucket.io/2020/01/10/latex-math-formula/
 
 [image-latex-01]:   /posts/matematika/2020/01/latex-limit-01.png
 [image-latex-02]:   /posts/matematika/2020/01/latex-limit-02.png
