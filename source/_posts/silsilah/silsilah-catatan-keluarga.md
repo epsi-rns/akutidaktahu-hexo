@@ -1,7 +1,7 @@
 ---
 title     : Silsilah - Catatan Keluarga
 date      : 2017/02/17 09:17:35
-tags      : [inskcape]
+tags      : [inkscape]
 category  : [silsilah]
 
 toc       : "toc/2017-silsilah"

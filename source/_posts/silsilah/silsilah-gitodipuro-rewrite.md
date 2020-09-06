@@ -1,7 +1,7 @@
 ---
 title     : Silsilah - Gitodipuro Rewrite
 date      : 2017/01/23 09:17:35
-tags      : [inskcape]
+tags      : [inkscape]
 category  : [silsilah]
 
 toc       : "toc/2017-silsilah"
