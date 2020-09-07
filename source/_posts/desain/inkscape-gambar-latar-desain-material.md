@@ -5,7 +5,7 @@ tags      : [inkscape]
 category  : [desain]
 keywords  : [material design, gambar latar, flat design]
 
-toc       : "toc/2015-inskcape-keseharian"
+toc       : "toc/2015-inkscape-keseharian"
 ---
 
 ### Prakata
