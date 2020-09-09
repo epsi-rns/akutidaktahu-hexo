@@ -4,11 +4,29 @@ date      : 2019/09/02 09:17:35
 tags      : [undang-undang, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/08-op/06-Kategori-Hadiah.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Slide tarif pajak penghasilan.
 
-<!-- more --> 
+<!-- more -->
+
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber](#sumber)
+
+* [Tarif Bunga](#tarif-bunga)
+
+-- -- --
+
+<a name="sumber"></a>
 
 ## Sumber
 
@@ -22,6 +40,8 @@ untuk keperluan kantor atau pribadi tersedia di:
 * [infografis source svg gambar][github-orang-pribadi]
 
 -- -- --
+
+<a name="tarif-bunga"></a>
 
 ## Tarif Bunga
 

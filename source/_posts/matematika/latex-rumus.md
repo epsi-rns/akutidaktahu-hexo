@@ -10,11 +10,13 @@ toc       : "toc/2020-matematika"
 mathjax   : true
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Tujuan: Menulis Rumus Matematika dengan LaTeX.
 
-#### Akibat Kurang Bergaul
+### Akibat Kurang Bergaul
 
 Beberapa kali saya berharap,
 seseorang memperkenalkan LaTeX ke saya,
@@ -27,7 +29,21 @@ sampai dengan memgkomunikasikan gagasan di sosial media.
 
 $$ \lim\limits_{x \to \infty} \exp(-x) = x $$
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Berdiri Sendiri](#mandiri)
+
+* 2: [Pemasangan](#pemasangan)
+
+* 3: [Merapikan Posisi Rumus Dengan Banyak Baris](#merapikan)
+
+* 4: [Saya masih cupu?](#cupu)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -36,7 +52,9 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Berdiri Sendiri
+<a name="mandiri"></a>
+
+## 1: Berdiri Sendiri
 
 Dengan maraknya `data science` dan `pemrograman fungsional`.
 Sekarang saya merasa perlu menulis rumus di blog dengan MathJax,
@@ -107,15 +125,16 @@ menjadi bening transparan dengan `dvipng`.
 ❯ dvipng equation.dvi -D 200 -bg transparent
 {% endcodeblock %}
 
-
 -- -- --
 
-### Pemasangan
+<a name="pemasangan"></a>
+
+## 2: Pemasangan
 
 Bisa jadi sohib membutuhkan paket tambahan,
 tergantung sistem yang dipakai.
 
-#### Gentoo
+### Gentoo
 
 {% codeblock lang:bash %}
 ❯ sudo emerge -av texlive-latex
@@ -123,7 +142,7 @@ tergantung sistem yang dipakai.
 ❯ sudo emerge -av texlive-latexextra
 {% endcodeblock %}
 
-#### openSUSE
+### openSUSE
 
 Seru nie, akan dipasang 2148 paket tambahan,
 kalau menggunakan openSUSE 15.1.
@@ -142,14 +161,16 @@ sohib dapat menambahkan:
 
 -- -- --
 
-### Merapikan Posisi Rumus Dengan Banyak Baris
+<a name="merapikan"></a>
+
+## 3: Merapikan Posisi Rumus Dengan Banyak Baris
 
 Setelah beberapa kali percobaan, dan beberapa kali gagal,
 Saya berhasil menemukan cara untuk menyamakan posisi,
 dari beberapa rumus sekaligus.
 Tentunya semuanya dalam satu kestuan berkas yang berdiri sendiri.
 
-#### Masalah Indentasi
+### Masalah Indentasi
 
 {% codeblock lang:latex %}
 \documentclass[
@@ -174,7 +195,7 @@ gambar ini memiliki batas pinggir yang tidak diinginkan.
 
 ![LaTeX: Multiline Issue][image-latex-03]
 
-#### Bagaimana Penyelesaiannya?
+### Bagaimana Penyelesaiannya?
 
 Atur saja indentasinya ke nol.
 
@@ -184,7 +205,7 @@ Atur saja indentasinya ke nol.
 \setlength{\mathindent}{0cm}
 {% endcodeblock %}
 
-#### Contoh
+### Contoh
 
 {% codeblock lang:latex %}
 \documentclass[
@@ -219,14 +240,16 @@ Atur saja indentasinya ke nol.
 
 - -- --
 
-### Saya masih cupu?
+<a name="cupu"></a>
+
+## 4: Saya masih cupu?
 
 > Pertanyaan Umum
 
 Duh, aku khan bukan `coder`?
 Bagaimana memulai belajarnya bang?
 
-#### Tea Inside
+### Tea Inside
 
 Bagi orang awam,
 cara termudah untuk membikin LaTeX adalah menggunakan TeaLaTeX compiler,
@@ -237,7 +260,7 @@ yang dibikin oleh pemuda berbakat bernama **Ammar Faizi** (orang kita).
 Coba saja beberapa rumus `LaTeX`,
 dan situs ini akan menyusun hasilnya untuk sohib.
 
-#### Kode Sumber
+### Kode Sumber
 
 > Pertanyaan Lagi
 
@@ -252,7 +275,9 @@ Taruh koding-an ke situ, dan sim-salabim.
 
 -- -- --
 
-### Kesimpulan
+<a name="penutup"></a>
+
+## Penutup
 
 Penulis paham kalau artikel ini pendek.
 Karena memang ditujukan sebagai,

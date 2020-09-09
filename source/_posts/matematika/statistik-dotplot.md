@@ -8,7 +8,9 @@ keywords  : [matplotlib, statistik]
 toc       : "toc/2020-matematika"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Tujuan: Menggambar Bagan, Berdasarkan Populasi Data
 
@@ -22,9 +24,9 @@ Dari pemula, untuk pemula.
 Saya menggunakan `python`, sebagai bahasa pemrograman,
 di dalam artikel ini.
 
-#### Table of Content
+### Daftar Isi
 
-* Preface: Table of Content
+* [Prakata](#prakata): Daftar Isi
 
 * 1: [Menempatkan Data Acak](#populasi)
 
@@ -36,7 +38,9 @@ di dalam artikel ini.
 
 * 5: [Stemplot](#stemplot)
 
-#### Bahasa Inggris
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -47,7 +51,7 @@ dalam bahasa Inggris:
 
 <a name="populasi"></a>
 
-### 1: Menempatkan Data Acak
+## 1: Menempatkan Data Acak
 
 > Populasi Data
 
@@ -86,7 +90,7 @@ Hasilnya adalah daftar panjang dari bilangan bulat.
 Sekarang kita dapat menyalin keluaran tersebut,
 untuk digunakan di skrip berikutnya.
 
-#### Data Statis
+### Data Statis
 
 > Cek dan ricek.
 
@@ -106,12 +110,12 @@ Setidaknya sebagai awalan.
 
 <a name="histogram-grafik"></a>
 
-### 2: Grafik Histogram
+## 2: Grafik Histogram
 
 Sekarang saat yang tepat,
 untuk menggunakan populasi data di atas menjadi sesuatu yang bermanfaat.
 
-#### Kepala Header
+### Kepala Header
 
 Skrip yang kita gunakan membutuhkan `library` di bawah ini:
 
@@ -120,7 +124,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 {% endcodeblock %}
 
-#### Data
+### Data
 
 Coba mulai dengan data
 
@@ -136,7 +140,7 @@ data = np.array([
   ])
 {% endcodeblock %}
 
-#### Bagan Chart
+### Bagan Chart
 
 Coba tampilkan, tafsiran data ke `histogram chart` memakai `matplotlib`.
 
@@ -159,16 +163,16 @@ yaitu yang bernama `dotplot`.
 
 <a name="histogram-teks"></a>
 
-### 3: Teks Histogram
+## 3: Teks Histogram
 
 Sebelum beralih lebih lanjut, kita perlu memahami,
 bagaimana cara kerja skrip `python` .
 
-#### Header dan Data
+### Header dan Data
 
 Sama seperti sebelumnya.
 
-#### Bins
+### Bins
 
 Bagan `dotplot` membutuhkan `histogram` yang ada di `numpy`.
 Perhitungan nya berdasarkan `bins` sebagaimana di bawah:
@@ -201,7 +205,7 @@ bins    = np.arange(range_min, range_max+1)
 range_x = bins[:-1]
 {% endcodeblock %}
 
-#### Zip
+### Zip
 
 Coba bikin `tuple` dari kedua daftar `list`,
 dan kemudian tampilkan tafsiran dari `tuple` tersebut,
@@ -238,7 +242,7 @@ Kita akan mendapatkan teks histogram yang cantique.
 
 <a name="dotplot"></a>
 
-### 4: Dotplot
+## 4: Dotplot
 
 Sekali lagi sekarang saat yang tepat,
 untuk menggunakan populasi data di atas menjadi sesuatu yang bermanfaat.
@@ -247,11 +251,11 @@ Saqya mendapatkan carany dari `stackoverflow`.
 
 * [How to create a dot plot in Matplotlib?][reference-01]
 
-#### Header and Data
+### Header and Data
 
 Sama seperti sebelumnya
 
-#### Bagan
+### Bagan
 
 Untuk membuat `dotplot`,
 kita membutuhkan `scatter chart` yang disediakan oleh `matplotlib`.
@@ -275,7 +279,7 @@ plt.show()
 
 ![statistic: plain dotplot chart][image-04-dotplot-01]
 
-#### Hiasan Dekorasi
+### Hiasan Dekorasi
 
 Sekarang kita dapat melengkapi bagan,
 dengan `ticks`, `label`, berikut `limits`.
@@ -317,7 +321,7 @@ Bagan `dotplot` inilah yang kita butuhkan.
 
 <a name="stemplots"></a>
 
-### 5: Stemplots
+## 5: Stemplots
 
 Karena saya penasaran,
 saya juga mencoba-coba chart bernama `stemplot`.
@@ -326,7 +330,7 @@ Say amendapatkan caranya dari situs `geeksforgeeks`.
 
 * [Stem and Leaf Plots in Python][reference-02]
 
-#### Menghitung Frekuensi
+### Menghitung Frekuensi
 
 Bagan `stemplot` menghitung kekerapan frekuensi,
 berbasis dari data yang unik.
@@ -345,7 +349,7 @@ Kalau mau lebih singkat, pakai cara di bawah.
 uniq, freq = np.unique(data, return_counts=True)
 {% endcodeblock %}
 
-#### Bagan
+### Bagan
 
 Sekarang, kita dapat melengkapi bagan, berikut hiasan dekorasinya.
 
@@ -375,6 +379,10 @@ Sudah jadi, walaupun saya juga belum paham,
 apa sebetulnya kegunaan dari `stemplot`.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Gitu aja dah. Makasih yacc, sudah mampir.
 

@@ -4,6 +4,8 @@ date      : 2019/08/16 09:17:35
 tags      : [undang-undang, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/08-kup/latihan-9.6-4.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Mempelajari ~~perbucinan~~ secara rinci,
@@ -11,7 +13,25 @@ dapat dimulai dari latihan soal.
 
 <!-- more --> 
 
+<a name="prakata"></a>
+
+## Prakata
+
 > Soal diambil dari buku PPA FEB UI
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber](#sumber)
+
+* [Latihan 3.5](#lat3.5)
+
+* [Latihan 9.6](#lat9.6)
+
+-- -- --
+
+<a name="sumber"></a>
 
 ## Sumber
 
@@ -25,6 +45,8 @@ untuk keperluan kantor atau pribadi tersedia di:
 * [infografis source svg gambar][github-latihan-soal]
 
 -- --- --
+
+<a name="lat3.5"></a>
 
 ## Latihan 3.5
 
@@ -53,6 +75,10 @@ untuk keperluan kantor atau pribadi tersedia di:
 ### SKPKBT: PPh Badan
 
 ![SKPKBT: PPh Badan][latihan-7.7-11]
+
+-- -- --
+
+<a name="lat9.6"></a>
 
 ## Latihan 9.6
 

@@ -4,6 +4,8 @@ date      : 2019/08/12 09:17:35
 tags      : [undang-undang, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/08-kup/fase-01-flowchart.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Mempelajari ~~perbucinan~~,
@@ -13,6 +15,32 @@ yang berdasar pada Undang Undang KUP.
 Duh kek ngarep jodoh aja yaks, kawinan trus pake undang-undang sodara2.
 
 <!-- more --> 
+
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber](#sumber)
+
+* [Fase Perpajakan](#fase-perpajakan)
+
+* 1: [Timbulnya Hak dan Kewajiban](#timbulnya)
+
+* 2: [Self Assessment](#self-assessment)
+
+* 3: [Pengawasan](#pengawasan)
+
+* 4: [Sengketa](#sengketa)
+
+* 5: [Penyelesaian Sengketa](#penyelesaian-sengketa)
+
+-- -- --
+
+<a name="sumber"></a>
 
 ## Sumber
 
@@ -26,6 +54,8 @@ untuk keperluan kantor atau pribadi tersedia di:
 * [infografis github source svg gambar][github-pasal]
 
 -- -- --
+
+<a name="fase-perpajakan"></a>
 
 ## *Fase Perpajakan*
 
@@ -59,6 +89,8 @@ untuk keperluan kantor atau pribadi tersedia di:
 ![UU KUP: Fase Perpajakan][flowchart]
 
 -- -- --
+
+<a name="timbulnya"></a>
 
 ## 1: *Timbulnya Hak dan Kewajiban*
 
@@ -95,6 +127,8 @@ sesuai dengan ketentuan peraturan perundang-undangan perpajakan.
 
 -- -- --
 
+<a name="self-assessment"></a>
+
 ## 2: *Self Assessment*
 
 ### UU KUP Pasal 12 ayat 1 dan ayat 2 
@@ -121,6 +155,8 @@ wajib menyelenggarakan pembukuan.
 ![UU KUP: Fase: Self Assessment][fase-02-28-01]
 
 -- -- --
+
+<a name="pengawasan"></a>
 
 ## 3: *Pengawasan*
 
@@ -153,6 +189,8 @@ c. memberikan keterangan lain yang diperlukan.
 
 -- -- --
 
+<a name="sengketa"></a>
+
 ## 4: *Sengketa*
 
 ### UU KUP Pasal 25 ayat 1
@@ -171,6 +209,8 @@ atas suatu:
 ![UU KUP: Fase: Sengketa][fase-04-25-01]
 
 -- -- --
+
+<a name="penyelesaian-sengketa"></a>
 
 ## 5: *Penyelesaian Sengketa*
 

@@ -4,12 +4,30 @@ date      : 2019/09/03 09:17:35
 tags      : [undang-undang, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/08-op/08-Kategori-SPT-WP-OP.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Slide kategori SPT WP OP.
 Surat Pemberitahuan Wajib Pajak Orang Pribadi.
 
-<!-- more --> 
+<!-- more -->
+
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber](#sumber)
+
+* [Bagan](#bagan)
+
+-- -- --
+
+<a name="sumber"></a>
 
 ## Sumber
 
@@ -24,19 +42,23 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 -- -- --
 
-## Kategori SPT WP OP
+<a name="bagan"></a>
+
+## Bagan
+
+### Kategori SPT WP OP
 
 ![Kategori SPT WP OP][kategori-spt-wp-op]
 
-## Kuadran SPT WP OP
+### Kuadran SPT WP OP
 
 ![Kuadran SPT WP OP][kuadran-spt-wp-op]
 
-## Perhitungan Keluarga
+### Perhitungan Keluarga
 
 ![Perhitungan Keluarga][perhitungan-keluarga]
 
-## Tabel KK, HB, PH/MT
+### Tabel KK, HB, PH/MT
 
 ![Tabel KK, HB, PH/MT][tabel-kk-hb-ph-mt]
 

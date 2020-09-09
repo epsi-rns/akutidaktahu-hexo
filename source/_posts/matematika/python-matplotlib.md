@@ -10,11 +10,13 @@ toc       : "toc/2020-matematika"
 mathjax   : true
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Tujuan: Menggambar Bagan Berdasar Persamaan Matematika
 
-#### Akibat Kurang Bergaul
+### Akibat Kurang Bergaul
 
 Saya juga berharap ada yang memperkenalkan matplotlib atau sejenisnya,
 saat saya berkuliah di fakultas teknik.
@@ -38,7 +40,17 @@ saya membikin skrip bikinan sendiri berdasarkan tutorial yang ada,
 untuk menampilkan grafik berdasarkan rumus,
 dengan menggunakan `matplotlib`.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Garis Dua Dimensi](#2d)
+
+* 2: [Permukaan Tiga Dimensi](#3d)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -47,7 +59,9 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Garis Dua Dimensi
+<a name="2d"></a>
+
+## 1: Garis Dua Dimensi
 
 $$ y = x^2 - 12x - 64 $$
 
@@ -92,7 +106,9 @@ Maka sohib dapat melihat penampakan berikut:
 
 -- -- --
 
-### Permukaan Tiga Dimensi
+<a name="3d"></a>
+
+## 2: Permukaan Tiga Dimensi
 
 $$ z = x^2 + y^2 - 12x + 12y + xy - 64 $$
 
@@ -173,6 +189,10 @@ Maka sekali lagi, sohib dapat melihat penampakan sebagaimana di bawah:
 ![Python 3D matplotlib: z = x^2 + y^2 - 12x + 12y + xy - 64][image-3d]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Ya sudah, itu saja.
 Saya simpankan kedua skrip tersebut di dalam blog,

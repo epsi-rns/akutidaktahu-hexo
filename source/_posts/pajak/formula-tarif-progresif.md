@@ -4,6 +4,8 @@ date      : 2019/09/10 09:17:35
 tags      : [spreadsheet, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/09/formula-progressive.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Menurunkan rumus matematika,
@@ -12,7 +14,29 @@ yaitu untuk menghitung tarif progresif,
 yang ada di pasal 17.
 <!-- more -->
 
-### Latar Belakang 
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Latar Belakang](#latar)
+
+* 1: [Rumus Pendek](#rumus-pendek)
+
+* 2: [Perbandingan dengan Metode lain](#perbandingan)
+
+* 3: [Kendala Menemukan Rumus dalam Satu Baris](#kendala)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="latar"></a>
+
+## Latar Belakang 
 
 Pertama kali saya menghitung pajak pribadi sangatlah mudah,
 karena di bawah PTKP. Berikutnya tetap mudah karena hanya dipotong 5%.
@@ -35,7 +59,7 @@ untuk pekerjaan mencari tarif progresif ini,
 yang terdiri dari beberapa tingkat,
 yaitu 5%, 15%, 25% dan 30%.
 
-#### Permasalahan
+### Permasalahan
 
 Bagaimana cara menghitung dengan cepat di lembar kerja spreadsheet?
 
@@ -47,14 +71,14 @@ dalam pekerjaan sehari-hari bilamana karyawan sudah banyak.
 Menghitung cepat dapat dilakukan bilamana perhitungan cukup dilakukan,
 dengan hanya formula pendek.
 
-#### Referensi
+### Referensi
 
 Sebetulnya saya pemakai LibreOffice Calc.,
 namun referensi terbaik yang saya dapatkan adalah dari situs ini:
 
 * [Rumus Excel PPh 21](https://excelku.com/2015/03/15/rumus-excel-pph-21/)
 
-#### Artikel Terkait
+### Artikel Terkait
 
 Saya juga membikin artikel berbahasa inggris di blog saya yang lain,
 yaitu mengenai perhitungan tarif progresif,
@@ -64,7 +88,9 @@ dengan menggunakan Haskell (pure functional programming).
 
 -- -- --
 
-### Rumus Pendek
+<a name="rumus-pendek"></a>
+
+## Rumus Pendek
 
 Jawaban singkatnya adalah
 
@@ -85,7 +111,7 @@ yang lebih panjang.
 
 Fungsi IFS ini ada LO Calc atau MS Excel 2019.
 
-#### Infografis
+### Infografis
 
 Secara ringkas,
 maka rangkuman dalam gambar infografis
@@ -94,13 +120,13 @@ adalah sebagai berikut:
 
 ![Infografis: Formula Tarif Progresif Pasal 17][tarif-progresif-infografis]
 
-#### Source Gambar
+### Source Gambar
 
 Barangkali perlu, maka source infografis ada di sini:
 
 * [Source SVG: Formula Tarif Progresif Pasal 17][tarif-progresif-source-svg]
 
-#### Contoh Perhitungan
+### Contoh Perhitungan
 
 {% codeblock lang:haskell %}
 PKP = 200 juta
@@ -114,7 +140,7 @@ T2 Langsung saja dikurangi 5 juta, langsung ditemukan jawabnya.
 
 Mudah bukan!
 
-#### Spreadsheet
+### Spreadsheet
 
 Libreoffice Calc.
 
@@ -126,7 +152,9 @@ Microsoft Excel.
 
 -- -- --
 
-### Perbandingan dengan Metode lain
+<a name="perbandingan"></a>
+
+## Perbandingan dengan Metode lain
 
 Beberapa cara yang saya coba membutuhkan beberapa baris,
 di lembar kerja spreadsheet,
@@ -137,45 +165,45 @@ yang beberapa diantaranya saya ambil dari referensi ini:
 Semua di bawah ini menggunakan fungsi `sum` atau `sumif`,
 sehingga tidak dapat dijadikan satu baris fungsi pendek yang sederhana.
 
-#### 01: Mencari Range
+### 01: Mencari Range
 
 ![Tarif Progresif: Table][tarif-01-table]
 
-#### 02: Sum antara Max dan Min
+### 02: Sum antara Max dan Min
 
 ![Tarif Progresif: Sum antara Min and Max][tarif-02-between]
 
-#### 03: Sumif dan Min
+### 03: Sumif dan Min
 
 ![Tarif Progresif: Sumif dan Min][tarif-03-sumif]
 
-#### 04: Sumif dan If
+### 04: Sumif dan If
 
 ![Tarif Progresif: Sumif dan If][tarif-04-sumif]
 
-#### 05: Match dan Index
+### 05: Match dan Index
 
 ![Tarif Progresif: Match dan Index][tarif-05-match]
 
-#### 06: Sum Min
+### 06: Sum Min
 
 Conditional Range
 
 ![Tarif Progresif: Sum Min][tarif-06-sum-min]
 
-#### 07: Sum Min Max
+### 07: Sum Min Max
 
 Conditional Range
 
 ![Tarif Progresif: Sum Min Max][tarif-07-min-max]
 
-#### 08: Sum Min
+### 08: Sum Min
 
 Dengan Pengurang
 
 ![Tarif Progresif: Sum Min][tarif-08-sum-min]
 
-#### 09: Sum Max
+### 09: Sum Max
 
 Dengan Pengurang
 
@@ -183,7 +211,9 @@ Dengan Pengurang
 
 -- -- --
 
-### Kendala Menemukan Rumus dalam Satu Baris
+<a name="kendala"></a>
+
+## Kendala Menemukan Rumus dalam Satu Baris
 
 > Cara berfikir procedural dan functional memang berbeda.
 
@@ -197,7 +227,9 @@ bilamana array di dalamnya tidak berada dalam fungsi lain.
 
 -- -- --
 
-### Kesimpulan
+<a name="penutup"></a>
+
+## Penutup
 
 Nah sekarang, kalau aturan pasal 17 ini diubah,
 yaitu dengan naskah RUU yang baru,

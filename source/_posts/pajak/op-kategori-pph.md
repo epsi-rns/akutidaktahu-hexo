@@ -4,11 +4,29 @@ date      : 2019/09/01 09:17:35
 tags      : [undang-undang, infografis]
 category  : [pajak]
 opengraphimage: /posts/2019/08-op/03-Kategori-Objek-PPh.png
+
+toc       : "toc/2019-pajak"
 ---
 
 Slide kategori pajak penghasilan.
 
-<!-- more --> 
+<!-- more -->
+
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Sumber](#sumber)
+
+* [Bagan](#bagan)
+
+-- -- --
+
+<a name="sumber"></a>
 
 ## Sumber
 
@@ -23,19 +41,23 @@ untuk keperluan kantor atau pribadi tersedia di:
 
 -- -- --
 
-## Kategori Pajak Penghasilan
+<a name="bagan"></a>
+
+## Bagan
+
+### Kategori Pajak Penghasilan
 
 ![Kategori PPh][kategori-pph]
 
-## Kategori Orang Pribadi
+### Kategori Orang Pribadi
 
 ![Kategori Orang Pribadi][kategori-op]
 
-## Kategori Penghasilan
+### Kategori Penghasilan
 
 ![Kategori Penghasilan][kategori-objek-pph]
 
-## Kategori Natura
+### Kategori Natura
 
 ![Kategori Natura][kategori-natura]
 

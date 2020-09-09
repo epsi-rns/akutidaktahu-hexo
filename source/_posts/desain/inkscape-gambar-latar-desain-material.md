@@ -25,6 +25,13 @@ mengubah bentuk ataupun warna,
 dan juga menambahkan tulisan.
 Bebas-bebas saja, dan ini juga gratis.
 
+#### Berkas Sumber SVG
+
+Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
+Langsung saja unduh di sini.
+
+* [Isometric SVG](https://github.com/epsi-rns/isometric-wallpaper)
+
 #### Sangkalan
 
 Wallpaper ini dibuat ulang berdasarkan desain,
