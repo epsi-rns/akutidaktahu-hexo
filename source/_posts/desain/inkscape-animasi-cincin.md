@@ -8,18 +8,36 @@ keywords  : [animasi, saporito]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Gagasan membuat animasi cincin ini saya mulai,
 setelah mempraktekkan bahan ajar dari Pakde Nick Saporito.
 
 * [Inkscape Tutorial: Vector Progress Rings][saporito]
 
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Kelam](#kelam)
+
+* 2: [Cerah](#cerah)
+
+* 3: [Penghalusan](#penghalusan)
+
+* 4: [Kdenlive](#kdenlive)
+
+* [Penutup](#penutup)
+
 -- -- --
 
-### Kelam
+<a name="kelam"></a>
 
-#### Bahan SVG Terpadu
+## 1: Kelam
+
+### Bahan SVG Terpadu
 
 > Langsung saja yacc
 
@@ -44,7 +62,7 @@ Saya juga menaruh tautan di DeviantArt, dengan SVG yang dapat diunduh.
 
 * [Progress Ring Animation][deviant-ring]
 
-#### Meng-ekstrak Tiap-Tiap Frame
+### Meng-ekstrak Tiap-Tiap Frame
 
 Sudah kubikinkan lapisan `layer` juga untuk masing-masing keperluan,
 salah satunya bernama `cut-frame`, yang berguna untuk memilih objek
@@ -58,7 +76,7 @@ maka sudah ada nama target-nya, misalnya akan disimpan ke berkas
 
 ![Exports and Layers][layers-bright]
 
-#### XML
+### XML
 
 > Bagaimana caranya?
 
@@ -87,7 +105,7 @@ Cara ini sangat terasa manfaatnya kalau objek-nya sudah banyak.
 
 ![Editing SVG in Text Editor][editor-bright]
 
-#### Meng-ekstrak Tiap-Tiap Berkas KE PNG
+### Meng-ekstrak Tiap-Tiap Berkas KE PNG
 
 Pilih tiap-tiap objek frame untuk semua cincin, lalu eksport ke `.png`.
 Maka nanti sohib akan dapat melihat tiap-tiap frame,
@@ -95,7 +113,7 @@ di perambah berkas (`file manager`).
 
 ![File Manager: Each Frames][caja-dark]
 
-#### Animasi GIMP
+### Animasi GIMP
 
 Pertama kali terpikir ntuk membuat animasi,
 adalah dengan menggunakan fitur animasi yang disediakan oleh `GIMP`.
@@ -105,7 +123,7 @@ Sehingga hasilnya tidak halus.
 
 ![Progress Ring: GIF Animation][image-gif]
 
-#### FFMPEG
+### FFMPEG
 
 Woke wokeeee...
 Gimana cara ngalusinnyah nie sohib?
@@ -133,7 +151,7 @@ Dan hasilnya adalaaah
     Cak, browser-mu ijik orak mendukung video.
   </video>
 
-#### Peringatan,
+### Peringatan
 
 Aku masih gak tau caranya mengatur waktu,
 yang berbeda untuk tiap frame dengan `ffmpeg`.
@@ -144,9 +162,11 @@ yang berbeda konsep dengan `delay` di animasi.
 
 -- -- --
 
-### Cerah
+<a name="cerah"></a>
 
-#### Bahan SVG Terpadu
+## 2: Cerah
+
+### Bahan SVG Terpadu
 
 > Langsung saja yacc
 
@@ -162,19 +182,19 @@ Maksudnya terpadu, adalah semua saya simpan dalam satu berkas saja.
 Tidak terpisah-pisah, sehingga mudah mengelolanya.
 
 
-#### Meng-ekstrak Tiap-Tiap Frame
+### Meng-ekstrak Tiap-Tiap Frame
 
 Langkahnya sama bro dengan tampilan `gelap` di atas.
 
 ![Progress Ring: Select Frame][select-bright]
 
-#### Meng-ekstrak Tiap-Tiap Berkas KE PNG
+### Meng-ekstrak Tiap-Tiap Berkas KE PNG
 
 Lagi-lagi langkahnya sama bro dengan tampilan `gelap` di atas.
 
 ![File Manager: Each Frames][caja-bright]
 
-#### FFMPEG
+### FFMPEG
 
 > Langsung lagi yacc
 
@@ -199,17 +219,19 @@ Dan hasilnya adalaaah
 
 -- -- --
 
-### Penghalusan
+<a name="penghalusan"></a>
+
+## 3: Penghalusan
 
 Karena penulis sukanya yang halus-halus dan bening-bening.
 
-#### Bahan SVG Terpadu
+### Bahan SVG Terpadu
 
 Semua frame dapat ditunjukkan di sini:
 
 ![Progress Ring: Bright][image-smooth]
 
-#### Tahapan Penghalusan Busur
+### Tahapan Penghalusan Busur
 
 > Gimana caranya biar klimis?
 
@@ -234,7 +256,7 @@ Maka... tadaaa.. hasil akhirnya lumayan khaaan.
 
 ![Smooth Arc][045-smooth]
 
-#### Busur Overlay
+### Busur Overlay
 
 > Mulai dari warna solid, lalu dibikin bening
 
@@ -253,7 +275,7 @@ untuk mengatur masing-masing warna stroke.
   Bedanya, warna `alpha` harus di-nolkan supaya bening tembus cahaya.
   Untuk contoh warna di atas menjadi `#ffeb3b00`.
   
-#### Membenahi Outline
+### Membenahi Outline
 
 Kalau diperhatikan, di busur ini ada `outline` yang mengganggu,
 Ini terjadi karena di bawah ada objek berwarna.
@@ -274,7 +296,7 @@ Mestinya sekarang sohib sudah mendapatkan busur yang halus.
 
 ![Overlay Arc: Fix Outline][045-outline-f]
 
-#### FFMPEG
+### FFMPEG
 
 Langsung hasilnya saja ycc sohib:
 
@@ -289,14 +311,16 @@ aku perlu membikin beberapa presentasi.
 
 -- -- --
 
-### Kdenlive
+<a name="kdenlive"></a>
+
+## 4: Kdenlive
 
 Sohib juga dapat menggunakan transparansi,
 lalu dibikin berkas `.png`,
 untuk kemudian dipakai ke dalam `kdenlive`,
 untuk membikin semacam `watermark`.
 
-#### Lini Masa
+### Lini Masa
 
 Mudah koq untuk menambahkan segerobak gambar,
 untuk dijadikan frame di lini masa `kdenlive`.
@@ -306,7 +330,7 @@ untuk dijadikan frame di lini masa `kdenlive`.
 YAng bikin repot itu, saat haru melakukan pengaturan berulang,
 misalnya mengubah durasi untuk tiap-tiap gambar
 
-#### XML
+### XML
 
 Kalau sohib pikir menyunting durasi gambar membosankan,
 sebetulnya akan lebih mudah untuk menyunting berkas `*.kdenlive`
@@ -326,7 +350,7 @@ atau tepatnya dari `00:00:05.000` ke `00:00:01.000`.
 
 ![Editing Kdenlive in Text Editor][kdenlive-text]
 
-#### FFMPEG
+### FFMPEG
 
 Hasil `render` dari `kdenlive` ukuran-nya besar,
 dan akan menyebalkan kalau kita mengirim berkas yang besar 
@@ -341,7 +365,7 @@ $ ffmpeg -i test-bengkel-shadow.mp4 \
     test-bengkel-fourth-shadow.mp4
 {% endcodeblock %}
 
-#### Hasil Video MP4
+### Hasil Video MP4
 
   <video width="360" height="270" controls>
     <source src="/posts/desain/2017/11-cincin/bengkel-fourth-shadow.mp4" type="video/mp4">
@@ -350,10 +374,13 @@ $ ffmpeg -i test-bengkel-shadow.mp4 \
 
 -- -- --
 
+<a name="penutup"></a>
+
+## Penutup
+
 Gitu aja dah.
 
 Makasih yacc, sudah mampir.
-
 
 [//]: <> ( -- -- -- links below -- -- -- )
 

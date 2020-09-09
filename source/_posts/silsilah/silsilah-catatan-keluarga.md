@@ -7,19 +7,19 @@ category  : [silsilah]
 toc       : "toc/2017-silsilah"
 ---
 
-### Prakata
+## Prakata
 
-#### Artikel asli
+### Artikel asli
 
 * [Github: Catatan Silsilah][catatan-asli]
 
-#### Edisi Cetak.
+### Edisi Cetak.
 
 Edisi cetak dari catatan silsilah ini tersedia dalam format PDF.
 
 *	[catatan-silsilah-2017-februari.pdf][pdf]
 
-#### Tambahan
+### Tambahan
 
 > Supaya paham silsilah pribadi
 
@@ -47,7 +47,7 @@ Kalau data sangkalannya memang ada,
 maka penulis dapat menambahkan catatan kecil di artikel ini,
 sebagai tambahan referensi untu sama-sama.
 
-#### Daftar Isi
+### Daftar Isi
 
 * Prakata
 
@@ -71,9 +71,9 @@ sebagai tambahan referensi untu sama-sama.
 
 <a name="ringkas"></a>
 
-### Ringkas
+## Ringkas
 
-#### Kata Pengantar
+### Kata Pengantar
 
 Kesultanan Mataram dibangun dari hasil kawin-mawin,
 yang rapat antara keturunan para wali dari jalur ulama Jumadil Qubro.
@@ -86,13 +86,13 @@ dan tidak dapat dijadikan acuan sejarah.
 
 Bagaimanapun, inilah catatan silsilah sebagai gambaran awal.
 
-#### Bantahan
+### Bantahan
 
 Bantahan terhadap tulisan ini dapat dilakukan dengan melakukan
 fork atau clone dari repository ini, sehingga penulis lain dapat memiliki,
 repository sendiri sebagai perbaikan berdasarkan tulisan ini.
 
-#### Silsilah Jumadil Qubro
+### Silsilah Jumadil Qubro
 
 Rincian diagram dapat dilihat pada halaman [Jumadil Qubro][jumadil].
 
@@ -106,7 +106,7 @@ Rincian diagram dapat dilihat pada halaman [Jumadil Qubro][jumadil].
 
 *	[Al Faqih - Jumadil Qubro](#07)
 
-#### Para Sunan dalam Diagram
+### Para Sunan dalam Diagram
 
 Secara ringkas, keturunan Jumadil Qubro berkumpul ke dua leluhur berikut.
 
@@ -122,7 +122,7 @@ Lalu keturunan keduanya berkumpul kembali ke dua leluhur berikut.
 
 ![Genealogi Para Sunan dalam Diagram][svg-jumadil]
 
-#### Raden Mas Jolang
+### Raden Mas Jolang
 
 Rincian diagram dapat dilihat pada halaman [Raden Mas Jolang][jolang].
 
@@ -153,7 +153,7 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 	ke Raden Mas Rangsang (Sultan Agung),
 	bukan leluhur Raden Mas Jolang.
 
-#### Pangeran Mandura
+### Pangeran Mandura
 
 Rincian diagram dapat dilihat pada halaman [Pangeran Mandura][mandura].
 
@@ -177,7 +177,7 @@ Rincian diagram dapat dilihat pada halaman [Pangeran Mandura][mandura].
 
 *	[Raden Patah](#19) (Menantu Sunan Ampel)
 
-#### Persilangan
+### Persilangan
 
 Rincian diagram dapat dilihat pada halaman [persilangan][silang].
 
@@ -191,7 +191,7 @@ Persilangan keduanya berkumpul sebagai berikut.
 
 *	[Pangeran Mandura - Kyai Gulu](#34)
 
-#### Keturunan Priyayi: Mataram
+### Keturunan Priyayi: Mataram
 
 Rincian diagram dapat dilihat pada halaman [mataram][mataram].
 
@@ -209,7 +209,7 @@ Sumber: Rodovid
 
 ![Genealogi Mataram dalam Diagram][svg-mataram]
 
-#### Keturunan Santri
+### Keturunan Santri
 
 Rincian diagram dapat dilihat pada halaman [santri][santri].
 
@@ -220,7 +220,7 @@ Berikut salah satu yang ada.
 	<br/>Tentunya tidak dapat dibandingkan setara antara
 	kesultanan Mataram yang besar, dengan wilayah perdikan yang kecil.
 
-#### Mengenai Penulis
+### Mengenai Penulis
 
 Bukan Priyayi, bukan pula Santri.<br/>
 Bukan abangan, walaupun sering dipanggil 'Bang'.<br/>
@@ -230,7 +230,7 @@ Sejak lahir sudah jomblo. Dan masih selalu konsisten sampai awal 2017 ini.
 
 <a name="about"></a>
 
-### 2: Mengenai Catatan Silsilah
+## 2: Mengenai Catatan Silsilah
 
 Catatan silsilah adalah gambaran awal,
 supaya paham siapa jati diri kita.
@@ -240,7 +240,7 @@ Ini adalah bagian dari masa lalu.
 Dalam artian, tiap periode ada ulama-ulama-nya masing-masing.
 Dan jarak periode-nya sudah sangat jauh dari saat sekarang.
 
-#### Motivasi
+### Motivasi
 
 Gagasan menulis silsilah ini berasal dari keingintahuan pribadi,
 yang dimulai dari meringkas silsilah mataram dari sumber Rodovid.org,
@@ -249,7 +249,7 @@ salin-dan-tempel (copy-paste) satu-per-satu, ke notepad.
 Bagaikan menemukan sumur tua di halaman,
 gagasan ini muncul begitu saja.
 
-#### Keabsahan Rodovid
+### Keabsahan Rodovid
 
 Keberadaan rodovid sangat membantu untuk memahami silsilah.
 Sebagian cukup dapat dipercaya.
@@ -270,7 +270,7 @@ sehingga tidak dapat diketahui secara pasti nilai kebenarannya.
 Bilamana dibutuhkan untuk dijadikan acuan,
 silahkan untuk dikaji sendiri, lebih lanjut secara akademis.
 
-#### Pemilihan Nama dan Penyingkatan Gelar.
+### Pemilihan Nama dan Penyingkatan Gelar.
 
 Mohon maaf kalau ada ketidaktepatan memilih nama,
 karena seseorang tokoh ternyata memiliki banyak nama dan gelar.
@@ -285,7 +285,7 @@ karena itu pemahaman saya sangat terbatas.
 
 <a name="jumadil"></a>
 
-### 3: Silsilah Jumadil Qubro
+## 3: Silsilah Jumadil Qubro
 
 *	[Rasulullah SAW - Ja'afar As-Sodiq](#01)
 
@@ -299,7 +299,7 @@ karena itu pemahaman saya sangat terbatas.
 
 ![Genealogi Jumadil Qubro dalam Diagram][svg-silsilah-jumadil]
 
-#### <a name="01"></a>Silsilah (Ja'afar As-Sodiq ke Nabi)
+### <a name="01"></a>Silsilah (Ja'afar As-Sodiq ke Nabi)
 
 *	» ♂ *[Nabi Muhammad S.A.W.][28188]* *(Rasulullah)*
 
@@ -328,7 +328,7 @@ Catatan: sumber belum tentu benar.
 [70247]: http://id.rodovid.org/wk/Orang:70247
 [70246]: http://id.rodovid.org/wk/Orang:70246
 
-#### <a name="02"></a>Silsilah (Ja'afar As-Sodiq ke Abu Bakar RA)
+### <a name="02"></a>Silsilah (Ja'afar As-Sodiq ke Abu Bakar RA)
 
 *	» ♂ [Abu Bakar Shiddiq R.A.][623359]
 
@@ -480,7 +480,7 @@ Catatan: sumber belum tentu benar.
 
 <a name="jolang"></a>
 
-### 4: Raden Mas Jolang
+## 4: Raden Mas Jolang
 
 Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
@@ -511,7 +511,7 @@ Dikenal juga dengan nama *Panembahan Hadi Prabu Hanyokrowati*.
 
 ![Genealogi Raden Mas Jolang dalam Diagram][svg-silsilah-rm-jolang]
 
-#### <a name="21"></a>Silsilah (Raden Mas Jolang ke Sunan Gresik)
+### <a name="21"></a>Silsilah (Raden Mas Jolang ke Sunan Gresik)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -565,7 +565,7 @@ Catatan: sumber belum tentu benar.
 [25699]: http://id.rodovid.org/wk/Orang:25699
 [26063]: http://id.rodovid.org/wk/Orang:26063
 
-#### <a name="22"></a>Silsilah (Raden Mas Jolang ke Sunan Giri)
+### <a name="22"></a>Silsilah (Raden Mas Jolang ke Sunan Giri)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -609,7 +609,7 @@ Catatan: sumber belum tentu benar.
 [25699]: http://id.rodovid.org/wk/Orang:25699
 [26063]: http://id.rodovid.org/wk/Orang:26063
 
-#### <a name="23"></a>Silsilah (Raden Mas Jolang ke Sunan Gunung Jati)
+### <a name="23"></a>Silsilah (Raden Mas Jolang ke Sunan Gunung Jati)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -655,7 +655,7 @@ Catatan: sumber belum tentu benar.
 
 [26063]: http://id.rodovid.org/wk/Orang:26063
 
-#### <a name="24"></a>Silsilah (Raden Mas Jolang ke Sunan Kalijaga)
+### <a name="24"></a>Silsilah (Raden Mas Jolang ke Sunan Kalijaga)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -700,7 +700,7 @@ Catatan: sumber belum tentu benar.
 
 [26063]: http://id.rodovid.org/wk/Orang:26063
 
-#### <a name="27"></a>Silsilah (Raden Mas Rangsang ke Syekh Siti Jenar)
+### <a name="27"></a>Silsilah (Raden Mas Rangsang ke Syekh Siti Jenar)
 
 *	» ♂ [Asy Syaikh Sayyid Ahmad Syah Jalaluddin][359646]
 	<br/>/ [Ahmad Syah Jalal (Jalaluddin Khan)][364832]
@@ -753,7 +753,7 @@ Catatan: sumber belum tentu benar.
 [26383]: http://id.rodovid.org/wk/Orang:26383
 [26069]: http://id.rodovid.org/wk/Orang:26069
 
-#### <a name="26"></a>Silsilah (Raden Mas Rangsang ke Kebungsuan Pengging)
+### <a name="26"></a>Silsilah (Raden Mas Rangsang ke Kebungsuan Pengging)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -788,7 +788,7 @@ Catatan: sumber belum tentu benar.
 [26383]: http://id.rodovid.org/wk/Orang:26383
 [26069]: http://id.rodovid.org/wk/Orang:26069
 
-#### Catatan Tambahan
+### Catatan Tambahan
 
 Perhatikan, warna yang lebih muda adalah garis ibu.
 Tampaknya yang menjadi pemimpin (raja) adalah dari garis ibu semua.
@@ -797,7 +797,7 @@ Tampaknya yang menjadi pemimpin (raja) adalah dari garis ibu semua.
 
 <a name="mandura"></a>
 
-### 5: Pangeran Mandura
+## 5: Pangeran Mandura
 
 *Wali*
 
@@ -821,7 +821,7 @@ Tampaknya yang menjadi pemimpin (raja) adalah dari garis ibu semua.
 
 ![Genealogi Pangeran Mandura dalam Diagram][svg-silsilah-mandura]
 
-#### <a name="11"></a>Silsilah (Pangeran Mandura ke Sunan Gresik)
+### <a name="11"></a>Silsilah (Pangeran Mandura ke Sunan Gresik)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -864,7 +864,7 @@ Catatan: sumber belum tentu benar.
 [70423]: http://id.rodovid.org/wk/Orang:70423
 [771620]: http://id.rodovid.org/wk/Orang:771620
 
-#### <a name="12"></a>Silsilah (Pangeran Mandura ke Sunan Giri)
+### <a name="12"></a>Silsilah (Pangeran Mandura ke Sunan Giri)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -902,7 +902,7 @@ Catatan: sumber belum tentu benar.
 [70423]: http://id.rodovid.org/wk/Orang:70423
 [771620]: http://id.rodovid.org/wk/Orang:771620
 
-#### <a name="13"></a>Silsilah (Pangeran Mandura ke Sunan Ampel)
+### <a name="13"></a>Silsilah (Pangeran Mandura ke Sunan Ampel)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -994,7 +994,7 @@ Catatan: sumber belum tentu benar.
 [775179]: http://id.rodovid.org/wk/Orang:775179
 [771620]: http://id.rodovid.org/wk/Orang:771620
 
-#### <a name="17"></a>Silsilah (Pangeran Mandura ke Kebungsuan Pengging)
+### <a name="17"></a>Silsilah (Pangeran Mandura ke Kebungsuan Pengging)
 
 *	» ♂ [Syaikh Maulana Jamaluddin Husein Akbar][359642]
 	<br/>(1310 M - 1453 M) Malabar-Delhi-India
@@ -1023,7 +1023,7 @@ Catatan: sumber belum tentu benar.
 [775179]: http://id.rodovid.org/wk/Orang:775179
 [771620]: http://id.rodovid.org/wk/Orang:771620
 
-#### <a name="19"></a>Silsilah (Pangeran Mandura ke Raden Patah)
+### <a name="19"></a>Silsilah (Pangeran Mandura ke Raden Patah)
 
 *	» ♂ [Raden Patah][25683]
 	<br/>/ Panembahan Jin Bun (Raden Praba)
@@ -1055,7 +1055,7 @@ Catatan: sumber belum tentu benar.
 
 <a name="silang"></a>
 
-### 6: Persilangan
+## 6: Persilangan
 
 Persilangan keduanya berkumpul sebagai berikut.
 
@@ -1075,7 +1075,7 @@ Sekedar untuk memperumit keadaan, kedua diagram ini dapat disatukan sebagai beri
 
 ![Genealogi Persilangan dalam Diagram][svg-silsilah-silang]
 
-#### <a name="31"></a>Silsilah (Amangkurat ke Raden Mas Jolang)
+### <a name="31"></a>Silsilah (Amangkurat ke Raden Mas Jolang)
 
 Jalur Bapak
 
@@ -1098,7 +1098,7 @@ Catatan: sumber belum tentu benar.
 [26069]: http://id.rodovid.org/wk/Orang:26069
 [26073]: http://id.rodovid.org/wk/Orang:26073
 
-#### <a name="32"></a>Silsilah (Amangkurat ke Pangeran Mandura)
+### <a name="32"></a>Silsilah (Amangkurat ke Pangeran Mandura)
 
 Jalur Ibu
 
@@ -1121,7 +1121,7 @@ Catatan: sumber belum tentu benar.
 [599676]: http://id.rodovid.org/wk/Orang:599676
 [26073]: http://id.rodovid.org/wk/Orang:26073
 
-#### <a name="33"></a>Silsilah (Kyai Gulu ke Raden Mas Jolang)
+### <a name="33"></a>Silsilah (Kyai Gulu ke Raden Mas Jolang)
 
 Jalur Ibu
 
@@ -1149,7 +1149,7 @@ Sumber 3: Buku Silsilah Kaliyoso
 [895036]: http://id.rodovid.org/wk/Orang:895036
 [925662]: http://id.rodovid.org/wk/Orang:925662
 
-#### <a name="34"></a>Silsilah (Kyai Gulu ke Pangeran Mandura)
+### <a name="34"></a>Silsilah (Kyai Gulu ke Pangeran Mandura)
 
 Jalur Bapak
 
@@ -1176,7 +1176,7 @@ Catatan: sumber belum tentu benar.
 
 <a name="mataram"></a>
 
-### 7: Keturunan Priyayi: Mataram
+## 7: Keturunan Priyayi: Mataram
 
 Sumber: Rodovid
 
@@ -1192,7 +1192,7 @@ Sumber: Rodovid
 
 ![Genealogi Mataram dalam Diagram][svg-mataram]
 
-#### <a name="41"></a>Silsilah Pendiri Mataram
+### <a name="41"></a>Silsilah Pendiri Mataram
 
 *	» ♂ [Kanjeng Panembahan Senopati][25699]
 	<br/>/ (Sutowijoyo) (Raden Bagus Sutawijaya)
@@ -1218,7 +1218,7 @@ Catatan: sumber belum tentu benar.
 [26069]: http://id.rodovid.org/wk/Orang:26069
 [26073]: http://id.rodovid.org/wk/Orang:26073
 
-#### <a name="42"></a>Silsilah Pakubuwono
+### <a name="42"></a>Silsilah Pakubuwono
 
 *	» ♂ [Susuhunan Pakubuwono I][26083]
 	<br/>/ (Pangeran Puger) (Raden Mas Drajat)
@@ -1307,7 +1307,7 @@ Catatan: sumber belum tentu benar.
 [26171]:  http://id.rodovid.org/wk/Orang:26171
 [780968]: http://id.rodovid.org/wk/Orang:780968
 
-#### <a name="43"></a>Silsilah Hamengkubuwono
+### <a name="43"></a>Silsilah Hamengkubuwono
 
 *	» ♂ [Prabu Amangkurat IV][354667] (Mangkurat Jawi)
 	<br/>/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
@@ -1388,7 +1388,7 @@ Catatan: sumber belum tentu benar.
 [26199]:  http://id.rodovid.org/wk/Orang:26199 
 [26202]:  http://id.rodovid.org/wk/Orang:26202
 
-#### <a name="44"></a>Silsilah Mangkunegara
+### <a name="44"></a>Silsilah Mangkunegara
 
 *	» ♂ [Prabu Amangkurat IV][354667] (Mangkurat Jawi)
 	<br/>/ (Raden Mas Suryaputra) (Prabu Mangkurat Jawa)
@@ -1462,7 +1462,7 @@ Catatan: sumber belum tentu benar.
 
 [416571]: http://id.rodovid.org/wk/Orang:416571
 
-#### <a name="45"></a>Silsilah Pakualam
+### <a name="45"></a>Silsilah Pakualam
 
 *	» ♂ Kanjeng Gusti Pangeran Adipati Ario [Paku Alam I][26189]
 	<br/>/ (Kanjeng Pangeran Haryo Notokusumo)
@@ -1538,7 +1538,7 @@ Catatan: sumber belum tentu benar.
 [771557]: http://id.rodovid.org/wk/Orang:771557
 [771563]: http://id.rodovid.org/wk/Orang:771563
 
-#### <a name="46"></a>Khusus Keluarga: Tondonegaran
+### <a name="46"></a>Khusus Keluarga: Tondonegaran
 
 Berikut referensi tambahan, khusus untuk keluarga penulis:
 
@@ -1562,7 +1562,7 @@ Catatan: sumber belum tentu benar.
 
 <a name="santri"></a>
 
-### 8: Keturunan Santri
+## 8: Keturunan Santri
 
 Tidak banyak catatan di luar pemerintahan yang penulis tahu.
 Tentunya banyak, namun penulis tidak memiliki,

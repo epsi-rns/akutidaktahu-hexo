@@ -8,9 +8,27 @@ keywords  : [material design, gambar latar, flat design]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
 
-#### Scalable Vector Graphic
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Baca Ini Dahulu](#catatan)
+
+* [Pratilik](#pratilik)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="catatan"></a>
+
+## Baca Ini Dahulu
+
+### Scalable Vector Graphic
 
 Gambar latar `wallpaper` ini,
 dibikin menggunakan `inkscape` beberapa waktu lalu.
@@ -25,14 +43,14 @@ mengubah bentuk ataupun warna,
 dan juga menambahkan tulisan.
 Bebas-bebas saja, dan ini juga gratis.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
 
 * [Isometric SVG](https://github.com/epsi-rns/isometric-wallpaper)
 
-#### Sangkalan
+### Sangkalan
 
 Wallpaper ini dibuat ulang berdasarkan desain,
 dari beberapa wallpapar lainnya yang kutemeka di suatu tempat,
@@ -46,23 +64,27 @@ itu memang karena saya meniru rancangan-nya.
 Yang membedakan adalah,
 sebagian besar wallpaper ini saya ubah ke bentuk isometri.
 
-### Pratilik
+-- -- --
+
+<a name="pratilik"></a>
+
+## Pratilik
 
 Gambar beserta link terlampir.
 
-#### Isometrik 01
+### Isometrik 01
 
 ![Isometrik 01][isometric-01]
 
 * [DeviantArt: Isometrik 01][deviant-i-01]
 
-#### Isometrik 02
+### Isometrik 02
 
 ![Isometrik 02][isometric-02]
 
 * [DeviantArt: Isometrik 02][deviant-i-02]
 
-#### Isometrik 03
+### Isometrik 03
 
 ![Isometrik 03 blue bright][isometric-03a]
 
@@ -70,67 +92,67 @@ Gambar beserta link terlampir.
 
 * [DeviantArt: Isometrik 03][deviant-i-03]
 
-#### Isometrik 04
+### Isometrik 04
 
 ![Isometrik 04][isometric-04]
 
 * [DeviantArt: Isometrik 04][deviant-i-04]
 
-#### Isometrik 05
+### Isometrik 05
 
 ![Isometrik 05][isometric-05]
 
 * [DeviantArt: Isometrik 05][deviant-i-05]
 
-#### Isometrik 06
+### Isometrik 06
 
 ![Isometrik 06][isometric-06]
 
 * [DeviantArt: Isometrik 06][deviant-i-06]
 
-#### Isometrik 07
+### Isometrik 07
 
 ![Isometrik 07][isometric-07]
 
 * [DeviantArt: Isometrik 07][deviant-i-07]
 
-#### Isometrik 08
+### Isometrik 08
 
 ![Isometrik 08][isometric-08]
 
 * [DeviantArt: Isometrik 08][deviant-i-08]
 
-#### Isometrik 09
+### Isometrik 09
 
 ![Isometrik 09][isometric-09]
 
 * [DeviantArt: Isometrik 09][deviant-i-09]
 
-#### Isometrik 10
+### Isometrik 10
 
 ![Isometrik 10][isometric-10]
 
 * [DeviantArt: Isometrik 10][deviant-i-10]
 
-#### Isometrik 11
+### Isometrik 11
 
 ![Isometrik 11][isometric-11]
 
 * [DeviantArt: Isometrik 11][deviant-i-11]
 
-#### Isometrik 12
+### Isometrik 12
 
 ![Isometrik 12][isometric-12]
 
 * [DeviantArt: Isometrik 12][deviant-i-12]
 
-#### Isometrik 13
+### Isometrik 13
 
 ![Isometrik 13][isometric-13]
 
 * [DeviantArt: Isometrik 13][deviant-i-13]
 
-#### Isometrik 14
+### Isometrik 14
 
 ![Flat 14][isometric-14a]
 
@@ -140,41 +162,47 @@ Gambar beserta link terlampir.
 
 * [DeviantArt: Isometrik 14b][deviant-i-14b]
 
-#### Isometrik 15
+### Isometrik 15
 
 ![Isometrik 15][isometric-15]
 
 * [DeviantArt: Isometrik 15][deviant-i-15]
 
-#### Isometrik 16
+### Isometrik 16
 
 ![Isometrik 16][isometric-16]
 
 * [DeviantArt: Isometrik 16][deviant-i-16]
 
-#### Isometrik 17
+### Isometrik 17
 
 ![Isometrik 17][isometric-17]
 
 * [DeviantArt: Isometrik 17][deviant-i-17]
 
-#### Paper 01
+### Paper 01
 
 ![Paper 01][paper-01]
 
 * [DeviantArt: Kertas Rata 01][deviant-p-01]
 
-#### Paper 02
+### Paper 02
 
 ![Paper 02][paper-02]
 
 * [DeviantArt: Kertas Rata 02][deviant-p-02]
 
-#### Paper 03
+### Paper 03
 
 ![Paper 03][paper-03]
 
 * [DeviantArt: Kertas Rata 03][deviant-p-03]
+
+-- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sekian.
 

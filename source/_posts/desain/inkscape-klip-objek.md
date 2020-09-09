@@ -8,7 +8,9 @@ keywords  : [logo, perangko, woro woro, ILUNI UI]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Mudah untuk memadukan hasil jepretan foto,
 dengan fitur `object clip`.
@@ -17,9 +19,22 @@ hasilnya cukup mengesankan.
 
 Sebagai tambahan bonus,
 pembaca dapat mengunduh contoh `template` SVG di bawah,
-dan kemudian dengan bebas memanfaatkannya. 
+dan kemudian dengan bebas memanfaatkannya.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Dasar: Langkah Demi Langkah](#dasar)
+
+* [Contoh Di Dunia nyata](#contoh-nyata)
+  * [ILUNI UI: Halal Bihalal](#halal-bihalal)
+  * [ILUNI FTUI: Laporan Pertanggungjawaban](#laporan)
+  * [ILUNI FTUI: Diskusi Energi Terbarukan](#energi)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -28,22 +43,24 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Dasar: Langkah Demi Langkah
+<a name="dasar"></a>
 
-#### Jepretan Foto
+## Dasar: Langkah Demi Langkah
+
+### Jepretan Foto
 
 Taruh jepretan foto ke dalam berkas inkscape
 
 ![Clip Step One][image-step-photo]
 
-#### Teks
+### Teks
 
 Tempatkan teks, dengan fonta yang menarique,
 di atas object foto yang tadi.
 
 ![Clip Step Two][image-step-text]
 
-#### Clip
+### Clip
 
 Pilih keduanya, baik objek foto maupun teks.
 Lalu lakukan `set object clip` dari menu.
@@ -53,15 +70,17 @@ Maka jadilah hasilnya!
 
 -- -- --
 
-### Contoh Di Dunia nyata
+<a name="contoh-nyata"></a>
+
+## Contoh Di Dunia nyata
 
 ### Tata Huruf
 
 * Fonta: Sablon
 
--- -- --
+<a name="halal-bihalal"></a>
 
-## ILUNI UI: Halal Bihalal
+### ILUNI UI: Halal Bihalal
 
 ![ILUNI UI: Halal Bihalal][image-iluni-ui]
 
@@ -75,9 +94,9 @@ Maka jadilah hasilnya!
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ui]
 
--- -- --
+<a name="laporan"></a>
 
-## ILUNI FTUI: Laporan Pertanggungjawaban
+### ILUNI FTUI: Laporan Pertanggungjawaban
 
 ![ILUNI FTUI: Laporan Pertanggungjawaban][image-iluni-ftui]
 
@@ -91,9 +110,9 @@ Maka jadilah hasilnya!
 
 * [nurwijayadi.deviantart.com/art/...][deviant-iluni-ftui]
 
--- -- --
+<a name="energi"></a>
 
-## ILUNI FTUI: Diskusi Energi Terbarukan
+### ILUNI FTUI: Diskusi Energi Terbarukan
 
 ![Energi: Ucapan Terimakasih][image-energi-trims]
 
@@ -108,6 +127,10 @@ Maka jadilah hasilnya!
 * [nurwijayadi.deviantart.com/art/...][deviant-energi-trims]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Begitulah adanya.
 

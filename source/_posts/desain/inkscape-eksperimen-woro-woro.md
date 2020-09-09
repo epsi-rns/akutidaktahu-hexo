@@ -8,7 +8,33 @@ keywords  : [woro-woro, whatsapp]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Baca Ini Dahulu](#catatan)
+
+* 1: [Whatsapp](#whatsapp)
+
+* 2: [Bagian Tengah: Pratilik](#tengah)
+
+* 3: [Bagian Atas: Business Network](#atas)
+
+* 4: [Bagian Bawah: Tanggal Tayang](#bawah)
+
+* 5: [Hasil Akhir](#akhir)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="catatan"></a>
+
+## Baca Ini Dahulu
 
 Sebetulnya saat kegiatan ini berlangsung,
 saya sudah tidak lagi menjadi pengurus alumni,
@@ -23,7 +49,7 @@ karena selama ini melihat woro-woro yang ada bentuknya itu-itu saja.
 Sebetulnya dengan tidak menjadi panitia inilah,
 rasanya saya lebih bebas bereksperimen tanpa beban.
 
-#### Sangkalan
+### Sangkalan
 
 > Salah Tema Warna
 
@@ -37,14 +63,14 @@ ketika sudah berakhir.
 
 Maaf yacc.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
 
 * [event-ring-07.svg][source-event-ring]
 
-#### DeviantArt
+### DeviantArt
 
 Source gambar dapat juga diambil di DeviantArt:
 
@@ -52,7 +78,9 @@ Source gambar dapat juga diambil di DeviantArt:
 
 -- -- --
 
-### Whatsapp
+<a name="whatsapp"></a>
+
+## 1: Whatsapp
 
 Pernahkah sohib pembaca mengklik sebuah gambar kechil di whatsapp,
 lalu keluar gambar yang lebih lengkap?
@@ -71,13 +99,15 @@ Kalau mau lebih jelas, lihat langsung di source gambar SVG di atas.
 
 -- -- --
 
-### Bagian Tengah: Pratilik
+<a name="tengah"></a>
+
+## 2: Bagian Tengah: Pratilik
 
 Pratilik di whatsapp kira-kira sebagai berikut:
 
 ![Woro-woro: Pratilik ILUSIN di di Whatsapp][image-pratilik-ilusin]
 
-#### Overlay Tranparansi di Logo
+### Overlay Tranparansi di Logo
 
 > Di era keterbukaan ini, semua ya mesti transparan.
 
@@ -88,7 +118,7 @@ Cara bikinnya sudah dibahas panjang kali lebar di sini yacc.
 Logonya dapat diganti custom logo apa saja.
 Lalu di-kira-kira saja, pantas atau tidak.
 
-#### Kabut Warna-Warni
+### Kabut Warna-Warni
 
 Kabut Pelangi ini, aku mengikuti tutorial-nya mas Irfan Prastyanto.
 Namun karena aku cari-cari di youtube tidak ada lagi tautan `link`-nya,
@@ -110,11 +140,13 @@ sesuai kemauan dengan gradasi bikinan sendiri.
 
 -- -- --
 
-### Bagian Atas: Business Network
+<a name="atas"></a>
+
+## 3: Bagian Atas: Business Network
 
 Ada beberapa komponen di bagian ini:
 
-#### Logo Sinergi
+### Logo Sinergi
 
 Pantia sudah punya logo sendiri untuk acara tahunan ini.
 
@@ -129,7 +161,7 @@ dengan jumlah total sebanyak sembilan konsep logo nano.
 ![Konsep Logo Nano 2016: 02][image-ide-logo-nano-2]
 ![Konsep Logo Nano 2016: 03][image-ide-logo-nano-3]
 
-#### Tulisan Lengkap
+### Tulisan Lengkap
 
 Tulisan ini terinsipirasi film `Thor Ragnarok`,
 yang sedang tayang belum lama berselang.
@@ -168,7 +200,7 @@ Mungkin lebih jelas, kalau warna latarnya terang.
 
 ![Woro-Woro: Biz Networks: Bawah: Terang][image-biznet-bawah-02]
 
-#### Tulisan Horizontal
+### Tulisan Horizontal
 
 Rancangan awalnya dapat diunduh di sini:
 
@@ -182,12 +214,14 @@ Gampang khaaaan.
 
 -- -- --
 
-### Bagian Bawah: Tanggal Tayang
+<a name="bawah"></a>
+
+## 4: Bagian Bawah: Tanggal Tayang
 
 Sedikit eksperimen lagi yacc.
 Percobaan membikin tanggal tayang yang tidak umum.
 
-#### Penjelasan
+### Penjelasan
 
 Sebetulnya di atas tanggal tayang,
 ada penjelasan singkat mengenai kegiatan.
@@ -196,7 +230,7 @@ ada penjelasan singkat mengenai kegiatan.
 
 Ini mah tidak perlu dijelaskan lagi, bagaimana cara membikinnya.
 
-#### Acuan Ilham
+### Acuan Ilham
 
 Gagasan awalnya berasal dari blog saya yang berbahasa inggris.
 Cieee... bisa bikin blog berbahasa inggris gitu loh.
@@ -211,7 +245,7 @@ Dengan hasil sebagai berikut
 
 ![Inkscape: Progress Ring Animation][image-progress-ring]
 
-#### Tanggal Tayang
+### Tanggal Tayang
 
 Lalu gambar di-atas di-ulik-ulik, dan di-ubah-ubah.
 Itupun tidak langsung jadi.
@@ -237,7 +271,9 @@ Jawaban saya adalah: _biarin... biarin_.
 
 -- -- --
 
-### Hasil Akhir
+<a name="akhir"></a>
+
+## 5: Hasil Akhir
 
 Silahkan di-klik untuk melihat gambar yang lebih besar dengan resolusi tinggi.
 
@@ -254,6 +290,10 @@ Silahkan dipakai, diamati, ditiru, atau dimodifikasi,
 untuk keperluan masing-masing.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Segitu saja yacc. Sampai jumpa sohib.
 

@@ -8,7 +8,9 @@ keywords  : [undang undang]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Salah satu hal yang saya suka lakukan dalam suatu kegiatan adalah,
 memberi penghargaan kepada sesama panitia. 
@@ -18,7 +20,7 @@ karena ini dibikin sebelum era handphone memiliki gambar yang tajam.
 
 > Mohon maaf kalau jadinya merepotkan pembaca.
 
-#### Panitia
+### Panitia
 
 ![Bang Montery Darwin][image-bang-monty]
 ![Bang Nouvel][image-bang-nouvel]
@@ -30,7 +32,7 @@ Tag di facebook masing-masing, supaya group alumni ramai.
 
 * [nurwijayadi.deviantart.com/art/...][deviant-devie]
 
-#### Peserta
+### Peserta
 
 Kalau perlu bikin juga untuk pserta,
 lalu tag di facebook, supaya orangnya senang.
@@ -38,6 +40,10 @@ lalu tag di facebook, supaya orangnya senang.
 ![Bang Siswandika][image-bro-siswa]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sekian.
 

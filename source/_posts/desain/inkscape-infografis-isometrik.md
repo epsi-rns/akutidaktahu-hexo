@@ -8,7 +8,9 @@ keywords  : [isometrik, infografis]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Penulis telah membikin gambar 3D dengan proyeksi isometri,
 untuk kegiatan pemilihan raya ketua alumni di kampus.
@@ -16,7 +18,26 @@ Yangmenarik di inkscape adalah,
 paduan antara efek filter dengan isometri.
 Penulis menyukai hasilnya, dan berkeinginan berbagi.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Pengaturan Isometri](#isometri)
+
+* [Rancangan](#rancangan)
+
+* [Pratilik Infografis](#pratilik)
+  * [Infografis #12](#infografis-12)
+  * [Infografis #13](#infografis-13)
+  * [Infografis #14](#infografis-14)
+  * [Infografis #15](#infografis-15)
+  * [Infografis #16](#infografis-16)
+  * [Infografis #17](#infografis-17)
+  * [Infografis #18](#infografis-18)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -25,7 +46,9 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Pengaturan Isometri
+<a name="isometri"></a>
+
+## Pengaturan Isometri
 
 Hanya ada tiga hal yang pembaca perlu ketahui.
 
@@ -80,7 +103,9 @@ supaya mendapat efek yang diinginkan.
 
 -- -- --
 
-### Rancangan
+<a name="rancangan"></a>
+
+## Rancangan
 
 Tiap bagian, ada di lapisan `layer` masing-masing.
 
@@ -98,11 +123,13 @@ berikut pengaturan yang dipakai penulis pakai dalam pengerjaan ini:
 
 * Varsity: Hanya untuk Infografis #
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 960px, tinggi 960px.
 
 -- -- --
+
+<a name="pratilik"></a>
 
 ## Pratilik Infografis
 
@@ -114,6 +141,8 @@ Tiap infografis mengumumkan tahapan kemajuan dari hasil perhtungan suara,
 dari alumniyangterdaftar untk kegiatan pemilihan raya tersebut.
 
 -- -- --
+
+<a name="infografis-12"></a>
 
 ### Infografis #12
 
@@ -137,6 +166,8 @@ Inilah warna RGBA yang dipakai:
 * [akutidaktahu.netlify.app/.../isometric-infographic-12.svg.gz][dotfiles-ig12]
 
 -- -- --
+
+<a name="infografis-13"></a>
 
 ### Infografis #13
 
@@ -176,6 +207,8 @@ Catatan: Group dahulu semua kotak, sebelum menerapkan efek.
 
 -- -- --
 
+<a name="infografis-14"></a>
+
 ### Infografis #14
 
 Mari bersenang-senang dengan efek-efek lain.
@@ -191,7 +224,7 @@ Penulis juga mengatur ulang peletakan kotak.
 
 Catatan: Group dahulu semua kotak, sebelum menerapkan efek.
 
-### Dekorasi
+#### Dekorasi
 
 Penulis tidak memasukkan dekorasi avatar ke dalam SVG source,
 karena menghormati pembikinnya.
@@ -206,6 +239,8 @@ Bagaimanapun, pembaca dapat menemukannya di sini:
 * [nurwijayadi.deviantart.com/art/...][deviant-ig14]
 
 -- -- --
+
+<a name="infografis-15"></a>
 
 ### Infografis #15
 
@@ -227,7 +262,9 @@ Yuk, tumpuk kotak-kotak ini satu diatas yang lain.
 
 -- -- --
 
-### Infografis #
+<a name="infografis-16"></a>
+
+### Infografis #16
 
 Mari atur ulang lagi,
 dan juga lakukan percobaan dengan efek filter lain yang berbeda-beda.
@@ -240,13 +277,15 @@ dan juga lakukan percobaan dengan efek filter lain yang berbeda-beda.
 
 * Bottom-Back: Bevels - Neon
 
-### SVG Source
+###$ SVG Source
 
 * [akutidaktahu.netlify.app/.../isometric-infographic-16.svg.gz][dotfiles-ig16]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ig16]
 
 -- -- --
+
+<a name="infografis-17"></a>
 
 ### Infografis #17
 
@@ -270,6 +309,8 @@ Lucu khaaaan...
 
 -- -- --
 
+<a name="infografis-18"></a>
+
 ### Infografis #18
 
 Ini pengumuman terakhir yang penulis bikin di kegiatan ini.
@@ -287,6 +328,10 @@ Ini pengumuman terakhir yang penulis bikin di kegiatan ini.
 * [nurwijayadi.deviantart.com/art/...][deviant-ig18]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Itu sajalah bang.
 Bisanya cuma itu.

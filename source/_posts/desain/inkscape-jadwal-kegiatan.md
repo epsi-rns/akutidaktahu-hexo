@@ -8,7 +8,9 @@ keywords  : [logo, makara UI, perangko, flyer, woro-woro, event schedule, ILUNI 
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Woro-woro pengumuman jadwal kegiatan ini,
 adalah karya awal penulis di inkscape.
@@ -17,7 +19,17 @@ tanpa rincian pola `pattern`, dan juga tanpa efek saringan `filter`.
 Begitu sederhananya, hanya bentuk `shape` dan fonta baku,
 sampai-sampai tidak ada rancangan desain yang dapat didiskusikan.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Jadwal Reuni Emas Alumni](#reuni)
+
+* [Jadwal Pemilihan Raya Alumni](#pemira)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -26,15 +38,17 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Jadwal Reuni Emas Alumni
+<a name="reuni"></a>
+
+## Jadwal Reuni Emas Alumni
 
 ![Jadwal Reuni Emas Alumni][image-sched-1]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1000px
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../50th-ftui-schedule.svg.gz][dotfiles-sched-1]
 
@@ -42,21 +56,27 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Jadwal Pemilihan Raya Alumni
+<a name="pemira"></a>
+
+## Jadwal Pemilihan Raya Alumni
 
 ![Jadwal Pemilihan Raya Alumni][image-sched-2]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 960px, tinggi 960px
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-ftui-schedule.svg.gz][dotfiles-sched-2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sched-2]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Itu sajalah.
 Saya dahulu memang tidak tahu cara membuat poster.

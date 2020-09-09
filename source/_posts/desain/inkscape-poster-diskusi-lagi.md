@@ -8,7 +8,9 @@ keywords  : [flyer, woro woro, GAK, ILUNI FTUI, Diskusi Berseri]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Gagal itu biasa, yang lebih penting adalah mencoba
 
@@ -31,7 +33,19 @@ daripada bersuaha keras untuk membuat seusatu unik yang baru.
 Namun tetap saja, pembaca boleh memakai template yangpenuli bikin ini,
 dan kemudian menggunakannya secara bebas.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Rancangan](#rancangan)
+* 1: [Diskusi Berseri Pertama](#pertama)
+* 2: [Diskusi Berseri Kedua](#kedua)
+* 3: [Pemaduan dengan Fotografi](#fotografi)
+* 4: [Serial Diskusi](#serial)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -40,31 +54,35 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Rancangan
+<a name="rancangan"></a>
+
+## Rancangan
 
 Tiap bagian, ada di lapisan `layer` masing-masing.
 
-#### Tata Huruf
+### Tata Huruf
 
 * Oswald, dengan efek filter `drop shadow`
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1000px, tinggi 800px.
 
-#### Efek Filter untuk Logo
+### Efek Filter untuk Logo
 
 * `Shadows and Glows` - `In and Out`
 
 -- -- --
 
-### Diskusi Berseri Pertama
+<a name="pertama"></a>
+
+## Diskusi Berseri Pertama
 
 Ini poster e-flyer penulis pertama dengan desain ini.
 
 ![ESBP][image-rimawan]
 
-#### Efek Filter
+### Efek Filter
 
 * `Distort - Lapping`
 
@@ -76,7 +94,9 @@ Ini poster e-flyer penulis pertama dengan desain ini.
 
 -- -- --
 
-### Diskusi Berseri Kedua
+<a name="kedua"></a>
+
+## Diskusi Berseri Kedua
 
 Seperti yang dapat pembaca lihat,
 tidak ada perbedaan dengan desain yang pertama di atas.
@@ -84,13 +104,13 @@ Tidak ada kreatifitas yang dapat dikembangkan di desain ini.
 
 ![ESBP][image-latief]
 
-#### Efek Filter
+### Efek Filter
 
 * `Distort` - `Felt Feather`
 
 * `Distort` - `Swirl`
 
-### Berkas Sumber SVG
+## Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../esbp-04.svg.gz][dotfiles-latief]
 
@@ -98,7 +118,9 @@ Tidak ada kreatifitas yang dapat dikembangkan di desain ini.
 
 -- -- --
 
-### Pemaduan dengan Fotografi
+<a name="fotografi"></a>
+
+## Pemaduan dengan Fotografi
 
 Gambar akhir adalah, e-flyer dengan ucapan terimakasih.
 Sebagaimana terlihat, tidaklah mudah untuk memadukan gambar foto
@@ -110,7 +132,7 @@ sampai saat ini.
 
 ![ESBP][image-thanks]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../esbp-terimakasih.svg.gz][dotfiles-thanks]
 
@@ -121,7 +143,9 @@ namun gagal dalam hal peletakannya.
 
 -- -- --
 
-### Serial Diskusi
+<a name="serial"></a>
+
+## Serial Diskusi
 
 > Mencoba Lagi
 
@@ -142,6 +166,10 @@ Sayangnya penulis tidak sempat meneruskan karena keburu sibuk di tempat lain.
 > Dan Gagal
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Itu saja. Sudah ah.. Malu.
 

@@ -7,23 +7,23 @@ category  : [silsilah]
 toc       : "toc/2017-silsilah"
 ---
 
-### Prakata
+## Prakata
 
 Berkas ini ditulis ulang dari Buku,
 dengan text sesuai aslinya.
 
-#### Artikel asli
+### Artikel asli
 
 * [Github: Gitodipuro][repository]
 
-#### Edisi Cetak (tulis ulang).
+### Edisi Cetak (tulis ulang).
 
 Edisi cetak (tulis ulang) dari Silsilah Gitodipuro ini,
 tersedia dalam format PDF.
 
 *	[gitodipuro-rewrite-1996.pdf][pdf]
 
-#### Daftar Isi
+### Daftar Isi
 
 * Prakata
 
@@ -43,13 +43,13 @@ tersedia dalam format PDF.
 
 <a name="ringkas"></a>
 
-### Ringkas
+## Ringkas
 
-#### Kata Pengantar
+### Kata Pengantar
 
 *	[Kata Pengantar][pengantar]
 
-#### Fatwa Ibu/ Eyang Ponodiningrat I
+### Fatwa Ibu/ Eyang Ponodiningrat I
 
 *	[Fatwa Ibu/ Eyang Ponodiningrat I][fatwa]
 
@@ -60,11 +60,11 @@ tersedia dalam format PDF.
 	*	[Sinom][sinom-3]
 	*	[Gambuh][gambuh]
 
-#### Keterangan Kode/ Tanda-Tanda
+### Keterangan Kode/ Tanda-Tanda
 
 *	[Keterangan Kode/ Tanda-Tanda][kode]
 
-#### Silsilah
+### Silsilah
 
 *	[Diagram Silsilah Gitodipuro][silsilah]
 
@@ -97,7 +97,7 @@ tersedia dalam format PDF.
 
 <a name="pengantar"></a>
 
-### 2: Kata Pengantar
+## 2: Kata Pengantar
 
 **Assalamu'alaikum Wr. Wb.**
 
@@ -128,9 +128,9 @@ Saswidodo MS.
 
 <a name="fatwa"></a>
 
-### 3: Fatwa Ibu/ Eyang Ponodiningrat I
+## 3: Fatwa Ibu/ Eyang Ponodiningrat I
 
-#### Fatwa Ibu/ Eyang Ponodiningrat I
+### Fatwa Ibu/ Eyang Ponodiningrat I
 
 **Anak Putu Kabeh**
 
@@ -152,7 +152,7 @@ Ponodiningrat
 
 <a name="midjil"></a>
 
-#### Midjil
+### Midjil
 
 Saiki Nyatethi dhawuhe Eyang, sing aku isih eling. ANAK PUTU kudu RUKUN. Eyang paring ngendika: "SING SAPA MARAHI ORA RUKUN, DAKSUWUNE TJENDHAK UMURE." Senadyan wis Seda, PEPALI kuwi isih kanggo.
 
@@ -179,7 +179,7 @@ Anak putu, menawa bisa ndjupuk sarine tembang MIDJIL kuwi, anane mung temtrem da
 
 <a name="sinom-1"></a>
 
-#### Sinom
+### Sinom
 
 Ana maneh dhawuhe saka tembang **SINOM**
 
@@ -197,7 +197,7 @@ Nulad Eyang Panembahan Senapati, anggone amarsudi kurang dhahar sarta sare, agun
 
 <a name="sinom-2"></a>
 
-#### Sinom
+### Sinom
 
 Petung wilujengan tinggal donya.
 
@@ -253,7 +253,7 @@ Siki petung dina karo pasaran, menawa bisa nembang diapalake nganggo tembang. Ug
 
 <a name="dhandhanggula"></a>
 
-#### Dhandhanggula
+### Dhandhanggula
 
 > Neptu Dina lan Pasaran
 
@@ -310,7 +310,7 @@ Candra priyayi kuwi ora mesthi persis, amung mirip, dene menawa Wuku kuwi ora ak
 
 <a name="sinom-3"></a>
 
-#### Sinom
+### Sinom
 
 Isih ana piweling sarana nganggo tembang patang pada Sinom.
 
@@ -379,7 +379,7 @@ Iki aku pamit sarta njaluk gunging pangapura menyang kowe kabeh kang maca buku S
 
 <a name="gambuh"></a>
 
-#### Gambuh
+### Gambuh
 
 > I.
 
@@ -443,7 +443,7 @@ Iki aku pamit sarta njaluk gunging pangapura menyang kowe kabeh kang maca buku S
 
 <a name="kode"></a>
 
-### 4: Keterangan Kode/ Tanda-Tanda
+## 4: Keterangan Kode/ Tanda-Tanda
 
 1.	Tingkat Keturunan
 
@@ -481,23 +481,23 @@ Iki aku pamit sarta njaluk gunging pangapura menyang kowe kabeh kang maca buku S
 
 <a name="silsilah"></a>
 
-### 5: Silsilah
+## 5: Silsilah
 
-#### Sunan Giri
+### Sunan Giri
 
 ![Dari Sunan Giri][sunan-giri]
 
 Garwo Eyang Kartononagoro adalah Cucu Sinuwun Seda Krapyak Raja Mataram (K. Ratu Emas Sekar).
 
-#### Kyai Gulu
+### Kyai Gulu
 
 ![Dari Kyai Gulu][kyai-gulu]
 
-#### Kyai H. Moch Qorib.
+### Kyai H. Moch Qorib.
 
 ![Dari Moch Qorib][moch-qorib]
 
-#### Kyai Haji Yahya
+### Kyai Haji Yahya
 
 ![Dari Kyai Yahya][kyai-yahya]
 
@@ -538,11 +538,11 @@ Keterangan di atas didapat penulis dari ceritera/ fatwa/ pangandiko:
 
 <a name="keturunan"></a>
 
-### 6: Keturunan
+## 6: Keturunan
 
 [Diagram Silsilah Gitodipuro][silsilah]
 
-## Garwo
+### Garwo
 
 ![Garwo][garwo]
 
@@ -563,7 +563,7 @@ Catatan:
 	Karena Mbah Sapen setelah mempunyai putra satu, yaitu Sukandar (ajal alit) lalu seda (meninggal),
 	isteri-isteri beliau adalah yang tersebut di atas.
 
-#### Ringkas
+### Ringkas
 
 ♂ Gitodipuro
 	<br/>
@@ -598,7 +598,7 @@ Catatan:
 
 Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarnya telah kromo dengan Djakalara (Mbah Sapen) berputra seorang bernama Sukandar. Mbah Sapen kemudian meninggal dan putranya juga meninggal. Oleh sebab itu tidak kami masukkan ke dalam Silsilahan Gitodipuran ini. Hanya sebagai catatan untuk diketahui oleh Putro Wayah.
 
-#### Rinci
+### Rinci
 
 ♂ Gitodipuro
 	<br/>
@@ -736,6 +736,8 @@ Keterangan: Sebelum Eyang Gitodipuro kromo dengan isteri 1 s/d 4 beliau sebenarn
 	*	Suami: ♂ Brototenoyo
 	*	Anak: [A12B01.][A12B01] ♂ Ibnu Subroto
 		*	Istri: ♀ Woro Kartini (Lihat: Gitosaputro)
+
+* .
 
 -- -- --
 

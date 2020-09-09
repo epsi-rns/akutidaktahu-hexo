@@ -8,7 +8,9 @@ keywords  : [material design, wallpaper, flat design]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Apa!! Proyeksi isometri 3D di bidang datar 2D?
 Oh, sebetulnya ini sama sekali bukan proyeksi 3D.
@@ -24,9 +26,27 @@ Keuntungan dari tampilan condong ini adalah,
 lebih memiliki tampilan yang realistis,
 sebagaimana terlihat di tampilan berikut:
 
-![Pratili Gambar Latar][image-preview]
+![Pratilik Gambar Latar][image-preview]
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Template](#template)
+
+* 2: [Bentuk Shape Dasar](#bentuk-shape)
+
+* 3: [Pewarnaan](#pewarnaan)
+
+* 4: [Teks](#teks)
+
+* 5: [Hasil Akhir](#hasil-akhir)
+
+* 6: [Di Luar Desain Datar](#di-luar)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -35,11 +55,13 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Template
+<a name="template"></a>
+
+## 1: Template
 
 Awali dengan membuat berkas baru, untuk gambar latar `wallpaper` ini.
 
-#### Halaman
+### Halaman
 
 Ubah properti berkas supaya sesuai dengan ukuran layar yang extra lebar.
 
@@ -51,7 +73,7 @@ Ubah properti berkas supaya sesuai dengan ukuran layar yang extra lebar.
 
 ![Properti Berkas: Halaman][image-dialog-page]
 
-#### Kisi Grid
+### Kisi Grid
 
 Buka properti berkas, can bikinlah `Axonometric Grid` yang baru.
 
@@ -76,14 +98,14 @@ misalnya `Isonometric`.
 
 ![Properti Berkas: Kisi Grids][image-dialog-grids]
 
-#### Palette
+### Palette
 
 Persiapkan palet warna.
 Di sini kita akan menggunakan `Google Material Pallete`.
 
 ![Pallete: Google Material][image-pallete]
 
-#### Patokan Snaps
+### Patokan Snaps
 
 Persiapkan patokan `snaps`, dengan meng-klik `icon` terkait.
 
@@ -91,7 +113,7 @@ Persiapkan patokan `snaps`, dengan meng-klik `icon` terkait.
 
 * Snap Nodes, Path and handles.
 
-#### Lapisan Layer
+### Lapisan Layer
 
 Bikinlah tiga lapisan `layer` baru.
 
@@ -103,7 +125,7 @@ Bikinlah tiga lapisan `layer` baru.
 
 ![Dock: Lapisan Layers][image-dock-layers]
 
-#### Lapisan Layer: Latar Background
+### Lapisan Layer: Latar Background
 
 Pilihlah latar background sebagai ruang kerja saat ini.
 Perbesar `zoom` tampilan atau klik (<kbd>5</kbd>),
@@ -128,7 +150,7 @@ Tuang dengan warna apapun yang dikehendaki,
 
 Kunci lapisan `layer`, setelah selesai.
 
-#### Lapisan Layer: Crop
+### Lapisan Layer: Crop
 
 Gunakan lapisan `layer` bernama `crop` sebagai ruang kerja saat ini.
 Sembari bekerja, kita butuh untuk menampilkan ,
@@ -162,7 +184,7 @@ ubahlah `opacity` menjadi 50%.
 
 Dan jangan lupa untuk mengunci lapisan `layer` ini.
 
-#### Simpan Pekerjaan
+### Simpan Pekerjaan
 
 Selamat, sekarang sobat pembaca sudah punya template.
 Simpanlah, `save` ke berkas baru,
@@ -170,7 +192,9 @@ misalnya dengan nama `flat-isometric-looks.svg`.
 
 -- -- --
 
-### Bentuk Shape Dasar
+<a name="bentuk-shape"></a>
+
+## 2: Bentuk Shape Dasar
 
 Contoh yang penulis punya ini,
 terilhami dari `+ArtentDesigns` yang cemerlang.
@@ -179,7 +203,7 @@ Namun kali ini, kita akan menggunakan tampilan proyeksi isometrik.
 Mari gunakan lapisan `layer` wallpaper sebagai ruang kerja saat ini.
 Kita akan menggamabar balok demi balok.
 
-#### Balok Pertama
+### Balok Pertama
 
 Tarik gambar `path` dengan `Freehand Lines` dengan menekan (<kbd>F6</kbd>),
 lalu bikinlah kotak isometrik dengan menggunakan patokan kisi utama `major grid snap`.
@@ -195,7 +219,7 @@ Kita membutuhkan kotak bagian luar ini sebagai panduan untuk patokan `snap`.
 
 ![Balok: Pertama][image-bar-first]
 
-#### Balok-balok Selengkapnya
+### Balok-balok Selengkapnya
 
 Atur patok ke 'Snap Bounding Box Corner',
 dan gandakan `duplicate` balok pertama untuk memenuhi,
@@ -207,7 +231,7 @@ Lalu hilangkan semua balokbalok yang besar.
 
 ![Balok-Balok: Selengkapnya][image-bar-all]
 
-#### Balok Menyilang
+### Balok Menyilang
 
 Lakukan lagi hal yang sama,
 dengan menggandakan `duplicate` maupun mencerminkan `mirror`.
@@ -226,13 +250,15 @@ barangkali saja penulis membutuhkannya kembali di kemudian hari.
 
 -- -- --
 
-### Pewarnaan
+<a name="pewarnaan"></a>
 
-#### Latar Background
+## 3: Pewarnaan
+
+### Latar Background
 
 Dahulukan yang utama, gunakan putih polos, untuk latar background.
 
-#### Balok-balok
+### Balok-balok
 
 Sisanya, penulis akan menggunakan `Google Material Color`.
 Karena penulis menyukai warna lembut dari palet ini.
@@ -260,7 +286,7 @@ Balok Kanan.
 
 ![Balok: Pewarnaan][image-bar-color]
 
-#### Bayangan Shadow
+### Bayangan Shadow
 
 Pilih semua balok, dan terapkan saringan `filter` dengan meng-klik menu.
 (<kbd>Filters - Shadows and Glows - Drop Shadow</kbd>)
@@ -284,19 +310,21 @@ dan kemudian menekan (<kbd>Pg Up</kbd>) atau (<kbd>Pg Down</kbd>).
 
 -- -- --
 
-### Teks
+<a name="teks"></a>
+
+## 4: Teks
 
 Ini bagian yang berat,
 karena penulis tidak pandai dalam berpuisi.
 Penulis harus menjenguk ke kenangan masa lalu,
 untuk mencari paduan kata yang tepat.
 
-#### Tata Huruf
+### Tata Huruf
 
 Penulis menggunakan fonta `oswald`, dengan ukuran 80px, dan warna  `grey50`.
 Pembaca dapat menggunakan pengauran sendiri sesuai dengan yang dikehendaki.
 
-#### Proyeksi Isometri
+### Proyeksi Isometri
 
 Aturannya sederhana.
 
@@ -312,17 +340,19 @@ Letakkan teks di balok menggunakan `Bounding box corner to grid intersection`.
 
 -- -- --
 
-### Hasil Akhir
+<a name="hasil-akhir"></a>
+
+## 5: Hasil Akhir
 
 Ekspor ke PNG, menggunakan 90dpi untuk mendapatkan lebar 1920px x tinggi 1080px.
 
 Jangan lupa, berkas gambarnya disimpan.
 
-#### Pratilik
+### Pratilik
 
 ![Hasil Akhir Gambar Latar][image-final]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Pembaca dapat meninjauulang bahan ajar ini dengan berkas sumber SVG berikut:
 
@@ -330,7 +360,9 @@ Pembaca dapat meninjauulang bahan ajar ini dengan berkas sumber SVG berikut:
 
 -- -- --
 
-### Di Luar Desain Datar
+<a name="di-luar"></a>
+
+## 6: Di Luar Desain Datar
 
 Bilamana sobat pembaca menghendaki tampilan yang lebih nyata,
 dengan meninggalakan filosofi `flat designn`.
@@ -350,7 +382,7 @@ maka warna di bawahnya harus ditingkatkan menjadi `red900`.
 
 ![Ribbon Wallpaper][image-ribbon]
 
-#### DeviantArt
+### DeviantArt
 
 Penulis juga menaruh dua tautan, dan contohlain di `DeviantArt`.
 Masing-masing dengan SVGs yang dapat di-unduh.
@@ -362,6 +394,10 @@ Masing-masing dengan SVGs yang dapat di-unduh.
 * [White Multicolor][deviant-sample-3]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Selamat Menikmati!
 

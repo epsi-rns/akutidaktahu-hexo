@@ -8,7 +8,9 @@ keywords  : [spanduk, cetak, woro-woro, undangan kegiatan, stock image, ILUNI UI
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Tiru - Amati - Modifikasi
 
@@ -29,7 +31,7 @@ Bebas pakai, dan bebas mengubah.
 
 Di inkscape, kita dapat menggunakan failitas `png export`.
 
-#### Bahasa Inggris
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -38,9 +40,9 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Rancangan
+## Rancangan
 
-#### Tata Huruf
+### Tata Huruf
 
 Sebagaimana biasanya, penulis menggunakan `free font`,
 dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
@@ -51,34 +53,33 @@ Penulis menaruh tiap-tiap bagian di lapisan `layer` tersendiri.
 Supaya siapapun yang memakai dapat dengan mudah,
 mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1200px
 
 -- -- --
 
-### Pratilik
+## Pratilik
 
 ![Contoh Undangan: Yellow][image-yellow-invitation]
 
 ![Contoh Undangan: Blue][image-blue-invitation]
 
-#### Tahlil
+### Tahlil
 
 Penulis sendiri memakai untuk undangan Tahlil
 
 ![Contoh Undangan: Blue][image-tahlil-invitation]
 
-
 -- -- --
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../event-invitation-sample-alumni.svg.gz][dotfiles-invitation]
 
 * [akutidaktahu.netlify.app/.../event-invitation-example-tahlil.zip][dotfiles-tahlil]
 
-#### DeviantArt
+### DeviantArt
 
 * [nurwijayadi.deviantart.com/art/...yellow...][deviant-invitation-yellow]
 

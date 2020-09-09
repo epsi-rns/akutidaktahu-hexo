@@ -8,7 +8,29 @@ keywords  : [logo, mechanical engineering, mesin, brushed, FTUI]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
+
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Awalnya](#awalnya)
+
+* 2: [Profile Picture](#profile-picture)
+
+* 3: [Di luar Picture Profile](#bukan-profile-picture)
+
+* 4: [Logo Sebagai Overlay](#overlay)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="awalnya"></a>
+
+## 1: Awalnya
 
 Tahun 2015, penulis sudah undur diri dari kealumnian,
 untuk berkonsentrasi berwiraswasta.
@@ -35,7 +57,7 @@ Dan belum tahu apa-apa.
 Di saat itu pula belum bayak tutorial inkscape,
 sebagaimana tahun 2020 ini.
 
-#### Sumber Gagasan.
+### Sumber Gagasan.
 
 Sebetulnya gagasan-nya saya ambil dari logo arch linux ini:
 
@@ -46,7 +68,13 @@ baik cara membikin-nya, maupun salin-tempel.
 Namun penulis dapat mengganti logo `arch linux`,
 dengan logo ikatan alumni mesin (ILUSIN).
 
-#### Logo ILUSIN
+-- -- --
+
+<a name="profile-picture"></a>
+
+## 2: Profile Picture
+
+### Logo ILUSIN
 
 Saya sangat suka landasan `brushed`  yang berkesan `metalik`,
 karena mengingatkan akan lab CNC di kampus,
@@ -68,7 +96,7 @@ Atau di DeviantArt
 
 Font yang penulis pakai adalah sablon-up.
 
-#### Logo Angkatan
+### Logo Angkatan
 
 Lebih jauh, saya bikinkan juga logo,
 untuk masing2 angkatan yang tertarik,
@@ -100,7 +128,7 @@ dan penulis tidak dapat berhenti menawarkan diri untuk membuat logo,
 untuk tiap angkatan. Baik yang lebih tua atau yang lebih muda.
 Saat itu sangat menyenangkan. Hahaha
 
-#### Semakin Aneh
+### Semakin Aneh
 
 > Komponen dekorasi artwork di bawah ini bukan karya saya.
 
@@ -130,7 +158,9 @@ Atau di DeviantArt
 
 -- -- --
 
-### Di luar Picture Profile
+<a name="bukan-profile-picture"></a>
+
+## 3: Di luar Picture Profile
 
 Ceritanya penulis masih belajar inkscape tingkat dasar,
 dan kebetulan diminta membikin label untuk konsep clustering komunitas angkatan.
@@ -145,7 +175,7 @@ Source dijadikan satu semua ke DeviantArt:
 
 * [DeviantArt: Logo Ilusin: Dasar][deviant-ilusin]
 
-#### Landscape
+### Landscape
 
 Penulis mulai dengan warna biru untuk Teknik.
 Dengan paduan warna kuning kampus supaya kelihatan djadoel poenja.
@@ -160,7 +190,7 @@ Source gambar dapat diambil di:
 
 * [Source Gambar: Cluster Angkatan: Landscape][svg-landscape]
 
-#### Portrait
+### Portrait
 
 Berikutnya ini
 
@@ -170,7 +200,7 @@ Source gambar dapat diambil di:
 
 * [Source Gambar: Cluster Angkatan: portrait][svg-portrait]
 
-#### Kotak
+### Kotak
 
 Dan terakhir, saya lupa kenapa dinamakan transisi.
 Karena sudah lama berselang.
@@ -185,13 +215,15 @@ Tidak bagus sih... hehe... namanya juga, dahulu masih belajar.
 
 -- -- --
 
-### Logo Sebagai Overlay
+<a name="overlay"></a>
+
+## 4: Logo Sebagai Overlay
 
 Di penghujung 2016.
 Penulis harus memadukan gambar logo yang ada,
 dengan foto2 yang diambil oleh penulis.
 
-#### Contoh 01
+### Contoh 01
 
 Foto penulis di paling bawah, sebelah kanan.
 
@@ -201,7 +233,7 @@ Selengkapnya dapat dilihat di DeviantArt.
 
 * [DeviantArt: Foto dengan Logo Overlay: Contoh 1][deviant-foto-01]
 
-#### Contoh 02
+### Contoh 02
 
 ![Inkscape SVG beserta Foto dengan Logo Overlay: Contoh 2][png-foto-02]
 
@@ -209,9 +241,13 @@ Selengkapnya dapat dilihat di DeviantArt.
 
 * [DeviantArt: Foto dengan Logo Overlay: Contoh 2][deviant-foto-02]
 
-Cukup cantik bukan?
+Cukup cantique bukan?
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sampai jumpa di catatan berikutnya.
 

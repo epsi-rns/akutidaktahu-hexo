@@ -8,18 +8,20 @@ keywords  : [vexel, face tracing, jiplak wajah]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 > Akibat penulis sangat jarang dipotret.
 
-#### Bahasa Inggris
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
 
 * [Inkscape: Vexel Face Tracing][english-version]
 
-#### Jarang Dipotret
+### Jarang Dipotret
 
 Penulis sangat jarang dipotret,
 dan ini memberi masalah ketika penulis membutuhkan `avatar`,
@@ -46,7 +48,7 @@ misalnya menambahkan janggut, kumis melintang, ataupun rambut gondrong.
 
 Akhirnya, penulis punya juga sesuatu untuk dijadikan `avatar`.
 
-### Berkas Sumber SVG Di DeviantArt
+## Berkas Sumber SVG Di DeviantArt
 
 * [nurwijayadi.deviantart.com/art/...][deviant-ss-pp-1]
 

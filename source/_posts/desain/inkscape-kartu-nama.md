@@ -8,14 +8,38 @@ keywords  : [kartu nama, business card]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Salah satu perlengkapan kegiatan adalah kartu nama.
 Demikian pula, kalau punya usaha kecil-kecil-an,
 tidak perlu terllu repot membuat desain kartu nama,
 karena sudah dibikinkan di sini.
 
-#### Mulai dari Logo
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Persiapan](#persiapan)
+
+* 1: [Contoh Satu: Bengkel](#bengkel)
+
+* 2: [Contoh Dua: Indie](#indie)
+
+* 3: [Contoh Tiga: Alumni](#alumni)
+
+* 4: [Contoh Empat: Perusahaan](#perusahaan)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="persiapan"></a>
+
+## Persiapan
+
+### Mulai dari Logo
 
 Ketika punya suatu kegiatan, dari sisi desain,
 yang perlu dibikin dahulu adalah logo.
@@ -37,14 +61,14 @@ Namun jangan khawatir,
 nanti ada contoh kartu nama tanpa logo,
 untuk kepentingan sederhana, atau mendesak.
 
-#### Ukuran
+### Ukuran
 
 Kartu nama ini ukurannya sudah umum.
 Ada beberapa ukuran, saya biasanya memakai 90x55mm.
 Karena target-nya adalah percetakan,
 maka jangan dibuat ukuran pixel yacc.
 
-#### Mencetak CMYK di Inskcape.
+### Mencetak CMYK di Inskcape.
 
 Sejujurnya saya tidak terlalu peduli.
 Apalagi sekarang kartu nama bukan hal yang terlalu utama.
@@ -52,13 +76,13 @@ Apalagi sekarang kartu nama bukan hal yang terlalu utama.
 Cukup bawa versi PDF ke percetakan.
 Biasanya percetakan langsung paham mesti ngapain.
 
-#### Cara Membikin
+### Cara Membikin
 
 Cara membikin tidak perlu dibahas lagi karena terlalu mudah.
 Saya langsung bagikan saja beberapa contoh,
 yang semuanya siap cetak.
 
-#### Font Lining
+### Font Lining
 
 Beberapa contoh di sini sudah terlanjur memakai fonta berjenis Raleway,
 yang konon katanya kurang bagus untuk numerik.
@@ -68,14 +92,16 @@ Namun sebetulnya ini dapat diatasi dengan lining yang tepat.
 
 -- -- --
 
-### Contoh Satu: Bengkel
+<a name="bengkel"></a>
+
+## Contoh Satu: Bengkel
 
 Sekarang di smartphone saya,
 selalu ada beberapa kartu nama sesuai kebutuhan,
 yang dapat saya share sewaktu-waktu ke social media,
 misalnya di `whatsapp`.
 
-#### Tampak Depan
+### Tampak Depan
 
 ![Oto Spies: Business Card: Tampak Depan][image-oto-card]
 
@@ -83,7 +109,7 @@ misalnya di `whatsapp`.
 
 * [01-business-card-oto-spies.svg][source-oto-card]
 
-#### Tampak Belakang
+### Tampak Belakang
 
 ![Oto Spies: Cover Card: Tampak Belakang][image-oto-cover]
 
@@ -91,7 +117,7 @@ misalnya di `whatsapp`.
 
 * [01-cover-card-oto-spies.svg][source-oto-card]
 
-#### Pratilik
+### Pratilik
 
 Terkadang kita perlu memberikan pratilik kepada rekan kita,
 yang kita bikinkan kartu namanya.
@@ -106,11 +132,13 @@ Tidak susah bukan.
 
 -- -- --
 
-### Contoh Dua: Indie
+<a name="indie"></a>
+
+## Contoh Dua: Indie
 
 Yang ini perlu untuk yang tidak punya logo usaha.
 
-#### Tampak Depan
+### Tampak Depan
 
 ![Indie: Business Card: Tampak Depan][image-indie-card]
 
@@ -118,7 +146,7 @@ Yang ini perlu untuk yang tidak punya logo usaha.
 
 * [02-business-card-indie.svg][source-indie-card]
 
-#### Tampak Belakang
+### Tampak Belakang
 
 ![Indie: Cover Card: Tampak Belakang][image-indie-cover]
 
@@ -126,7 +154,7 @@ Yang ini perlu untuk yang tidak punya logo usaha.
 
 * [02-cover-card-indie.svg][source-indie-card]
 
-#### Pratilik
+### Pratilik
 
 Hasil gambar di atas,
 akan lebih jelas dengan pratilik di sini:
@@ -139,14 +167,16 @@ akan lebih jelas dengan pratilik di sini:
 
 -- -- --
 
-### Contoh Tiga: Alumni
+<a name="alumni"></a>
+
+## Contoh Tiga: Alumni
 
 Oh iya, sebelumnya penulis mesti membuat sangkalan dahulu,
 supaya tidak kesalahan dianggap meng-`klaim` sesuatu.
 Dan juga kehati-hati-an supaya kartu-nya tidak dimanfaatkan,
 secara tidak bertanggung-jawab oleh seseorang.
 
-#### Sangkalan
+### Sangkalan
 
 > Hanya Konsep
 
@@ -176,7 +206,7 @@ Tentunya dengan perkecualian,
 untuk kegiatan terkait ILUNI UI,
 tetap tidak boleh.
 
-#### Tampak Depan
+### Tampak Depan
 
 Kuy, lanjoot.
 
@@ -186,7 +216,7 @@ Kuy, lanjoot.
 
 * [03-business-card-iluni.svg][source-iluni-card]
 
-#### Tampak Belakang
+### Tampak Belakang
 
 ![Iluni: Cover Card: Tampak Belakang][image-iluni-cover]
 
@@ -194,7 +224,7 @@ Kuy, lanjoot.
 
 * [03-cover-card-iluni.svg][source-iluni-card]
 
-#### Pratilik
+### Pratilik
 
 Hasil gambar di atas,
 akan lebih jelas dengan pratilik di sini:
@@ -207,7 +237,9 @@ akan lebih jelas dengan pratilik di sini:
 
 -- -- --
 
-### Contoh Empat: Perusahaan
+<a name="perusahaan"></a>
+
+## Contoh Empat: Perusahaan
 
 > Lebih Rinci
 
@@ -221,7 +253,7 @@ karena dari awal memang penulis yang merancang kartu ini.
 Dalam hal berbagi supaya dapat dipakai ulang,
 maka penulis ganti sedikit logo-nya, dan juga nama-nya.
 
-#### Tampak Depan
+### Tampak Depan
 
 Boleh memakai rancangan desain ini,
 namun mohon memakai logo sendiri,
@@ -234,7 +266,7 @@ di mana penulis berjuang.
 
 * [04-business-card-teman-93.svg][source-teman-card]
 
-#### Pratilik
+### Pratilik
 
 Hasil gambar di atas,
 akan lebih jelas dengan pratilik di sini:
@@ -247,9 +279,11 @@ akan lebih jelas dengan pratilik di sini:
 
 -- -- --
 
-### Penutup
+<a name="penutup"></a>
 
-#### Pratilik
+## Penutup
+
+### Pratilik
 
 Selengkapnya di sini:
 

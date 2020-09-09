@@ -8,7 +8,9 @@ keywords  : [musyawarah nasional, iluni ui]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Yang penulis alami, saat membikinkan desain ke orang lain,
 adalah membutuhkan belasan desain sebelum disetujui.
@@ -23,7 +25,15 @@ maka usaha yang penulis lakukan juga tidak maksimal.
 Namun dapat menjadi gambaran, ketika membuat sesuatu,
 membutuhkan dua atau tiga rancangan, sebelum beranjak ke rincian.
 
-#### Sangkalan
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Munas ILUNI UI 2016](#munas)
+
+* [Penutup](#penutup)
+
+### Sangkalan
 
 > Jangan Pakai Ini Untuk ILUNI UI
 
@@ -35,7 +45,7 @@ untuk kebutuhan ILUNI UI sehari-hari.
 
 Di luar ILUNI UI, silahkan pakai.
 
-#### Latar Gambar
+### Latar Gambar
 
 Penulis memakai latar berdasarkan ranacangan ini:
 
@@ -45,12 +55,14 @@ Namun warnanya diubah menjadi kuning supaya sesuai dengan warna jaket kuning.
 
 -- -- --
 
-### Munas ILUNI UI 2016
+<a name="munas"></a>
+
+## Munas ILUNI UI 2016
 
 Ada beberapa kegiatan di sini.
 Yang tentunya tidak penulis masukkan semuanya.
 
-#### Diskusi Terbuka Calon
+### Diskusi Terbuka Calon
 
 Ada dua rancangan desain yang penulis bikin saat itu.
 Namun penulis lupa mana yang dipublikasikan.
@@ -63,7 +75,7 @@ Namun penulis lupa mana yang dipublikasikan.
 
 * [Diskusi Terbuka Calon Ketua ILUNI UI - Gelap][deviant-diskusi-calon-02]
 
-#### e-Registrasi Calon
+### e-Registrasi Calon
 
 Ada tiga rancangan. Yang satu dibuang.
 Maka tinggal dua pilihan yang menunggu persetujuan.
@@ -88,7 +100,7 @@ Maka dibikin satu lagi pengumuman.
 
 * [e-Registrasi: Calon Ketua ILUNI UI - Kedua - Tambahan][deviant-e-reg-calon-2nd-01]
 
-#### e-Registrasi Pemilih
+### e-Registrasi Pemilih
 
 Ada tiga rancangan.
 Yang pertama, hanya berfungsi untuk menggoda tanpa rincian.
@@ -118,6 +130,10 @@ Selanjutnya penulis tidak terlibat lagi,
 karena harus berkosntrasi di tempat lain.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sekian.
 

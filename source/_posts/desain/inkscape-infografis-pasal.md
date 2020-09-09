@@ -8,7 +8,9 @@ keywords  : [undang undang]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Salah satu hal yang membuat penulis ingin belajar inkscape adalah
 untuk membuat infografis,
@@ -16,18 +18,18 @@ salah satunya untuk menjelaskan pasal dari suatu peraturan.
 Kalau saat kuliah dahulu,
 fungsinya hanya memberi `highlight` berwarna kuning dengan `stabillo`.
 
-#### Sangkalan
+### Sangkalan
 
 Penulis bukan aktivis. Hanya tukang woro-woro di kealumnian.
 
-#### Sambil Belajar
+### Sambil Belajar
 
 Walaupun yang muncul satu pasal, namun utuk memahami suatu pasal,
 penulis harus mentelusuri keseluruhan undang-undang-nya supaya paham.
 Biasanya penulis ringkas dahulu, pokok-pokok judulnya,
 supaya paham maksud pasal ini apa.
 
-#### Asas Cabotage
+### Asas Cabotage
 
 Sebetulnya alumni sudah mulai berkutat dengan orang-orang perkapalan
 yang peduli dengan `asas cabotage` mulai di tahun 2008.
@@ -49,7 +51,7 @@ Dan inipun warnanya kurang bagus.
 
 * [akutidaktahu.netlify.app/.../asas-cabotage-gelap.zip][dotfiles-asas-cabotage-02]
 
-#### Bingkai
+### Bingkai
 
 Mungkin akan lebih menarik, kalau diberi bingkai.
 Sayangnya bingkai ini bukan penulis yang membikin.
@@ -69,7 +71,7 @@ Penulis ambil dari salah satu anggota facebook group, Inkscape Indonesia.
 
 * [akutidaktahu.netlify.app/.../bingkai-02.zip][dotfiles-bingkai-02]
 
-#### Pengeboran Lepas Pantai
+### Pengeboran Lepas Pantai
 
 Masih terkait asas cabotage untuk majalah jurnal maritim,
 penulis berusaha menengahi perbedaan pendapat di group diskusi,
@@ -83,7 +85,7 @@ dengan infografis pasal-pasal yang terkait.
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pengeboran]
 
-#### Ketentuan Umum Perpajakan
+### Ketentuan Umum Perpajakan
 
 Penulis bikin di tahun 2019.
 Silahkan lihat langsung artikelnya.
@@ -91,7 +93,7 @@ Kali ini dengan tata warna yang lebih kontras.
 
 * [Infografis Pasal: Ketentuan Umum Perpajakan][local-pasal-pajak]
 
-#### Lain-Lain
+### Lain-Lain
 
 Sebetulnya banyak lagi yang pernah penulis bikin,
 namun rasanya tidak perlu disampaikan di sini,
@@ -107,6 +109,10 @@ Misalnya yang penulis bikin di tahun 2014 ini:
 * [Perbedaan antara Maritim dan Kelautan][source-difference]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sekian.
 

@@ -8,7 +8,9 @@ keywords  : [woro-woro, flyer, gak]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Sejenak dalam hidup, penulis pernah sedikit berkiprah,
 di Gerakan Anti Korupsi (GAK) di Indonesia.
@@ -25,7 +27,35 @@ pembaca dapat menggunakan sumber template gambar yang sudah dibikin,
 untuk suatu seminar, ataupun kegiatan lain yang pembaca jalani.
 Desainnya cukup sederhana, namun anggun.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Logo Dasar](#logo-dasar)
+
+* 2: [Deklarasi: Backdrop 15x2](#deklarasi-backdrop)
+
+* 3: [Deklarasi: E-flyer Ucapan Terimakasih](#deklarasi-terimakasih)
+
+* 4: [e-Flyer Panggilan Aksi](#aksi-e-flyer)
+
+* 5: [Hari Jadi: Backdrop 15x2](#hari-jadi-backdrop)
+
+* 6: [Hari Jadi: E-flyer Ucapan Terimakasih](#hari-jadi-terimakasih)
+
+* 7: [Woro-Woro](#woro-woro)
+
+* 8: [Ucapan Terimakasih](#ucapan-terimakasih)
+
+* 9: [Fotografi](#fotografi)
+
+* 10: [Pemirsa](#pemirsa)
+
+* 11: [Sejarah](#sejarah)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -34,14 +64,16 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Logo Dasar
+<a name="logo-dasar"></a>
+
+## 1: Logo Dasar
 
 Sebagai awalan, inilah sumber SVG dari logo dasar,
 dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
 
 ![Logo GAK][image-logo]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-06-logo-dasar.svg.gz][dotfiles-logo]
 
@@ -49,15 +81,17 @@ dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
 
 -- -- --
 
-### Deklarasi: Backdrop 15x2
+<a name="deklarasi-backdrop"></a>
+
+## 2: Deklarasi: Backdrop 15x2
 
 ![Backdrop Deklarasi GAK][image-deklarasi]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 300mm, tinggi 200mm.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-01-deklarasi-backdrop.svg.gz][dotfiles-deklarasi]
 
@@ -65,15 +99,17 @@ dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
 
 -- -- --
 
-### Deklarasi: E-flyer Ucapan Terimakasih.
+<a name="deklarasi-terimakasih"></a>
+
+## 3: Deklarasi: E-flyer Ucapan Terimakasih
 
 ![Ucapan Terimakasih Deklarasi GAK][image-thanks-1]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 300mm, tinggi 200mm.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-02-deklarasi-terimakasih.svg.gz][dotfiles-thanks-1]
 
@@ -81,17 +117,19 @@ dari Gerakan Anti Korupsi, yang kita perjuangan bersama.
 
 -- -- --
 
-### e-Flyer Panggilan Aksi
+<a name="aksi-e-flyer"></a>
+
+## 4: e-Flyer Panggilan Aksi
 
 Please Click for higher resolution.
 
 [![Seruan Aksi GAK][image-aksi]][hires-aksi]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 200mm, tinggi 150mm.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-03-aksi-flyer.svg.gz][dotfiles-aksi]
 
@@ -99,15 +137,17 @@ Please Click for higher resolution.
 
 -- -- --
 
-### Hari Jadi: Backdrop 15x2
+<a name="hari-jadi-backdrop"></a>
+
+## 5: Hari Jadi: Backdrop 15x2
 
 ![Backdrop Ulang Tahun Perdana GAK][image-seminar]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 300mm, tinggi 200mm.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-04-seminar-backdrop.svg.gz][dotfiles-seminar]
 
@@ -115,15 +155,17 @@ Please Click for higher resolution.
 
 -- -- --
 
-### Hari Jadi: E-flyer Ucapan Terimakasih.
+<a name="hari-jadi-terimakasih"></a>
+
+## 6: Hari Jadi: E-flyer Ucapan Terimakasih.
 
 ![Foto Ulang Tahun Perdana GAK][image-thanks-2]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 300mm, tinggi 300mm.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../gak-05-seminar-terimakasih.svg.gz][dotfiles-thanks-2]
 
@@ -131,13 +173,15 @@ Please Click for higher resolution.
 
 -- -- --
 
-### Woro-Woro
+<a name="woro-woro"></a>
+
+## 7: Woro-Woro
 
 Suatu seruan memerlukan pengumuman yang anggun.
 
 ![Seruan Aksi Bongkar e-KTP][image-seruan-aksi]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../seruan-aksi-bongkar-ektp.zip][dotfiles-seruan-aksi]
 
@@ -145,17 +189,19 @@ Suatu seruan memerlukan pengumuman yang anggun.
 
 -- -- --
 
-### Ucapan Terimakasih
+<a name="ucapan-terimakasih"></a>
+
+## 8: Ucapan Terimakasih
 
 Selalu ucapkan terimakasih di setiap kegiatan.
 
 ![Ucapan Terimakasih][image-terima-kasih]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../terima-kasih.svg][dotfiles-terima-kasih]
 
-#### Logo Overlay
+### Logo Overlay
 
 Mengenai cara pembikinan logo overlay dapat dilihat di sini:
 
@@ -163,7 +209,9 @@ Mengenai cara pembikinan logo overlay dapat dilihat di sini:
 
 -- -- --
 
-### Fotografi
+<a name="fotografi"></a>
+
+## 9: Fotografi
 
 Tidak semua harus kelihatan wah,
 terkadang foto sederhana lebih mengena.
@@ -172,7 +220,9 @@ terkadang foto sederhana lebih mengena.
 
 -- -- --
 
-### Pemirsa
+<a name="pemirsa"></a>
+
+## 10: Pemirsa
 
 Terkadang penulis harus membuat dua versi pengumuman.
 Tergantung `audience` permisa yang dituju.
@@ -188,7 +238,9 @@ Misalnya:
 
 -- -- --
 
-### Sejarah
+<a name="sejarah"></a>
+
+## 11: Sejarah
 
 > Di awal, ya culun-lah.
 
@@ -208,6 +260,10 @@ Atau versi kecil yang lebih mudah dilihat di social media.
 Desain-nya jelek khaaaaan.....
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sekian. Sampai jumpa.
 

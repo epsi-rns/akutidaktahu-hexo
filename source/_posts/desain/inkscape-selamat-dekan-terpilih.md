@@ -8,7 +8,9 @@ keywords  : [ucapan selamat, dekan terpilih]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Tidak ada rancangan khusus di dalam artikel ini.
 Kebetulan saja saya pernah membikin ucapan selamat ini,
@@ -18,25 +20,25 @@ Untuk ILUNI-FTUI-nya sendiri,
 sudah punya desain yang lebih bagus,
 yang sudah dipakai untuk ucapan selamat sehari-hari.
 
-#### Hasil Akhir
+### Hasil Akhir
 
 Silahkan di-klik untuk melihat gambar yang lebih besar dengan resolusi tinggi.
 
 [![Selamat Bertugas Pak Dekan!][image-selamat-pakde-s]][image-selamat-pakde]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Sohib dapat langsung mengunduh di sini.
 
 * [akutidaktahu.netlify.app/.../selamat-bertugas.svg][source-dekan-terpilih]
 
-#### DeviantArt
+### DeviantArt
 
 Source gambar dapat juga diambil di DeviantArt:
 
 * [nurwijayadi.deviantart.com/art/...][deviant-dekan-terpilih]
 
-#### Latar Belakang
+### Latar Belakang
 
 Latar belakang background juga dibikin dengan inkscape.
 Saya hanya mengganti warna dan bentuknya.
@@ -48,7 +50,7 @@ Sohib pembaca juga dapat dengan bebas memakai,
 dan juga bebas mengganti warna dan bentuknya,
 supaya sesuai dengan tema kampus.
 
-#### GIMP: Gambar Di Dalam Kotak
+### GIMP: Gambar Di Dalam Kotak
 
 Bagaimana gambar di dalam kotak ini dapat dibikin?
 Yang atas ada di belakang, dan yang bawah ada di depan.
@@ -75,6 +77,10 @@ Maka hasil akhirnya begini:
 Sekian.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Selamat Bertugas Pak Dekan!
 

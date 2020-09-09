@@ -8,7 +8,9 @@ keywords  : [logo, perangko]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Logo dengan hiasan perangko di pinggir dapat membuat aksen,
 yang menarique cantique di poster yang kita bikin.
@@ -16,14 +18,30 @@ yang menarique cantique di poster yang kita bikin.
 Penulis juga menambahkan bayangan `shadow` di bawah logo,
 dengan menggunakan fitur `envelope path effects`.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Padz Jambon](#padz-jambon)
+
+* 2: [ILUNI FTUI](#iluni-ftui)
+
+* 3: [Sampul Gudang Gambar](#cover)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
 
 * [Inkscape: Logo with Stamp Ornament][english-version]
 
-#### Padz Jambon
+-- -- --
+
+<a name="padz-jambon"></a>
+
+## 1: Padz Jambon
 
 Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
@@ -35,7 +53,11 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 ![Padz Jambon][image-ss-pink-padz]
 
-### ILUNI FTUI
+-- -- --
+
+<a name="iluni-ftui"></a>
+
+## 2: ILUNI FTUI
 
 **Berkas Sumber SVG**:
 
@@ -45,13 +67,15 @@ Logo Padmanaba Berwarna Jambon (Merah Jambu)
 
 ![ILUNI Teknik][image-ss-iluni-ftui]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1200px.
 
 -- -- --
 
-### Sampul Gudang Gambar
+<a name="cover"></a>
+
+## 3: Sampul Gudang Gambar
 
 Penulis juga membuat sampul untuk gudang gambar `stock images`.
 
@@ -66,6 +90,10 @@ Penulis juga membuat sampul untuk gudang gambar `stock images`.
 Silahkan berkreasi sebebas-bebas-nya.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Ya sudah. Itu saja. Namanya juga baru belajar.
 

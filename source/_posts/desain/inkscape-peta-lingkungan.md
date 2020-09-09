@@ -8,7 +8,9 @@ keywords  : [RT/RW, Rukun Warga, Rukun Tetangga]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Inkscape bukan saja dipakai untuk membuat
 sesuatu karya seni yang cantique,
@@ -21,7 +23,25 @@ mengenai penggunaan __inkscape__ untuk sehari-hari,
 karena aku bisanya cuma itu... hehehe 🤦🏻‍♂️.
 Aku belum bisa bikin karya yang cantique menarique.
 
-#### Musrenbang
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* 1: [Persiapan](#persiapan)
+
+* 2: [Langkah Demi Langkah](#langkah)
+
+* 3: [Revisi](#revisi)
+
+* [Penutup](#penutup)
+
+-- -- --
+
+<a name="persiapan"></a>
+
+## 1: Persiapan
+
+### Musrenbang
 
 Semenjak tahun 2018,
 saya menjadi pendamping RW (rukun warga) di musrenbang DKI.
@@ -49,14 +69,14 @@ Dapat ditambahkan lokasi lampu jalan mana saja remang-remang,
 atau keterangan saluran air mana saja yang banjir.
 Pokoke RW in lebih siap akhir tahun ini.
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Monggo (kang)mas. Mangga a(kang). Silahkan tu(kang).
 Langsung saja unduh di sini.
 
 * [akutidaktahu.netlify.app/.../rw-06.svg][source-svg]
 
-#### Acuan
+### Acuan
 
 Ya guglemap dunk...
 Mosok mau kek jaman bahuela, ngukur jalan pakai meteran?
@@ -73,7 +93,7 @@ Kalo nanti kurang, khan bisa ditambahin ukurannya.
 
 > Gampang toh.
 
-#### Alternatif
+### Alternatif
 
 Ada cara lain selain yang diungkap di artikel ini,
 yaitu unduh SVG dari `openstreemap`.
@@ -83,7 +103,13 @@ Lebih rinci. Silahkan dicoba sendiri. Bagus koq.
 
 Sayangnya SVG tersebut tidak dipisahkan berdasarkan lapisan `layer`.
 
-#### Sketsa Jalan
+-- -- --
+
+<a name="langkah"></a>
+
+## 2: Langkah Demi Langkah
+
+### Sketsa Jalan
 
 Hayuk kita bikin lapisan `layer` nya dulu,
 lalu kita bikin jalan, kali sungai, berikut taman atau jalur hijau.
@@ -99,7 +125,7 @@ Ntar khan bisa diperbaiki
 
 Jangan lupa, nama jalan ditaruh di lapisan layer yang berbeda.
 
-#### Lahan Warga
+### Lahan Warga
 
 Ada beberapa tahap.
 
@@ -127,13 +153,13 @@ Ada beberapa tahap.
 
 Sekarang sohib sudah punya peta yang sederhana
 
-#### Lapisan Layer
+### Lapisan Layer
 
 Sejauh ini kita sudah punya lapisan `layer` yang cukup banyak.
 
 ![Peta RW: Lapisan Layer Awal][image-lapisan-04]
 
-#### Menghias
+### Menghias
 
 Nah ini, baru inkscape-nya terpakai.
 
@@ -154,7 +180,11 @@ Tampak khan bedanyaaaa...
 Nah sekarang, waktunya pamer ke pak RW,
 sambil menunggu revisi.
 
-#### Revisi
+-- -- --
+
+<a name="revisi"></a>
+
+## 3: Revisi
 
 Ternyata memang revisi sih.
 Nama jalan yang diberikan google, ada yang tidak sesuai.
@@ -172,7 +202,7 @@ Lebarnya saja diubah.
 
 Jangan lupa lokasi kantor baru RW yacc.
 
-#### Alternatif
+### Alternatif
 
 > Sudah jadi.
 
@@ -194,7 +224,13 @@ dengan warna kesukaan yang bikin. Hehe...
 
 ![Peta RW: Warna Kesukaan][image-kesukaan]
 
-#### Lingkungan Sohib
+-- -- --
+
+<a name="penutup"></a>
+
+## Penutup
+
+### Lingkungan Sohib
 
 > Bagaimana Lingkungan Sohib?
 
@@ -204,7 +240,7 @@ Terserah saja, yang penting sohib berbuat sesuatu,
 ke lingkungan setempat.
 Dan bentuknya tidak harus menggambar peta.
 
--- -- --
+### Sampai Jumpa
 
 Itu saja yacc sohib. Sampai jumpaaaaa...
 

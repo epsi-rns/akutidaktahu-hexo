@@ -8,7 +8,9 @@ keywords  : [logo, perangko, woro woro]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Penulis suka membantu komunitas setempat.
 Berbagi sudah menjadi kebiasaan.
@@ -19,7 +21,21 @@ Dari bentuk dasar hiasan pinggir berupa perangko,
 desain ini menjadi serbaguna namun unik.
 Desain spesial pakai telor untuk kegiatan pembaca.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Bahan Ajar](#bahan-ajar)
+* [Kegunaan](#kegunaan)
+* [Rancangan](#rancangan)
+* 1: [Poster Kegiatan: e-flyer](#poster)
+* 2: [Sampul Buku: Executive Summary](#sampul)
+* 3: [Pengumuman Pasca Kegiatan](#pengumuman)
+* 4: [Sertifikat (Gambar Digital)](#sertifikat)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -28,10 +44,12 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Bahan Ajar
+<a name="bahan-ajar"></a>
+
+## Bahan Ajar
 
 Pembaca yang ingin tahu bagaimana cara untuk,
-membuat pinggiran beruapa hiasa perangko,
+membuat pinggiran berupa hiasa perangko,
 maka pembaca dapat menjenguk artikel menari di tautan berikut di bawah.
 
 * <http://howto.nicubunu.ro/inkscape_postage_stamps/>
@@ -42,7 +60,9 @@ untuk me-reka ulang hiasan pinggiran perangko.
 
 -- -- -
 
-### Kegunaan
+<a name="kegunaan"></a>
+
+## Kegunaan
 
 Pembaca dapat menggunakan desain ini untuk
 
@@ -55,9 +75,11 @@ Pembaca dapat menggunakan desain ini untuk
 
 -- -- --
 
-### Rancangan
+<a name="rancangan"></a>
 
-#### Tata Huruf
+## Rancangan
+
+### Tata Huruf
 
 Sebagaimana biasanya, penulis menggunakan `free font`,
 dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
@@ -70,19 +92,21 @@ Penulis menaruh tiap-tiap bagian di lapisan `layer` tersendiri.
 Supaya siapapun yang memakai dapat dengan mudah,
 mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1200px
 
 -- -- --
 
-### Poster Kegiatan: e-flyer
+<a name="poster"></a>
+
+## 1: Poster Kegiatan: e-flyer
 
 ![INCAFO: Diskusi Galangan][image-incafo-diskusi]
 
 ![Energi: Diskusi Renewable][image-energi-diskusi]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../incafo-galangan-diskusi.svg.gz][dotfiles-incafo-diskusi]
 
@@ -96,11 +120,13 @@ mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
 -- -- --
 
-### Sampul Buku: Executive Summary
+<a name="sampul"></a>
+
+## 2: Sampul Buku: Executive Summary
 
 ![INCAFO: Executive Summary][image-incafo-summary]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
 
@@ -112,7 +138,9 @@ sebagaimana ditampilkan di bawah.
 
 -- -- --
 
-### Pengumuman Pasca Kegiatan
+<a name="pengumuman"></a>
+
+## 3: Pengumuman Pasca Kegiatan
 
 Penulis selalu mengucapkan terimakasih kepada para hadirin ataupun,
 peserta kegiatan
@@ -121,7 +149,7 @@ peserta kegiatan
 
 ![Energi: Ucapan Terimakasih][image-energi-thanks]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../incafo-galangan-ucapan-terima-kasih.svg.gz][dotfiles-incafo-thanks]
 
@@ -133,7 +161,9 @@ peserta kegiatan
 
 -- -- --
 
-## Sertifikat (Gambar Digital)
+<a name="sertifikat"></a>
+
+## 4: Sertifikat (Gambar Digital)
 
 Pembaca juga dapat mengucapkan terimakasih kepada pantia kegiatan!
 
@@ -141,7 +171,7 @@ Pembaca juga dapat mengucapkan terimakasih kepada pantia kegiatan!
 
 ![Energi: e-Piagam Terimakasih][image-energi-piagam]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../stamp-sertifikat-piagam.svg.gz][dotfiles-incafo-piagam]
 
@@ -154,6 +184,10 @@ Pembaca juga dapat mengucapkan terimakasih kepada pantia kegiatan!
 SVG ini menggunakan fonta bernama 'Bird of Paradise'.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Hanya itu, untuk sementara ini.
 Hadeuh... malu sayah.

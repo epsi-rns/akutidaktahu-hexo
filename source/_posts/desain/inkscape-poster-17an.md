@@ -7,11 +7,13 @@ category  : [desain, kartu]
 toc       : "toc/2015-inkscape-keseharian"
 ---
 
+<a name="prakata"></a>
+
 Setelah berulangkali membuat kartu untuk orang lain.
 Sesekali saya ingin memakai karya,
 yang saya bikin untuk orang lain tersebut, untuk diri saya sendiri.
 
-### Gambar Poster
+## Gambar Poster
 
 Maka jadilah tampilan ini.
 
@@ -21,7 +23,7 @@ Semua saya usahakan sesuai pedoman yang dikeluarkan mensesneg.
 
 * [Pedoman Visual Penggunaan][panduan-mensesneg]
 
-### Source Gambar
+## Source Gambar
 
 Berkas gambar dalam format SVG yang dapat di-edit sendiri
 untuk keperluan kantor atau pribadi tersedia di:
@@ -38,7 +40,7 @@ karena kartu ini saya bikin khusus untuk pesanan.
 Bagaimanapun, sebagian besar sudah ada di dalam berkas `.svg` ini,
 siap untuk dipakai.
 
-### Lapisan Layer
+## Lapisan Layer
 
 Saya suka bekerja dengan `layer`.
 Berikut lapisan `layer` yang saya bikin,
@@ -46,7 +48,7 @@ di dalam berkas vektor tersebut di atas:
 
 ![Inkscape: Lapisan Layers: Kartu Ucapan][lapisan-merdeka]
 
-### Gambar Whatsapp
+## Gambar Whatsapp
 
 Berikut untuk profile picture whatsapp atau telegram atau yang lain,
 maka ada betnuk bulat di tengah sebagai panduan.
@@ -55,7 +57,7 @@ maka ada betnuk bulat di tengah sebagai panduan.
 
 Kalau tidak suka dengan lingkarannya dapat dihapus.
 
-### Source Gambar
+## Source Gambar
 
 Berkas gambar dalam format SVG yang dapat di-edit sendiri
 untuk keperluan kantor atau pribadi tersedia di:

@@ -8,7 +8,9 @@ keywords  : [logo, makara UI, perangko, ILUNI UI]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Tahun demi tahun sudah berlalu,
 rancangan ini sudah ketinggalan zaman,
@@ -17,7 +19,24 @@ yang diberlakukan untuk logo kealumnian.
 
 Bagaimanapun, konsep ini dapat dipakai oleh kealumnian yang lain.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+* [Pengelompokan Komunitas Alumni](#pengelompokan)
+* [Rancangan](#rancangan)
+
+* 1: [ILUNI Pusat](#iluni-pusat)
+* 2: [ILUNI Fakultas](#iluni-fakultas)
+* 3: [ILUNI Departemen](#iluni-departemen)
+* 4: [ILUNI Program Studi](#iluni-program-studi)
+* 5: [ILUNI Wilayah](#iluni-wilayah)
+* 6: [Gerakan Anti Korupsi Lintas Alumni](#gakla)
+* 7: [Perangko Hitam Alumni](#hitam)
+* 8: [Perangko Putih Alumni](#putih)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -26,7 +45,9 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Pengelompokan Komunitas Alumni
+<a name="pengelompokan"></a>
+
+## Pengelompokan Komunitas Alumni
 
 Di samping komunitas alumni yang utama,
 dalam benak penulis ada dua bagian alumni
@@ -60,25 +81,27 @@ Selamat menikmati sajian konsep logo.
 
 -- -- --
 
-### Rancangan
+<a name="rancangan"></a>
+
+## Rancangan
 
 Dirancang begitu sederhana, sehingga tidak perlu menaruh,
 tiap-tiap bagian di lapisan `layer` masing-masing.
 Bagaimanapun, pembaca dapat dengan mudah merubah warna,
 atau menambahkan pola `pattern` sendiri.
 
-#### Tata Huruf
+### Tata Huruf
 
 Sebagaimana biasanya, penulis menggunakan `free font`,
 dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
 
 * `Trajan Pro`, Trajan adalah fonta baku di kampus penulis.
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 1200px, tinggi 1200px
 
-#### Daftar Logo Tidak Resmi
+### Daftar Logo Tidak Resmi
 
 Masing-masing memiliki lima alternatif logo
 
@@ -102,24 +125,27 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### ILUNI Pusat
+<a name="iluni-pusat"></a>
+
+## 1: ILUNI Pusat
 
 ![Logo: ILUNI Pusat][image-pusat]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-iluni-ui-01-pusat.svg.gz][dotfiles-pusat]
-
 
 * [nurwijayadi.deviantart.com/art/...][deviant-pusat]
 
 -- -- --
 
-### ILUNI Fakultas
+<a name="iluni-fakultas"></a>
+
+## 2: ILUNI Fakultas
 
 ![Logo: ILUNI Fakultas][image-fakultas]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-iluni-ui-02-fakultas.svg.gz][dotfiles-fakultas]
 
@@ -127,11 +153,13 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### ILUNI Departemen
+<a name="iluni-departemen"></a>
+
+## 3: ILUNI Departemen
 
 ![Logo: ILUNI Departemen][image-departemen]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-iluni-ui-03-departemen.svg.gz][dotfiles-departemen]
 
@@ -139,11 +167,13 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### ILUNI Program Studi
+<a name="iluni-program-studi"></a>
+
+## 4: ILUNI Program Studi
 
 ![Logo: ILUNI Program Studi][image-prodi]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-iluni-ui-04-program-studi.svg.gz][dotfiles-prodi]
 
@@ -151,11 +181,13 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### ILUNI Wilayah
+<a name="iluni-wilayah"></a>
+
+## 5: ILUNI Wilayah
 
 ![Logo: ILUNI Wilayah][image-wilayah]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-iluni-ui-05-wilayah.svg.gz][dotfiles-wilayah]
 
@@ -163,11 +195,13 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### Gerakan Anti Korupsi Lintas Alumni
+<a name="gakla"></a>
+
+## 6: Gerakan Anti Korupsi Lintas Alumni
 
 ![Logo: Gerakan Anti Korupsi][image-gak]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../logo-gak-non-standar.svg.gz][dotfiles-gak]
 
@@ -175,11 +209,13 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### Perangko Hitam Alumni
+<a name="hitam"></a>
+
+## 7: Perangko Hitam Alumni
 
 ![Perangko Hitam Alumni][image-hitam]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../perangko-iluni-01-black.svg.gz][dotfiles-hitam]
 
@@ -187,17 +223,23 @@ Masing-masing memiliki lima alternatif logo
 
 -- -- --
 
-### Perangko Putih Alumni
+<a name="putih"></a>
+
+## 8: Perangko Putih Alumni
 
 ![Perangko Putih Alumni][image-putih]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../perangko-iluni-02-white.svg.gz][dotfiles-putih]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-putih]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Sementara hanya itu, yang dapat penulis bagikan.
 Sampai jumpa di waktu yang lebih baik.

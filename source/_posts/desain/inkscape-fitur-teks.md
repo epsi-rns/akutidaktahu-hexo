@@ -8,7 +8,9 @@ keywords  : [text feature]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Inkscape memiliki banyak fitur.
 Fitur teks ini sangat sederhana.
@@ -22,13 +24,24 @@ Untuk rincian lebih lanjut, pembaca dapat membaca ini terlebih dahulu.
 
 * <https://design.tutsplus.com/tutorials/kerning-spacing-and-other-text-tricks-in-inkscape--cms-20576>
 
-Pembaca dapat memilih untuk mengabaikan keseluruhan tutoria tak berguna ini,
+Pembaca dapat memilih untuk mengabaikan keseluruhan tutorial tak berguna ini,
 dan langsung saja mengunduh sumber image dalam bentuk SVG.
 Penulis tidak berkeberatan
 
 * [akutidaktahu/.../dukungan-pribadi-01.svg.zip][dotfiles-sample-3]
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Teks: Shift dan Rotation](#teks)
+* 1: [Contoh 1: UU Kemaritiman?](#contoh-satu)
+* 2: [Contoh 2: Penegakan Hukum](#contoh-dua)
+* 3: [Contoh 3: Lebih lanjut dari Contoh 2](#contoh-tiga)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -37,11 +50,13 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Teks: Shift dan Rotation
+<a name="teks"></a>
+
+## Teks: Shift dan Rotation
 
 Suatu contoh sederhana.
 
-#### Langkah Pertama
+### Langkah Pertama
 
 * Buatlah berkas inkscape baru, dengan lebar 200px, dan tinng 200px.
 
@@ -60,7 +75,7 @@ Kil ganda teks `abc` di atas, maka akan tampak toolbar.
 
 ![Rotation Toolbar One][image-toolbar-1]
 
-#### Tahap Kedua
+### Tahap Kedua
 
 Klik ganda text `abc`.
 Dan soroti `highlight` karakter `b`.
@@ -76,7 +91,7 @@ Hasilnya akan berubah seketika.
 
 ![Rotation Step Two][image-text-2]
 
-#### Tahap Ketiga
+### Tahap Ketiga
 
 Klik ganda text `abc`.
 Dan soroti `highlight` karakter `c`.
@@ -95,26 +110,30 @@ Pembaca dapat melihat hasil akhirnya.
 Simpan berkas, bilamana perlu.
 Atau silahkan unduh SVG di bawah:
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../text-feature.svg][dotfiles-sample-0]
 
 -- -- --
 
-### Contoh 1: UU Kemaritiman?
+<a name="contoh-satu"></a>
+
+## Contoh 1: UU Kemaritiman?
 
 Ini berkas lawas dari e-Flyer yang benar saya sebarkan di tahun 2014.
 Terlalu sederhana untuk di dikoumentasikan.
 
 ![UU Kemaritiman ?][image-sample-1]
 
-#### DeviantArt
+### DeviantArt
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sample-1]
 
 -- -- --
 
-### Sample 2: Penegakan Hukum
+<a name="contoh-dua"></a>
+
+## Contoh 2: Penegakan Hukum
 
 Kalau yang ini cenderung ke konsep,
 dan secara praktis sebetulnya kurang berguna.
@@ -128,11 +147,11 @@ Sesederhana itu.
 
 ![Penegakan Hukum][image-sample-2]
 
-#### Properti Berkas
+### Properti Berkas
 
 **Ukuran**: lebar 500px, tinggi 600px
 
-#### Tata Huruf
+### Tata Huruf
 
 Semua menggunakan font yang bebas diunduh.
 
@@ -142,11 +161,11 @@ Semua menggunakan font yang bebas diunduh.
 
 * Oswald <https://fonts.google.com/specimen/Oswald>
 
-#### Efek Filter
+### Efek Filter
 
 * Drop Down Shadow: Color: black (#000000), Opacity: 0.5, Blur: 10px, Offset-X: 20, Offset-Y: 20
 
-#### Warna
+### Warna
 
 Awalnya penulis memakai palet dari `google material design`.
 Namun kemudian penulis berniat memakai warna `maroon` saja,
@@ -155,13 +174,15 @@ dengan mengubah bagian warna merah dari RGB, menjadi setngah dari nilai awalnya.
 Ada juga gradien radial kelabu, dari tengah (#ffffffff),
 ke luar (#c8c8c8ff). Ini tampak lebih bagus dari sekedar putih saja.
 
-#### DeviantArt
+### DeviantArt
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sample-2]
 
 -- -- --
 
-### Contoh 3: Lebih lanjut dari Contoh 2
+<a name="contoh-tiga"></a>
+
+## Contoh 3: Lebih lanjut dari Contoh 2
 
 Seperti telah dijanjikan, pemirsa di sini tidak akan pergi sia-sia,
 tanpa SVG template yang dapat diunduh.
@@ -181,11 +202,11 @@ sudah cukup yakin untuk menyetujui rancangan desain ini.
 
 ![Penegakan Hukum][image-sample-3]
 
-#### Rancangan
+### Rancangan
 
 Berkas inkscape ini mewarisi semua properti dari contoh sebelunya.
 
-#### Efek Filter
+### Efek Filter
 
 Penulis menginginkan teks identitas supaya kecil.
 Ditaruh di bawah teks utama.
@@ -193,11 +214,11 @@ Ditaruh di bawah teks utama.
 
 * Drop Down Shadow: Color: black (#000000), Opacity: 0.5, Blur: 3px, Offs.et-X: 5, Offset-Y: 5
 
-#### DeviantArt
+### DeviantArt
 
 * [nurwijayadi.deviantart.com/art/...][deviant-sample-3]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 Bilamana pembaca meng-klik gambar SVG ini dibrowser,
 dan kemudian fonta-nya terlihat aneh,
@@ -208,6 +229,10 @@ maka pembaca harus mengunduh fonta yang tepat, dan menempatkannya di dalam siste
 Supaya aman, penulis kompres saja berkas tersebut.
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Begitu saja ya bang.
 Saya juga tidak paham nih.

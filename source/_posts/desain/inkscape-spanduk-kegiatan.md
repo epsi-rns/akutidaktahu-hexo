@@ -8,7 +8,9 @@ keywords  : [spanduk, cetak, ILUNI FTUI]
 toc       : "toc/2015-inkscape-alumni"
 ---
 
-### Prakata
+<a name="prakata"></a>
+
+## Prakata
 
 Abang-abang dan kakak-kakak,
 membutuhkan spanduk untuk kegiatan?
@@ -28,7 +30,22 @@ Bukan desain yang luar biasa bagus,
 namun cukup untuk dapat dipakai,
 untuk keperluan dasar sehari-hari.
 
-#### Bahasa Inggris
+### Daftar Isi
+
+* [Prakata](#prakata): Daftar Isi
+
+* [Rancangan](#rancangan)
+* 1: [Wall of Fame: 4m x 3m](#wall-of-fame)
+* 2: [Banner: 6m x 5m](#banner-6-5)
+* 3: [Banner: 12m x 5m](#banner-12-5)
+* 4: [Spanduk: 5m x 2m](#spanduk-5-2)
+* 5: [Backdrop: 10m x 2m](#backdrop-10-2)
+* 6: [Highway Banner: 2m x 20m](#highway-2-20)
+* 7: [Umbul-Umbul: 90cm x 300cm](#umbul-umbul)
+
+* [Penutup](#penutup)
+
+### Bahasa Inggris
 
 Artikel ini juga disajikan di blog penulis yang lain,
 dalam bahasa Inggris:
@@ -37,13 +54,15 @@ dalam bahasa Inggris:
 
 -- -- --
 
-### Rancangan
+<a name="rancangan"></a>
+
+## Rancangan
 
 Penulis menaruh tiap-tiap bagian di lapisan `layer` tersendiri.
 Supaya siapapun yang memakai dapat dengan mudah,
 mengganti sendiri, baik warna maupun pola `pattern`-nya.
 
-#### Tata Huruf
+### Tata Huruf
 
 Sebagaimana biasanya, penulis menggunakan `free font`,
 dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
@@ -54,7 +73,7 @@ dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
 
 * Droid Sans <https://www.fontsquirrel.com/fonts/droid-sans>
 
-#### Rasio Ukuran/ Properti Berkas
+### Rasio Ukuran/ Properti Berkas
 
 * Wall of Fame: 4m x 3m <br>: lebar 1200px, tinggi 900px
 
@@ -70,7 +89,7 @@ dengan izin lisensi yang dapat dipakai secara bebas oleh orang lain.
 
 * Umbul-umbul: 90cm x 300cm <br>: lebar 300px, 1000px
 
-#### Peringatan
+### Peringatan
 
 Percetakan menggunakan CMYK, alih-alih RGB.
 Sesuaikan dahulu warna CMYK,
@@ -79,13 +98,15 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-### Wall of Fame: 4m x 3m
+<a name="wall-of-fame"></a>
+
+## 1: Wall of Fame: 4m x 3m
 
 ![Desain Munas: Wall of Fame: 4m x 3m][image-wof]
 
 ![Foto Munas: Wall of Fame: 4m x 3m][photo-wof]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-01-wall-of-fame-4x3.svg.gz][dotfiles-wof]
 
@@ -93,13 +114,15 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-### Banner: 6m x 5m
+<a name="banner-6-5"></a>
+
+## 2: Banner: 6m x 5m
 
 ![Desain Munas: Banner: 6m x 5m][image-banner-1]
 
 ![Foto Munas: Banner: 6m x 5m][photo-banner-1]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-02-banner-6x5.svg.gz][dotfiles-banner-1]
 
@@ -107,13 +130,15 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-### Banner: 12m x 5m
+<a name="banner-12-5"></a>
+
+## 3: Banner: 12m x 5m
 
 ![Desain Munas: Banner: 12m x 5m][image-banner-2]
 
 ![Foto Munas: Banner: 12m x 5m][photo-banner-2]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-03-banner-12x5.svg.gz][dotfiles-banner-2]
 
@@ -121,11 +146,13 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-## Spanduk: 5m x 2m
+<a name="spanduk-5-2"></a>
+
+## 4: Spanduk: 5m x 2m
 
 ![Desain Munas: Spanduk: 5m x 2m][image-spanduk]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-04-spanduk-5x2.svg.gz][dotfiles-spanduk]
 
@@ -133,13 +160,15 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-### Backdrop: 10m x 2m
+<a name="backdrop-10-2"></a>
+
+## 5: Backdrop: 10m x 2m
 
 ![Desain Munas: Backdrop: 10m x 2m][image-backdrop]
 
 ![Foto Munas: Backdrop: 10m x 2m][photo-backdrop]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-05-backdrop-10x2.svg.gz][dotfiles-backdrop]
 
@@ -147,7 +176,9 @@ Bila tidak bisa saja didapatkan hasil warna cetak yang lebih gelap.
 
 -- -- --
 
-### Highway Banner: 2m x 20m
+<a name="highway-2-20"></a>
+
+## 6: Highway Banner: 2m x 20m
 
 Ini untuk ditaruh di jalan toll.
 
@@ -161,19 +192,25 @@ Ini untuk ditaruh di jalan toll.
 
 -- -- --
 
-### Umbul-Umbul: 90cm x 300cm
+<a name="umbul-umbul"></a>
+
+## 7: Umbul-Umbul: 90cm x 300cm
 
 ![Desain Munas: Umbul-Umbul: 90cm x 300cm][image-umbul2]
 
 ![Foto Munas: Umbul-Umbul: 90cm x 300cm][photo-umbul2]
 
-#### Berkas Sumber SVG
+### Berkas Sumber SVG
 
 * [akutidaktahu.netlify.app/.../munas-07-umbul2-90x300.svg.gz][dotfiles-umbul2]
 
 * [nurwijayadi.deviantart.com/art/...][deviant-umbul2]
 
 -- -- --
+
+<a name="penutup"></a>
+
+## Penutup
 
 Itu saja bang.
 Semoga bermanfaat.
