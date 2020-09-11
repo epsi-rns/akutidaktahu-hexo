@@ -16,7 +16,9 @@ Digitalisasi Silsilah Leluhur Kalioso.
 ### Daftar Isi
 
 * [Prakata](#prakata): Daftar Isi
+
 * [Nitimenggolo](#nitimenggolo)
+* [Diagram Lengkap](#lengkap)
 
 * A01: [Somenggolo I](#A01)
 * A02: [Kartotaruno](#A02)
@@ -133,6 +135,16 @@ Digitalisasi Silsilah Leluhur Kalioso.
     ├── Anak: 45 B10 ♀ H. Iskak
     └── Anak: 46 B11 ♂ Kasan Sengodjo
 {% endcodeblock %}
+
+-- -- --
+
+<a name="lengkap"></a>
+
+## Diagram Lengkap
+
+Klik untuk melihat resolusi secukupnya.
+
+[![Diagram Silsilah: Nitimenggolo Lengkap][lengkap-small]][lengkap]
 
 -- -- --
 
@@ -596,6 +608,10 @@ Silahkan melanjutkan ke berkas silsilah berikutnya.
 [//]: <> ( -- -- -- links below -- -- -- )
 
 [nitimenggolo]: /posts/silsilah/nitimenggolo/nitimenggolo-colour.png
+[lengkap]:      /posts/silsilah/nitimenggolo/nitimenggolo-lengkap-colour.png
+[lengkap-small]:/posts/silsilah/nitimenggolo/nitimenggolo-lengkap-colour-small.png
+
+
 [A01]:  /posts/silsilah/nitimenggolo/A01-somenggolo-i-colour.png
 [A02]:  /posts/silsilah/nitimenggolo/A02-kartotaruno-colour.png
 [A03]:  /posts/silsilah/nitimenggolo/A03-abdul-djalal-i-colour.png
