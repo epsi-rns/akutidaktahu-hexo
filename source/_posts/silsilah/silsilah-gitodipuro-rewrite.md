@@ -7,6 +7,8 @@ category  : [silsilah]
 toc       : "toc/2017-silsilah"
 ---
 
+<a name="prakata"></a>
+
 ## Prakata
 
 Berkas ini ditulis ulang dari Buku,
@@ -25,7 +27,7 @@ tersedia dalam format PDF.
 
 ### Daftar Isi
 
-* Prakata
+* [Prakata](#prakata): Daftar Isi
 
 * 1: [Ringkas][ringkas]
 

@@ -7,6 +7,8 @@ category  : [silsilah]
 toc       : "toc/2017-silsilah"
 ---
 
+<a name="prakata"></a>
+
 ## Prakata
 
 ### Artikel asli
@@ -49,7 +51,7 @@ sebagai tambahan referensi untu sama-sama.
 
 ### Daftar Isi
 
-* Prakata
+* [Prakata](#prakata): Daftar Isi
 
 * 1: [Ringkas][ringkas]
 
